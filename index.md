@@ -13,7 +13,7 @@ The course structure, policies, schedule, topics, readings, etc. could change at
 
 Instructor: Jaime Derringer, [jderr@illinois.edu](mailto:jderr@illinois.edu)
 
-Class meeting times: Tuesdays 11:00 am - 12:20 pm in 32 Psychology
+Class meeting times: Tuesdays & Thursdays 11:00 am - 12:20 pm in 32 Psychology
 
 Office hour: TBD & by appointment ([email](mailto:jderr@illinois.edu)) in 419 Psychology
 
