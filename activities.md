@@ -1,4 +1,7 @@
-# Activity Descriptions
+---
+title: UIUC Psyc 408, Human Behavior Genetics, Fall 2019
+author: Jaime Lane Derringer, Ph.D.
+---
 
 A summary of graded and in-class participation activities for Psyc 408 Human Behavior Genetics.
 
@@ -26,14 +29,13 @@ A summary of graded and in-class participation activities for Psyc 408 Human Beh
 
 ## <a id="citation-quickdraw"></a> Citation quickdraw
 
-Thursday: In groups of 6, find a citation for "[gwas|heritability] of [phenotype]."
-Report sample size and major finding. Largest & newest wins the point. Tie goes to most highly cited.
+In groups of 6, find a citation for a specified effect or study type. Locate the sample size and major finding. Largest & newest wins the point. Tie goes to most highly cited.
 
 ## <a id="draft-bibliography"></a> Draft bibliography
 
 Select a topic for your term paper and find 5 references. Pick something you're interested in!
 
-Use APA format for the references. The [Purdue OWL website](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/reference_list_author_authors.html) provides a handy & comprehensive guide for APA formatting. If you find a reference on Google Scholar, click the image of the quotation mark to copy the APA-formatted citation.
+Use APA format for the references. The [Purdue OWL website](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/reference_list_author_authors.html) provides a handy & comprehensive guide for APA formatting. If you find a reference on [Google Scholar](https://scholar.google.com/), click the image of the quotation mark to copy the APA-formatted citation.
 
 ## <a id="topic-roulette"></a> Topic Roulette
 
@@ -51,7 +53,7 @@ Complete an [article summary](#article-summary) for each of at least 10 referenc
 
 Find an example of popular press coverage (e.g. an online news article or blog post) of a behavior genetic research paper. 
 
-You can search general news feeds by topic, e.g. https://news.google.com/search?q=behavior+genetics. Anything that makes reference to (at least) one specific published paper will work, so that you can compare the reporting of the paper to the paper itself.
+You can search general news feeds by topic, e.g. [https://news.google.com/search?q=behavior+genetics](https://news.google.com/search?q=behavior+genetics). Anything that makes reference to (at least) one specific published paper will work, so that you can compare the reporting of the paper to the paper itself.
 
 ## <a id="draft-paper"></a> Draft paper
 
@@ -111,8 +113,9 @@ Use this structure to summarize empirical and review papers for Topic Roulette w
 **Participants:** (number, age, sex, ancestry)
 
 **Method(s):** (select all that apply)	
+
 | | | | | | |
-|-|-|-|-|-|-|
+|---|---|---|---|---|---|
 | twin/family | candidate gene | genome-wide association | polygenic score | meta-analysis | other (describe) |
 
 **Which [theme(s)](#themes-in-behavior-genetics) does the paper address?**
@@ -139,16 +142,17 @@ Use this structure to summarize empirical and review papers for Topic Roulette w
 
 These themes can be used to organize empirical and review papers. At least two themes probably apply to any given BG paper. Note if the relevance to the theme is that the paper reaches an opposite conclusion. 
 
-- [ ] Heritability is greater than zero, but less than 100%
-- [ ] Environmental effects are unique, not shared
-- [ ] Correlated outcomes reflect correlated genetic effects
-- [ ] Outcomes are polygenic
-- [ ] Heritability increases with age
-- [ ] Gene-environment correlation
-- [ ] Gene-environment interaction
+* Heritability is greater than zero, but less than 100%
+* Environmental effects are unique, not shared
+* Correlated outcomes reflect correlated genetic effects
+* Outcomes are polygenic (many genes of small effect)
+* Heritability increases with age
+* Gene-environment correlation
+* Gene-environment interaction
+* Abnormal is normal
 
 --------
 
-**Themes are a combination of topics summarized in:**
+Themes are a combination of topics summarized in:
 * Plomin, R., DeFries, J. C., Knopik, V. S., & Neiderhiser, J. M. (2016). Top 10 replicated findings from behavioral genetics. _Perspectives on psychological science_, _11_(1), 3-23.
 * Briley, D. A., Livengood, J., Derringer, J., Tucker-Drob, E. M., Fraley, R. C., & Roberts, B. W. (2019). Interpreting behavior genetic models: seven developmental processes to understand. _Behavior genetics_, _49_(2), 196-210.
