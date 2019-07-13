@@ -67,7 +67,7 @@ Assignments total 100 points. Grades are assigned based on your final point tota
 
 Attendance will be split into thirds (10% each), closed out in weeks 5 (26 Sep), 10 (31 Oct), and 15 (10 Dec). If you miss more than one day in a given third of the class, you may make-up the points by submitting ([email](mailto:jderr@illinois.edu)) a 500-word essay on the topic(s) covered within 1 week.
 
-# Term Paper (50% total grade)
+### Term Paper (50% total grade)
 
 You may choose any topic related to the course content, as long as I approve it. The final paper should be about 3,500 to 4,000 words (12 – 15 pages) for undergrads, or 4,000 to 4,500 words (15 – 18 pages) for grad students, plus references. I care more about clarity, insight, evidence, and the flow of argument than about length. Expect to read at least 10 – 20 published research papers on your topic of choice. For graduate students, plan to produce a paper that you could turn around and submit as a review in a decent journal or a book chapter. 
 
