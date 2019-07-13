@@ -1,5 +1,5 @@
 ---
-title: UIUC Psyc 408, Human Behavior Genetics, Fall 2019
+title: Psyc 408 Human Behavior Genetics
 author: Jaime Lane Derringer, Ph.D.
 ---
 
