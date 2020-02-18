@@ -4,7 +4,7 @@
 
 **What is the topic of this paper?**
 
-**Which [#themes] does the paper address?** *
+**Which (themes)[#themes] does the paper address?** *
 
 * Theme:
     * Explain how:
@@ -15,15 +15,18 @@
 * Other major topic(s)?
     * Describe:
 
-**What is your favorite table or figure? Why?**
+**What is your favorite table or figure?** 
 
-**What is the _most important_ thing we know about the topic? Why is it important?**
+**Identify main points to take away from the article:**
 
-**What is the _most surprising_ thing we know about the topic? Why is it surprising?**
-
-**What is the _biggest limitation_ of the current literature on this topic? Why is it a limitation?**
-
-**What is left that we _don't_ know about the topic? Why is it important?**
+* What is the _most important_ thing we know about the topic?
+    * Why is it important?
+* What is the _most surprising_ thing we know about the topic?
+    * Why is it surprising?
+* What is the _biggest limitation_ of the current literature on this topic? 
+    * Why is it a limitation?
+* What is left that we _don't_ know about the topic?
+    * Why is it important?
 
 # Themes
 
