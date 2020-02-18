@@ -4,9 +4,9 @@
 
 **Primary method(s):** (e.g. GWAS, twin/family study, polygenic score, candidate gene, meta-analysis)
 
-**Participants:**
+**Participants:** (include number (N), demographic characteristics, and any inclusion/exclusion criteria)
 
-**Phenotype(s):**
+**Phenotype(s):** (include operationalization - how did they measure/define the construct?)
 
 **Primary finding:**
 
