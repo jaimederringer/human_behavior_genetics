@@ -4,7 +4,7 @@
 
 **What is the topic of this paper?**
 
-**Which (themes)[#themes] does the paper address?** *
+**Which themes does the paper address? * **
 
 * Theme:
     * Explain how:
@@ -28,7 +28,7 @@
 * What is left that we _don't_ know about the topic?
     * Why is it important?
 
-# Themes
+---
 
 *Themes include those summarized in:
 
