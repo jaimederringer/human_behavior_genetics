@@ -1,4 +1,4 @@
-# Method Summary template
+# Method Summary Template
 
 ## Method Name
 
