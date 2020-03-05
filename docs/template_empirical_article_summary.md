@@ -10,7 +10,7 @@
 
 **Primary finding:**
 
-**Primary effect size:** (including metric, e.g. odds ratio (OR), regression coefficient (b), correlation (r or beta), variance explained (r^2) or heritability/environmentality (a^2, d^2, c^2, e^2); **a p-value is NOT an effect size**)</p>
+**Primary effect size:** (including metric, e.g. odds ratio (OR), regression coefficient (b), correlation (r or beta), variance explained (r^2) or heritability/environmentality (a^2, d^2, c^2, e^2); **a p-value is NOT an effect size**)
 
 **Which themes\* does the paper address?**
 
