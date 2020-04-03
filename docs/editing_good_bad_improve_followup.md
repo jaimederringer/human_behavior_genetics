@@ -1,4 +1,4 @@
-# Good, Bad, Improve, Follow-Up Activity Summary
+# Good, Bad, Improve, Follow-Up Editing Checklist
 
 These are common things you identified in Week 9 when comparing a popular press write up to its original empirical article. Use this list as a source of ideas for what to pay attention to when editing your paper.
 
