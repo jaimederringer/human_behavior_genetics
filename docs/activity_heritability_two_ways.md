@@ -10,6 +10,8 @@ You will need:
 
 You will be modifying my example code analyzing the math phenotype as an example to analyze a different phenotype of your choosing. You may want to start by running my code as-is, to confirm that you are getting the same answers I describe below, before modifying the code to analyze either the reading, grammar, or writing phenotypes for your activity answers.
 
+## Assignment Instructions
+
 **Step 1:** Open RStudio (it is a user-friendly wrapper/organizer for R, which is the base statistical software we're using).
 
 **Step 2:** In the left-side console area, paste the following code and hit enter to import the dataset from the web and save it to a dataset named 'twin_data':
@@ -18,9 +20,9 @@ You will be modifying my example code analyzing the math phenotype as an example
 twin_data = read.csv("https://ibg.colorado.edu/cdrom2020/colodro/bivariate/multiTwin.csv")
 ```
 
-    * In R, when you see something that is text followed by parentheses (eg. read.csv()), that is a function that will operate on the inputs and options specified within the parentheses. You can look up functions in the Help tab in the bottom right panel in RStudio, which will show you the available options, some examples of how to use the function, and often suggest related functions to consider.
+In R, when you see something that is text followed by parentheses (eg. read.csv()), that is a function that will operate on the inputs and options specified within the parentheses. You can look up functions in the Help tab in the bottom right panel in RStudio, which will show you the available options, some examples of how to use the function, and often suggest related functions to consider.
 
-    * Notice after running this line of code that a descriptor has appeared in the upper right corner of the screen listing twin_data under the Data header on the Environment tab, identifying 1200 obs. (observations, or rows) of 22 variables (or columns)
+Notice after running this line of code that a descriptor has appeared in the upper right corner of the screen listing twin_data under the Data header on the Environment tab, identifying 1200 obs. (observations, or rows) of 22 variables (or columns)
 
 **Step 3:** Take a look at the first few rows of the dataset to get a sense of what's in there:
 
@@ -28,16 +30,16 @@ twin_data = read.csv("https://ibg.colorado.edu/cdrom2020/colodro/bivariate/multi
 head(twin_data)
 ```
 
-    * This will print to the console area the first six lines of data plus the variable names at the top. These data are arranged so that both twins from within a family are on a single row. The 'FAMID' variable is a unique identifier for each family. The last variable, 'zyg', is the twin zygosity (here it's coded as: 1 = MZ male, 2 = MZ female, 3 = DZ male, 4 = DZ female, 5 = DZ opposite-sex where Twin 1 is male, 6 = DZ opposite sex where Twin 1 is female). Every other variable ends in either _1 or _2; this identifies which twin within the pair that variable is referring to (that is, is it a variable containing the data from Twin 1 or from Twin 2?). Here we've got information on sex (0 = female, 1 = male), age, and scores on reading, grammar, writing, and math (the variables that start with Z indicate that they have been z-scored, or scaled, so that they have a mean of 0 and a variance of 1).
+This will print to the console area the first six lines of data plus the variable names at the top. These data are arranged so that both twins from within a family are on a single row. The 'FAMID' variable is a unique identifier for each family. The last variable, 'zyg', is the twin zygosity (here it's coded as: 1 = MZ male, 2 = MZ female, 3 = DZ male, 4 = DZ female, 5 = DZ opposite-sex where Twin 1 is male, 6 = DZ opposite sex where Twin 1 is female). Every other variable ends in either _1 or _2; this identifies which twin within the pair that variable is referring to (that is, is it a variable containing the data from Twin 1 or from Twin 2?). Here we've got information on sex (0 = female, 1 = male), age, and scores on reading, grammar, writing, and math (the variables that start with Z indicate that they have been z-scored, or scaled, so that they have a mean of 0 and a variance of 1).
 
-*Step 4:* To make estimating our correlations easier, we're going to split the data into two datasets, containing (1) MZ twin pairs and (2) only same-sex DZ twin pairs.
+**Step 4:** To make estimating our correlations easier, we're going to split the data into two datasets, containing (1) MZ twin pairs and (2) only same-sex DZ twin pairs.
 
 ```
 mz_data = subset(twin_data, zyg==1|zyg==2)
 dz_data = subset(twin_data, zyg==3|zyg==4)
 ```
 
-    * The pipe (|) here means "or", so it's taking all twins with zygosity = 1 or 2 and assigning them to the mz_data dataset, and all twins with zygosity = 3 or 4 and assigning them to the dz_data dataset. Those two new datasets should now appear in your upper right side Environment list, both of which still have 22 variables, but with only 500 observations in the dz_data group and 400 observations in the mz_data group.
+The pipe (|) here means "or", so it's taking all twins with zygosity = 1 or 2 and assigning them to the mz_data dataset, and all twins with zygosity = 3 or 4 and assigning them to the dz_data dataset. Those two new datasets should now appear in your upper right side Environment list, both of which still have 22 variables, but with only 500 observations in the dz_data group and 400 observations in the mz_data group.
 
 **Step 5:** Decide which phenotype you'd like to analyze: Reading, Grammar, or Writing. DO NOT use the Math phenotype -- I use Math from here onward for the demonstration. For credit for the participation activity, you will need to MODIFY the code examples I'm providing below to reference either the Zread, or the Zgram, or the Zwrit variables (whichever you choose) instead of the Zmath variables used in the examples.
 
@@ -48,7 +50,7 @@ cor(mz_data$Zmath_1,mz_data$Zmath_2)
 cor(dz_data$Zmath_1,dz_data$Zmath_2)
 ```
 
-    * Note that the text before the $s in the above statements identifies the dataset where the data are located, and the text after the $s identified the variable name within that dataset. Take note of the numbers; you'll need them in Step 8. For the z-scored math phenotype, we get an MZ twin correlation of 0.75 (rounded to two decimal places) and a DZ twin correlation of 0.48.
+Note that the text before the $s in the above statements identifies the dataset where the data are located, and the text after the $s identified the variable name within that dataset. Take note of the numbers; you'll need them in Step 8. For the z-scored math phenotype, we get an MZ twin correlation of 0.75 (rounded to two decimal places) and a DZ twin correlation of 0.48.
 
 **Step 7:** Make a couple of graphs!
 
@@ -57,7 +59,7 @@ plot(mz_data$Zmath_1,mz_data$Zmath_2)
 plot(dz_data$Zmath_1,dz_data$Zmath_2)
 ```
 
-    * The scatterplots will appear in the bottom right panel. You can use the blue arrows at the top to move back and forth between plots you've created. The twin 1 scores are arrayed along the horizontal x-axis and the twin 2 scores are arrayed along the vertical y-axis. You can see that the MZ twin data form a straighter/tighter line than the DZ twin data, indicating a stronger correlation (that is, you'd be better at predicting Twin 2's score from Twin 1's score if they're MZ twins than if they're DZ twins).
+The scatterplots will appear in the bottom right panel. You can use the blue arrows at the top to move back and forth between plots you've created. The twin 1 scores are arrayed along the horizontal x-axis and the twin 2 scores are arrayed along the vertical y-axis. You can see that the MZ twin data form a straighter/tighter line than the DZ twin data, indicating a stronger correlation (that is, you'd be better at predicting Twin 2's score from Twin 1's score if they're MZ twins than if they're DZ twins).
 
 **Step 8:** Calculate Falconer variance components. You can either do this by putting your numbers from Step 6 into the equations (A = 2*(rMZ-rDZ); C = 2*rDZ - rMZ; E = 1 - rMZ), or by putting the correlation calculations directly into the formula, as in:
 
@@ -67,7 +69,7 @@ plot(dz_data$Zmath_1,dz_data$Zmath_2)
 1 - cor(mz_data$Zmath_1,mz_data$Zmath_2)   # E estimate
 ```
 
-    * Hint: The three numbers should add up to around 1.0 - they might not be exact, but they should be close. Here, I get A = 0.54 or 54%, C = 0.21 or 21%, and E = 0.25 or 25%. Any text that comes after a # on a line is a comment - it will not be run as code.
+Hint: The three numbers should add up to around 1.0 - they might not be exact, but they should be close. Here, I get A = 0.54 or 54%, C = 0.21 or 21%, and E = 0.25 or 25%. Any text that comes after a # on a line is a comment - it will not be run as code.
 
 **Step 9:** Install the 'umx' package (a bundle of functions).
 
@@ -92,7 +94,7 @@ You'll get a bunch of output printed to the console and a path diagram plotted i
 |Zmath_ | 0.7| 0.498| 0.512|
 ```
 
-    * Note that these numbers do NOT sum to 1.0; you'll need to square them (number^2) to transform them into the variance component (%) metric. So here, A = 0.7^2 = 49%, C = 0.498^2 = 25%, E = 0.512^2 = 26%.
+Note that these numbers do NOT sum to 1.0; you'll need to square them (number^2) to transform them into the variance component (%) metric. So here, A = 0.7^2 = 49%, C = 0.498^2 = 25%, E = 0.512^2 = 26%.
 
 ## Submission Instructions
 
