@@ -8,8 +8,7 @@
 | Are you living in the Champaign-Urbana area this semester? | No, Yes |
 | Have you had a chance to browse the Psyc 408 Moodle site?	 | No, Yes |
 | Which device(s) do you plan to use to access course materials regularly? | Desktop computer, Laptop computer, Tablet, Smartphone |
-| Do you have easy access to high quality/speed/quantity Internet service? | No
-, Yes |
+| Do you have easy access to high quality/speed/quantity Internet service? | No, Yes |
 | Have you used Perusall (a social document annotating platform) before? | No, Yes |
 | How likely are you to attend the occasional optional synchronous participation sessions via Zoom?   (This answer is NOT binding; I'm trying to estimate how popular this option will be.) | Not at all, Somewhat, Very |
 | What has been your favorite class EVER? | textarea |
