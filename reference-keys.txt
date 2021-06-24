@@ -1,3 +1,4 @@
+participation-activities-60-points
 what-we-know-and-what-we-dont
 weve-been-wrong-before
 ancestry-and-scientific-racism
@@ -14,3 +15,9 @@ digital-media-project-workshop
 genetics-at-trial
 wrap-up
 deadline-1
+participation
+genetic-engineering
+could-we
+would-we
+should-we
+popular-source-workshop
