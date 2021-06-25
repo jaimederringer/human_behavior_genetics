@@ -1,4 +1,3 @@
-participation-activities-60-points
 what-we-know-and-what-we-dont
 weve-been-wrong-before
 ancestry-and-scientific-racism
@@ -8,16 +7,9 @@ do-genes-cause-behavior-i-methods-teams
 do-genes-cause-behavior-ii-phenotype-teams
 article-summaries-workshop
 science-communication
-gattaca
+genetic-engineering
 draft-paper-workshop
 team-project-current-issues
-digital-media-project-workshop
+popular-source-workshop
 genetics-at-trial
 wrap-up
-deadline-1
-participation
-genetic-engineering
-could-we
-would-we
-should-we
-popular-source-workshop
