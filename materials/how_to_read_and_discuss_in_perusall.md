@@ -13,7 +13,7 @@ We're going to be covering a lot of material that can be very technical, esoteri
 
 ## Accessing Perusall
 
-Go to perusall.com, click Login, and then either log in using your Facebook, Twitter, or Google account, or create an account using your email address and password.
+Go to [perusall.com](https://www.perusall.com/), click Login, and then either log in using your Facebook, Twitter, or Google account, or create an account using your email address and password.
 
 Select I am a student and enter the course code (available on the course page in Canvas).
 
@@ -25,6 +25,10 @@ The main interaction you'll have on Perusall is to highlight text in a reading t
 
 You receive a point for completing the activity as long as you add 4 high-quality comments and/or questions to a single article. Perusall includes a very handy customizable auto-grading feature that has been adjusted to respond to the expectations of the course. We also manually check credits that have been assigned to see if there are particular topics that the group might benefit from more in-depth discussion of.
 
-We do not track time spent reading or the number of times you opened the file (feel free to download the pdf, read it elsewhere, and come back to add your comments/questions to the discussion). Replies to questions or comments of other students absolutely count, as long as they include some quality content (i.e. "I agree" isn't enough). [Click here to view examples of the kinds of comments you might expect to make.](https://perusall.com/hubfs/downloads/scoring-examples.pdf)
+We do not track time spent reading or the number of times you opened the file (feel free to download the pdf, read it elsewhere, and come back to add your comments/questions to the discussion). Replies to questions or comments of other students absolutely count, as long as they include some quality content (i.e. "I agree" isn't enough). [Click here to view examples of the kinds of comments you might expect to make.](https://public.perusall.com/downloads/scoring-examples.pdf)
 
 Perusall is set up so that you should be able to view feedback on your engagement with each article, including your comments and whether you've received credit. To view the status of any assignment, click on My Scores in the left-side menu. You should see a number next to each assignment you've started - if I've set it up correctly, it'll show a 0 if you've started but haven't yet earned credit, and 1 once you've met the commenting goals. Click on the number to view details about your activity and score on that article.
+
+-----
+
+Home: [Table of Contents](../index.md)
