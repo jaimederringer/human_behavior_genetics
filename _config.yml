@@ -1,68 +1,49 @@
-# Configurations
-title:            Behavior Genetics
-longtitle:        Human Behavior Genetics A Workbook
-author:           Jaime Derringer
-email:            jaimelane@gmail.com
-description: >
-  PSYC 408 at UIUC
+title: Human Behavior Genetics, A Workbook
+author: Jaime Derringer
+email: jaimelane@gmail.com
+description: > # this means to ignore newlines until "twitter_username:"
+  Open educational materials from PSYC 408 at University of Illinois Urbana-Champaign
 
-url:              'https://jaimederringer.github.io/'
-baseurl:          '/human_behavior_genetics'
-rss:              RSS
+# social links
+# twitter_username: jekyllrb
+github_username:  jaimederringer
+rss: rss
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: jekyll
+# linkedin_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: jekyll
+# googleplus_username: +jekyll
 
-# bootstrap: use the remote theme for the site itself
-remote_theme: sighingnow/jekyll-gitbook
+# Mastodon instances
+mastodon:
+ - username: geneforanarchy
+   instance: scholar.social
+# - username: jekyll2
+#   instance: example.com
 
-toc:
-  enabled: true
-  h_min:   1
-  h_max:   3
 
-# customize the link favicon in header, will be {{site.baseurl}}/{{site.favicon_path}}
-# favicon_path:     /assets/gitbook/images/favicon.ico
+show_excerpts: false # set to true to show excerpts on the homepage
 
-# markdown render engine.
-markdown:         kramdown
-kramdown:
-  auto_ids:               true
-  input:                  GFM
-  math_engine:            mathjax
-  smart_quotes:           lsquo,rsquo,ldquo,rdquo
-  toc_levels:             1..6
-  syntax_highlighter:     rouge
-  syntax_highlighter_opts:
-    guess_lang:           true
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
 
-syntax_highlighter_style: colorful
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.html
 
-markdown_ext:             markdown,mkdown,mkdn,mkd,md
-
-# Permalinks
-permalink:                /:categories/:year-:month-:day-:title:output_ext
-
-exclude:
-  - _drafts
-
-collections:
-  pages:
-    output: true
-    permalink: /:collection/:path/
-  others:
-    output: true
-    permalink: /:collection/:path/
-
-ordered_collections:
-  - posts
-  - pages
-  - others
-
-page_width: 800px
-
-destination:      ./_site
-incremental:      false
-regenerate:       true
+# Build settings
+theme: minima
 
 plugins:
-  - jekyll-feed
-  - jekyll-readme-index
-  - jemoji
+ - jekyll-feed
+ - jekyll-seo-tag
+
+# alt theme preference
+# remote_theme: sighingnow/jekyll-gitbook
+
