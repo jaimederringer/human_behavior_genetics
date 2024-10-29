@@ -1,6 +1,7 @@
 ---
 
 title: Human Behavior Genetics, a workbook
+permalink: index.html
 
 ---
 
