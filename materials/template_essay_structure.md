@@ -48,4 +48,4 @@ Derringer, J. (2020). Make sure there’s at least one citation per paragraph. N
 
 ------------------------------------------------
 
-Home: [Table of Contents](../index.md)
+Home: [Table of Contents](../README.md)

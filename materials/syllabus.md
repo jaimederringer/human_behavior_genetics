@@ -60,50 +60,42 @@ Exceptions to these policies are only made in exceptional circumstances (that is
 
 ## Schedule
 
-| Week 1 | [Chapter 1.](../ch01/) What We Know and What We Don't | Participation activities are due every week by 5 pm on Friday |
-| Week 2 | [Chapter 2.](../ch02/) We've Been Wrong Before |  |
-| Week 3 | [Chapter 3.](../ch03/) Finding & Reading Behavior Genetics Research |  |
-| Week 4 | [Chapter 4.](../ch04/) Ancestry: What It Is & Isn't | [Topic & 5 Scholarly Sources](../course_project/1_topic_and_five_scholarly_sources.md) due next Monday by 5 pm |
-| Week 5 | [Chapter 5.](../ch05/) Schizophrenia: Phenotyping & Process; [Chapter 6.](../ch06/) Autism: Heterogeneity & Disability Perspectives |  |
-| Week 6 | [Chapter 7.](../ch07/) Cognitive Ability, Educational Attainment, & Gene-Environment Correlation; [Chapter 8.](../ch08/) Internalizing, Stress, & Gene-Environment Interaction |  |
-| Week 7 | [Chapter 9.](../ch09/) Causal Reasoning in Substance Use; [Chapter 10.](../ch10/) Causal Reasoning in Aggression |  |
+|  |  |  |
+| --- | ----------- | --- |
+| Week 1 | [Chapter 1.](../ch01/1.0_what_we_know.md) What We Know and What We Don't | Participation activities are due every week by 5 pm on Friday |
+| Week 2 | [Chapter 2.](../ch02/2.0_weve_been_wrong_before.md) We've Been Wrong Before ; [Chapter 3.](../ch03/3.0_eugenics.md) A Very Brief History of Eugenics |  |
+| Week 3 | [Chapter 4.](../ch04/4.0_reading_behavior_genetics.md) Reading Behavior Genetics Research; [Chapter 5.](../ch05/5.0_height.md) |  |
+| Week 4 | [Chapter 6.](../ch06/6.0_ancestry_what_it_is_and_isnt.md) Ancestry: What It Is & Isn't | [Topic & 5 Scholarly Sources](../course_project/1_topic_and_five_scholarly_sources.md) due next Monday by 5 pm |
+| Week 5 | [Chapter 7.](../ch07/7.0_schizophrenia.md) Schizophrenia: Phenotyping & Process; [Chapter 6.](../ch08/8.0_autism.md) Autism: Heterogeneity & Disability Perspectives |  |
+| Week 6 | [Chapter 9.](../ch09/9.0_cognitive_ability.md) Cognitive Ability, Educational Attainment, & Gene-Environment Correlation; [Chapter 10.](../ch10/10.0_internalizing.md) Internalizing, Stress, & Gene-Environment Interaction |  |
+| Week 7 | [Chapter 11.](../ch11/11.0_causal_reasoning.md) Causal Reasoning |  |
 | Week 8 | Open work time | [10 Scholarly Source Summaries](../course_project/2_10_scholarly_source_summaries.md) due next Monday by 5 pm |
-| Week 9 | [Chapter 11.](../ch11/) Science Communication|  |
-| Week 10 | [Chapter 12.](../ch12/) Data Privacy |  |
-| Week 11 | [Chapter 13.](../ch13/) Genetic Engineering | [Draft Paper](../course_project/3_draft_paper.md) due next Monday by 5 pm |
-| Week 12 | [Chapter 14.](../ch14/) Personalized Medicine & Personalized Education | [Draft Popular Source](../course_project/4_draft_popular_source.md) due next Monday by 5 pm |
+| Week 9 | [Chapter 12.](../ch12/12.0_science_communication.md) Science Communication|  |
+| Week 10 | [Chapter 13.](../ch13/13.0_data_privacy.md) Data Privacy |  |
+| Week 11 | [Chapter 14.](../ch14/14.0_genetic_engineering.md) Genetic Engineering | [Draft Paper](../course_project/3_draft_paper.md) due next Monday by 5 pm |
+| Week 12 | [Chapter 15.](../ch15/15.0_at_the_individual_level.md) At the Individual Level | [Draft Popular Source](../course_project/4_draft_popular_source.md) due next Monday by 5 pm |
 |  | Fall Break - No Class |  |
-| Week 13 | GATTACA (1997) | [Paper Peer Reviews](../course_project/5_peer_review_papers.md) and [Popular Source Peer Reviews](../course_project/6_peer_review_popular_sources.md) due next Monday by 5 pm |
-| Week 14 | [Chapter 15.](../ch15/) Genetics, Society, and Identity | [Final Popular Source](../course_project/7_final_popular_source.md) due next Monday by 5 pm |
+| Week 13 | Gattaca (1997) | [Paper Peer Reviews](../course_project/5_peer_review_papers.md) and [Popular Source Peer Reviews](../course_project/6_peer_review_popular_sources.md) due next Monday by 5 pm |
+| Week 14 | [Chapter 16.](../ch16/16.0_genetics_as_a_social_construct.md) Genetics as a Social Construct | [Final Popular Source](../course_project/7_final_popular_source.md) due next Monday by 5 pm |
 | Week 15 | Wrap-up |  |
 | Finals Week |  | [Final Paper](../course_project/8_final_paper.md) due TBA |
 
 ## Resources
 
-[Lecture recordings (Fall 2023) on Illinois Media Space](https://mediaspace.illinois.edu/channel/PSYC%2B408%2BFA23%2BHuman%2BBehavior%2BGenetics/313231162) (requires Illinois login)
-
-[20 themes in behavior genetics](../ch01/1.3_20_themes_in_behavior_genetics.md)
-
-[Identify scholarly versus popular sources](../ch01/1.2_identify_scholarly_sources.md)
-
-[How To Read & Discuss in Perusall](how_to_read_and_discuss_in_perusall.md)
-
-[Template to summarize a Scholarly Source that is reporting an Empirical analysis of data](template_summary_empirical_source.md)
-
-[Template to summarize a Scholarly Source that is a Review of the existing literature](template_summary_review_source.md)
-
-[Peer Review Template](template_peer_review.md)
-
-[Essay Structure Template](template_essay_structure.md)
+- [Lecture recordings (Fall 2023) on Illinois Media Space](https://mediaspace.illinois.edu/channel/PSYC%2B408%2BFA23%2BHuman%2BBehavior%2BGenetics/313231162) (requires Illinois login)
+- [Twenty themes in behavior genetics](../ch01/1.2_20_themes_in_behavior_genetics.md)
+- [Identify scholarly versus popular sources](../ch01/1.4_activity_identify_scholarly_sources.md)
+- [How To Read & Discuss in Perusall](how_to_read_and_discuss_in_perusall.md)
+- [Template to summarize a Scholarly Source that is reporting an Empirical analysis of data](template_summary_empirical_source.md)
+- [Template to summarize a Scholarly Source that is a Review of the existing literature](template_summary_review_source.md)
+- [Peer Review Template](template_peer_review.md)
+- [Essay Structure Template](template_essay_structure.md)
 
 
-[UIUC Department of Psychology list of internal and external Mental Health Resources](https://psychology.illinois.edu/resources/mental-health-resources)
-
-[UIUC Student Assistance Center for finding support for all kinds of issues](https://odos.illinois.edu/community-of-care/CAREcenter)
-
-[UIUC Disability Resouces and Educational Services for accommodations](https://dres.illinois.edu/)
-
-[UIUC DGS Student Success Toolkit for advice on note-taking, studying, and time management.](https://dgs.illinois.edu/toolkit)
+- [UIUC Department of Psychology list of internal and external Mental Health Resources](https://psychology.illinois.edu/resources/mental-health-resources)
+- [UIUC Student Assistance Center for finding support for all kinds of issues](https://odos.illinois.edu/community-of-care/CAREcenter)
+- [UIUC Disability Resouces and Educational Services for accommodations](https://dres.illinois.edu/)
+- [UIUC DGS Student Success Toolkit for advice on note-taking, studying, and time management.](https://dgs.illinois.edu/toolkit)
 
 ## Integrity and "AI" Policy
 
@@ -113,4 +105,4 @@ Make good choices. You are ultimately responsible for the content of what you su
 
 -------
 
-Home: [Table of Contents](../index.md)
+Home: [Table of Contents](../README.md)

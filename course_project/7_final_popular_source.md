@@ -25,4 +25,4 @@ Next: [Final Paper](8_final_paper.md)
 
 Previous: [Peer Review Popular Sources](6_peer_review_popular_sources.md)
 
-Home: [Table of Contents](../index.md)
+Home: [Table of Contents](../README.md)

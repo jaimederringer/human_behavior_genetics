@@ -58,4 +58,4 @@ A picture (or any display item) is worth a thousand words. Make a note for yours
 
 ------------------------------------------------
 
-Home: [Table of Contents](../index.md)
+Home: [Table of Contents](../README.md)

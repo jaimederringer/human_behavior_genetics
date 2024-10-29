@@ -27,4 +27,4 @@ Next: [Peer Review Papers](5_peer_review_papers.md)
 
 Previous: [Draft Paper](3_draft_paper.md)
 
-Home: [Table of Contents](../index.md)
+Home: [Table of Contents](../README.md)

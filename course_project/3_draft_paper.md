@@ -56,4 +56,4 @@ Next: [Draft Popular Source](4_draft_popular_source.md)
 
 Previous: [10 Scholarly Source Summaries](2_10_scholarly_source_summaries.md)
 
-Home: [Table of Contents](../index.md)
+Home: [Table of Contents](../README.md)

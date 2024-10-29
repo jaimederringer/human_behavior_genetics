@@ -29,4 +29,4 @@ The Final Paper is due by 5 pm on the day our "Final Exam" would have been held 
 
 Next: [Choosing a Topic & Finding 5 Scholarly Sources](1_topic_and_five_scholarly_sources.md)
 
-Home: [Table of Contents](../index.md)
+Home: [Table of Contents](../README.md)

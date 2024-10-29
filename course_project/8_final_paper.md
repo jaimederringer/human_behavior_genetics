@@ -42,4 +42,4 @@ Some suggestions for how to tackle the revision process:
 
 Previous: [Final Popular Source](7_final_popular_source.md)
 
-Home: [Table of Contents](../index.md)
+Home: [Table of Contents](../README.md)

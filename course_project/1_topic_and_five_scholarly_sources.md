@@ -45,4 +45,4 @@ Next: [10 Scholarly Source Summaries](2_10_scholarly_source_summaries.md)
 
 Previous: [Course Project Descrtipion](0_project_description.md)
 
-Home: [Table of Contents](../index.md)
+Home: [Table of Contents](../README.md)

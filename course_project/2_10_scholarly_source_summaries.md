@@ -4,10 +4,10 @@ Before writing a paper synthesizing a field of research, you must first develop 
 
 For this assignment, you will complete structured summaries (following a template) of 10 scholarly sources. The package of summaries that you submit must meet the following minimum criteria:
 
-- [ ] All sources must be scholarly (not popular) sources. See the material from Week 1 about telling the difference.
-- [ ] All article summaries must follow either the [Empirical Article Summary template](../materials/template_summary_empirical_source.md) or the [Review Article Summary template](../materials/template_summary_review_source.md), as appropriate.
-- [ ] At least 60% of the sources you include must clearly relate to genetics or the use of genetically informative data.
-- [ ] At least 60% of the sources you include must be empirical articles (that is, they report a new analysis of data; they are not just a review of previous research).
+- All sources must be scholarly sources (NOT popular sources). 
+- All article summaries must follow either the [Empirical Article Summary template](../materials/template_summary_empirical_source.md) or the [Review Article Summary template](../materials/template_summary_review_source.md), as appropriate.
+- At least 60% of the sources you include must clearly relate to genetics or the use of genetically informative data.
+- At least 60% of the sources you include must be empirical articles (that is, they report a new analysis of data; they are not just a review of previous research).
 
 Exceptions to the above will be made in very rare situations as appropriate. If you think you have selected a topic where exceptions to the above criteria are appropriate, please contact us for an exception to the relevant criteria or suggestions for how to meet the criteria for your topic.
 
@@ -42,12 +42,12 @@ The primary audience for these summaries is your future self, when you start syn
 
 **IMPORTANT**: Submissions that do not meet the following criteria will be returned for correcting before grading and may be resubmitted with late penalties applied as appropriate:
 
-- [ ] All sources must be scholarly (not popular) sources. See the material from Week 1 about telling the difference.
-- [ ] All article summaries must follow either the [Empirical Article Summary template](../materials/template_summary_empirical_source.md) or the [Review Article Summary template](../materials/template_summary_review_source.md), as appropriate.
-- [ ] At least 60% of the sources you include must clearly relate to genetics or the use of genetically-informative data.
-- [ ] At least 60% of the sources you include must be empirical articles (that is, they report a new analysis of data; they are not just a review of previous research).
+- All sources must be scholarly source, NOT popular sources.
+- All article summaries must follow either the [Empirical Article Summary template](../materials/template_summary_empirical_source.md) or the [Review Article Summary template](../materials/template_summary_review_source.md), as appropriate.
+- At least 60% of the sources you include must clearly relate to genetics or the use of genetically-informative data.
+- At least 60% of the sources you include must be empirical articles (that is, they report a new analysis of data; they are not just a review of previous research).
 
-Exceptions to the above will be made in very rare situations as appropriate. If you think you have selected a topic where exceptions to the above criteria are appropriate, please contact us for an exception to the relevant criteria or suggestions for how to meet the criteria for your topic.
+Exceptions to the above will only be made in very rare situations, and require prior approval. If you think you have selected a topic where exceptions to the above criteria are appropriate, please contact us for an exception to the relevant criteria or suggestions for how to meet the criteria for your topic.
 
 -------------
 
@@ -55,4 +55,4 @@ Next: [Draft Paper](3_draft_paper.md)
 
 Previous: [Choosing a Topic & Finding 5 Scholarly Sources](1_topic_and_five_scholarly_sources.md)
 
-Home: [Table of Contents](../index.md)
+Home: [Table of Contents](../README.md)

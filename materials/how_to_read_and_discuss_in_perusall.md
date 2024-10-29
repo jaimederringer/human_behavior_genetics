@@ -31,4 +31,4 @@ Perusall is set up so that you should be able to view feedback on your engagemen
 
 -----
 
-Home: [Table of Contents](../index.md)
+Home: [Table of Contents](../README.md)

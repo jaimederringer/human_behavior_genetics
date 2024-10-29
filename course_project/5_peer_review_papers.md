@@ -25,4 +25,4 @@ Next: [Peer Review Popular Sources](6_peer_review_popular_sources.md)
 
 Previous: [Draft Popular Source](4_draft_popular_source.md)
 
-Home: [Table of Contents](../index.md)
+Home: [Table of Contents](../README.md)

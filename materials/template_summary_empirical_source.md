@@ -79,4 +79,4 @@ To view papers that have cited your target paper (as replications usually should
 
 ------------------------------------------------
 
-Home: [Table of Contents](../index.md)
+Home: [Table of Contents](../README.md)
