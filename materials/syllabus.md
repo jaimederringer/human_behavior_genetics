@@ -2,7 +2,7 @@
 
 Syllabus as of Fall 2023 (with some updates)
 
-Instructor: [Jaime Derringer](jaime.phd)
+Instructor: [Jaime Derringer](https://www.jaime.phd/)
 
 University of Illinois Urbana-Champaign
 
