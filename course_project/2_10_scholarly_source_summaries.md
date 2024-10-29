@@ -1,8 +1,8 @@
-----------
+---
 
 title: Course Project Part 2, 10 Scholarly Source Summaries
 
-----------
+---
 
 Before writing a paper synthesizing a field of research, you must first develop an understanding of the (often highly complex) literature of that field. We do that systematically in this course by breaking down relevant scholarly sources using Summary Templates.
 

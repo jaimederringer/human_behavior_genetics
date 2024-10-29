@@ -1,8 +1,8 @@
-----------
+---
 
 title: PSYC 408 Syllabus & Schedule
 
-----------
+---
 
 as of Fall 2023 (with some updates)
 

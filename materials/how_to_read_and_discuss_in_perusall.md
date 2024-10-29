@@ -1,8 +1,8 @@
-----------
+---
 
 title: How To Read & Discuss in Perusall
 
-----------
+---
 
 Perusall is a social annotation web platform that allows us to have discussions about readings by commenting directly on the readings themselves. Each participation activity that involved reading and discussing something on Perusall will have a link to that document.
 

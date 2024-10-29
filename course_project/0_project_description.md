@@ -1,8 +1,8 @@
-----------
+---
 
 title: Course Project Description
 
-----------
+---
 
 The primary goal of this course is to help you develop the skills to research and understand issues related to behavior genetics in the future. The best way to do that is to guide you through actually developing your own understanding of a topic that you're interested in.
 

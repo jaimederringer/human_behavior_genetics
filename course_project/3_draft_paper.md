@@ -1,8 +1,8 @@
-----------
+---
 
 title: Course Project Part 3, Draft Paper
 
-----------
+---
 
 You are going to write a review-article-style summary of what you've learned about your Course Project topic from your 10 article summaries. You do not need to argue for a particular perspective or hypothesis so much as summarize what is known You should also close your paper with a discussion of what the current limitations of the research are, and what research you think should be done to improve our understanding of the topic.
 

@@ -1,8 +1,8 @@
-----------
+---
 
 title: Course Project Part 6, Peer Review Popular Sources
 
-----------
+---
 
 As with writing, generating a high-quality popular source takes time, practice, and perspective. This assignment will generate a lot of feedback for each person, quickly, and provide you with the opportunity to see a wide variety of projects (and approaches).
 
