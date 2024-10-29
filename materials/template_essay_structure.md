@@ -1,4 +1,8 @@
-# Template for structuring an essay
+----------
+
+title: Template for structuring an essay
+
+----------
 
 The below text illustrates a possible 5-section structure for something like a blog post or a review paper, including how to integrate in-text citations following APA formatting. See [the Purdue OWL website](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/general_format.html) for a guide to all things APA formatting.
 

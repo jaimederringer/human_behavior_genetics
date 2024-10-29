@@ -1,4 +1,8 @@
-# Glossary
+----------
+
+title: Glossary
+
+----------
 
 term
 : definition

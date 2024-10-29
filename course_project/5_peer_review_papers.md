@@ -1,4 +1,8 @@
-# Course Project Part 5. Peer Review Papers
+----------
+
+title: Course Project Part 5, Peer Review Papers
+
+----------
 
 All good writing is editing, and peer review is a core component of the scientific process. This is an opportunity to receive feedback on your paper draft, and to use the knowledge that you've gained to advise your peers on their papers. In this assignment, you will provide a [journal-style peer review](../materials/template_peer_review.md) of two other students' draft papers.
 

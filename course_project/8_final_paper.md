@@ -1,4 +1,8 @@
-# Course Project Part 8: Final Paper
+----------
+
+title: Course Project Part 8, Final Paper
+
+----------
 
 It's time to go back to your draft and make improvements to produce a final document. 
 

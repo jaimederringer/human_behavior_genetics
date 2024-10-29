@@ -1,4 +1,8 @@
-# Template for summarizing an Empirical scholarly source
+----------
+
+title: Template for summarizing an Empirical scholarly source
+
+---------- 
 
 The goal of using this template is to provide a structured approach to note-taking by providing a list of features that will likely be relevant to reading and synthesizing scholarly sources across the field of behavior genetics. The primary audience for this template is yourself in the future. Many papers will have multiple phenotypes, methods, and findings - it's up to you to decide which parts are of primary interest for you to take away from the article personally.
 

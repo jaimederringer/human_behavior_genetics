@@ -1,4 +1,8 @@
-# Course Project Part 7. Final Popular Source
+----------
+
+title: Course Project Part 7, Final Popular Source
+
+----------
 
 This is the final version of your popular source, that will be scored by your peers for Informativeness and Engagement.
 

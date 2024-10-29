@@ -1,4 +1,8 @@
-# Course Project Part 1: Choosing a Topic & Finding 5 Scholarly Sources
+----------
+
+title: Course Project Part 1, Choosing a Topic & Finding 5 Scholarly Sources
+
+----------
 
 Developing your Course Project will take time and deliberate (ideally, spaced-out) attention. We begin early by identifying a topic and (importantly) making sure that there is likely enough research that you'll be able to eventually build a whole term paper around it.
 

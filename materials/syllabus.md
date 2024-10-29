@@ -1,6 +1,10 @@
-# PSYC 408 Human Behavior Genetics
+----------
 
-Syllabus as of Fall 2023 (with some updates)
+title: PSYC 408 Syllabus & Schedule
+
+----------
+
+as of Fall 2023 (with some updates)
 
 Instructor: [Jaime Derringer](https://www.jaime.phd/)
 

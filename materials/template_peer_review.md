@@ -1,4 +1,8 @@
-# Peer Review Template
+----------
+
+title: Peer Review Template
+
+----------
 
 This page provides a template example for how you can complete a journal-style peer review of a paper.
 

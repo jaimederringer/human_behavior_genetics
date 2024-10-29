@@ -1,4 +1,8 @@
-# Course Project Part 4. Draft Popular Source
+----------
+
+title: Course Project Part 4, Draft Popular Source
+
+----------
 
 Very few people will ever read even the best-written academic paper. Sharing knowledge widely requires presenting it in formats that are quick and accessible. For this assignment, you will create a Popular Source about your Course Project topic, with the goal of communicating information about that topic to the general public in a format that is both informative and engaging. You may choose any popular source format that you would like to use to achieve that goal, as long as you can provide me with a digital version of that popular source. Commonly selected formats include infographics, blog posts, and video presentations (back when the class was small, we did 5-minute talks - feel free to make some slides and record yourself presenting!)
 
