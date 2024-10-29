@@ -2,7 +2,7 @@
 
 It's time to go back to your draft and make improvements to produce a final document. 
 
-**If you have earned at least 90 points by this point in the semester, you are not required to submit a Final Paper to receive an A for the course.**
+**If you have earned enough points for an A by this time in the semester, you are not required to submit a Final Paper to receive an A for the course.**
 
 Only final papers that are substantially revised from their draft form will receive credit. That is, if you only need a couple of points to bump up your final grade, you cannot simply re-submit your draft paper. (If you did not submit a draft paper, then any paper you submit meets this criterion.)
 
