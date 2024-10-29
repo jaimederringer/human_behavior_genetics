@@ -22,7 +22,7 @@ Primary effect size:
 
 Which themes does the paper address?
 
-| [Click here to view the list of 20 themes common in behavior genetics.](../ch01/1.3_20_themes_in_behavior_genetics.md) You are not limited to only these themes. |
+| [Click here to view the list of 20 themes common in behavior genetics.](../ch01/1.2_20_themes_in_behavior_genetics.md) You are not limited to only these themes. |
 
 - Theme:
 	- Explain how:
@@ -67,7 +67,7 @@ This is the question not just of did they find a statistically significant effec
 
 ### Which themes does the paper address?
 
-This is useful for organizing the way that a report fits into the bigger picture of our understanding of the topic. You will likely find many instances that fit within [the 20 themes in human behavior genetics](../ch01/1.3_20_themes_in_behavior_genetics.md), but you are welcome to also identify other themes that seem particularly relevant to the specific paper or topic. Aim for about three themes per summary.
+This is useful for organizing the way that a report fits into the bigger picture of our understanding of the topic. You will likely find many instances that fit within [the 20 themes in human behavior genetics](../ch01/1.2_20_themes_in_behavior_genetics.md), but you are welcome to also identify other themes that seem particularly relevant to the specific paper or topic. Aim for about three themes per summary.
 
 ### What is your favorite table or figure? Why?
 
