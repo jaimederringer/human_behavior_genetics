@@ -40,6 +40,9 @@ header_pages: ['']
 # Build settings
 theme: minima
 
+minima:
+  skin: dark
+  
 google_analytics: G-5ES13KP32S
 
 plugins:
