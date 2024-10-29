@@ -1,8 +1,8 @@
-----------
+---
 
 title: Human Behavior Genetics, a workbook
 
-----------
+---
 
 Author: [Jaime Derringer](https://www.jaime.phd/) (she/they), Associate Professor of Psychology, University of Illinois Urbana-Champaign
 
