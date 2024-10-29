@@ -83,7 +83,7 @@ This repository contains open educational resources (OER) for PSYC 408 Human Beh
 ## Additional Materials
 
 - [Syllabus](materials/syllabus.md)
-- [Course Project](course_project/0_project_dscription.md)
+- [Course Project](course_project/0_project_description.md)
 - [Template to summarize an Empirical scholarly source](materials/template_summary_empirical_source.md)
 - [Template to summarize a Review scholarly source](materials/template_summary_review_source.md)
 - [Template to write a journal-style Peer Review of a paper](materials/template_peer_review.md)
