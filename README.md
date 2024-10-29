@@ -1,7 +1,7 @@
 # Human Behavior Genetics
 ## A Workbook
 
-Author: [Jaime Derringer](jaime.phd) (she/they), Associate Professor of Psychology, University of Illinois Urbana-Champaign
+Author: [Jaime Derringer](https://www.jaime.phd/) (she/they), Associate Professor of Psychology, University of Illinois Urbana-Champaign
 
 This repository contains open educational resources (OER) for PSYC 408 Human Behavior Genetics. The last major update of content was for the Fall 2023 semester.
 
