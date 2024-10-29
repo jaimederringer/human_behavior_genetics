@@ -43,7 +43,7 @@ An illustration of the process to reorganize the writing you've done for your ar
 10 points possible. See the Draft Paper Rubric below for how points will be assigned. 
 
 | Criteria | High Quality = 100% | Mid Quality = 50% | Low Quality = 0% | Total Points Possible |
--------------
+| --- | --- | --- | --- | --- |
 | Topic Coverage | Provides broad coverage of a range of behavior genetic approaches to the topic, or in-depth coverage of a specific area/methods of genetic research on the topic. | Minimal or superficial coverage of topics or methods related to course themes. | 
 Presented research is not clearly related to course themes (most often: paper seems to have been written for another course). | 3 points |
 | Variety of References | Information comes from a variety of primary/empirical research reports. | Too few references (<10) or few-to-no primary/empirical articles cited. | Over-reliance on one or two existing review papers of the topic and/or excessive use of quotations (research findings not restated in student's own words). | 3 points |
