@@ -1,6 +1,6 @@
 ---
 
-title: Course Project Part 1, Choosing a Topic & Finding 5 Scholarly Sources
+title: Activity, Choosing a Topic & Finding 5 Scholarly Sources
 
 ---
 
@@ -12,10 +12,6 @@ For feedback on this assignment, we'll provide additional recommended sources ba
 
 - Identify a topic you are interested in becoming an expert at.
 - Practice searching the relevant published scientific literature.
-
-## Time Estimate
-
-4 hours (mostly spent generating ideas and browsing sources)
 
 ## Assignment Instructions
 
@@ -41,12 +37,8 @@ NOTE: We use APA formatting throughout this course because (1) there needs to be
 
 ## Evaluation
 
-3 points possible, basically either done or not (0.6 points per scholarly source).
+Basically either done or not.
 
 -------------
-
-Next: [10 Scholarly Source Summaries](2_10_scholarly_source_summaries.md)
-
-Previous: [Course Project Descrtipion](0_project_description.md)
 
 Home: [Table of Contents](../README.md)

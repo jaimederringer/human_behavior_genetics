@@ -1,6 +1,6 @@
 ---
 
-title: Course Project Part 6, Peer Review Popular Sources
+title: Activity, Peer Review Popular Sources
 
 ---
 
@@ -10,10 +10,6 @@ As with writing, generating a high-quality popular source takes time, practice, 
 
 - Learn to provide constructive criticism on popular sources communicating scientific information.
 - Receive suggestions to improve your own popular source, both in form and content.
-
-## Time Estimate
-
-1 hour (but it's worth **2 points** to incentivise helping out your peers)
 
 ## Assignment Instructions
 
@@ -27,12 +23,8 @@ For credit on this activity, you need to provide feedback on all 12 selected pro
 
 ## Evaluation
 
-2 points possible, all-or-nothing (Be sure to complete all 12 reviews and hit 'Submit' at the end so you see the end screen! You'll know it when you see it.)
+1 point possible, all-or-nothing (Be sure to complete all 12 reviews and hit 'Submit' at the end so you see the end screen! You'll know it when you see it.)
 
 -----------
-
-Next: [Final Popular Source](7_final_popular_source.md)
-
-Previous: [Peer Review Papers](5_peer_review_papers_.md)
 
 Home: [Table of Contents](../README.md)

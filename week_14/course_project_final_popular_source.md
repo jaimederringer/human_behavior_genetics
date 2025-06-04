@@ -1,6 +1,6 @@
 ---
 
-title: Course Project Part 7, Final Popular Source
+title: Course Project, Final Popular Source
 
 ---
 
@@ -13,7 +13,7 @@ This is the final version of your popular source, that will be scored by your pe
 
 ## Time Estimate
 
-4 hours (assuming you're working from an existing draft)
+5 hours (assuming you're working from an existing draft)
 
 ## Assignment Instructions
 
@@ -21,12 +21,8 @@ Once you have your peer feedback for your draft popular source, go back to your 
 
 ## Evaluation
 
-4 points possible. Your grade will be the average of your peers' ratings of your project on Informativeness (out of 2 points possible) and Engagement (out of 2 points possible).
+5 points possible. Your grade will be the average of your peers' ratings of your project on Informativeness (out of 2.5 points possible) and Engagement (out of 2.5 points possible).
 
 ----------
-
-Next: [Final Paper](8_final_paper.md)
-
-Previous: [Peer Review Popular Sources](6_peer_review_popular_sources.md)
 
 Home: [Table of Contents](../README.md)

@@ -1,6 +1,6 @@
 ---
 
-title: Course Project Part 2, 10 Scholarly Source Summaries
+title: Course Project, Ten Scholarly Source Summaries
 
 ---
 
@@ -22,7 +22,7 @@ Exceptions to the above will be made in very rare situations as appropriate. If 
 
 ## Time Estimate
 
-2 hours per summary x 10 sources = 20 hours total. 
+1.5 hours per summary x 10 sources = 15 hours total. 
 
 If you start in Week 5, at 2-3 papers per week, that's 5 hours per week for 4 weeks. This is the LARGEST single milestone (by total time/effort/points) of the Course Project. Plan ahead to spread out your effort - you do NOT want to save this for the day before (even I don't want to read 10 BG articles in one day). 
 
@@ -46,7 +46,7 @@ The primary audience for these summaries is your future self, when you start syn
 
 **IMPORTANT**: Submissions that do not meet the following criteria will be returned for correcting before grading and may be resubmitted with late penalties applied as appropriate:
 
-- All sources must be scholarly source, NOT popular sources.
+- All sources must be scholarly sources, NOT popular sources.
 - All article summaries must follow either the [Empirical Article Summary template](../materials/template_summary_empirical_source.md) or the [Review Article Summary template](../materials/template_summary_review_source.md), as appropriate.
 - At least 60% of the sources you include must clearly relate to genetics or the use of genetically-informative data.
 - At least 60% of the sources you include must be empirical articles (that is, they report a new analysis of data; they are not just a review of previous research).
@@ -54,9 +54,5 @@ The primary audience for these summaries is your future self, when you start syn
 Exceptions to the above will only be made in very rare situations, and require prior approval. If you think you have selected a topic where exceptions to the above criteria are appropriate, please contact us for an exception to the relevant criteria or suggestions for how to meet the criteria for your topic.
 
 -------------
-
-Next: [Draft Paper](3_draft_paper.md)
-
-Previous: [Choosing a Topic & Finding 5 Scholarly Sources](1_topic_and_five_scholarly_sources.md)
 
 Home: [Table of Contents](../README.md)

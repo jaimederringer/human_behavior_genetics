@@ -1,10 +1,10 @@
 ---
 
-title: Course Project Part 3, Draft Paper
+title: Course Project, Draft Paper
 
 ---
 
-You are going to write a review-article-style summary of what you've learned about your Course Project topic from your 10 article summaries. You do not need to argue for a particular perspective or hypothesis so much as summarize what is known You should also close your paper with a discussion of what the current limitations of the research are, and what research you think should be done to improve our understanding of the topic.
+You are going to write a review-article-style summary of what you've learned about your Course Project topic from your 10 article summaries. You do not need to argue for a particular perspective or hypothesis so much as summarize what is known. You should also close your paper with a discussion of what the current limitations of the research are, and what research you think should be done to improve our understanding of the topic.
 
 Good writing comes from editing. But before you can edit, you must draft. The goal at this stage is to get words onto paper so that we can work together to make it better.
 
@@ -19,7 +19,7 @@ Follow the Assignment Instructions below to take what you've already written for
 
 ## Time Estimate
 
-12 hours
+10 hours
 
 ## Assignment Instructions
 
@@ -54,9 +54,5 @@ An illustration of the process to reorganize the writing you've done for your ar
 | Grammar | Easy to read, with APA formatted in-text and reference list citations. (Does not need to be free of minor grammar or spelling errors or in final/perfect APA format, as long as content is clear and citations are present and an attempt at APA format has been made.) | Some substantial errors in grammar or formatting (most common: several instances of whole sections or reports of studies missing citations completely). | Widespread grammar/spelling errors or sentence fragments make draft unreadable. | 2 points |
 
 -----------
-
-Next: [Draft Popular Source](4_draft_popular_source.md)
-
-Previous: [10 Scholarly Source Summaries](2_10_scholarly_source_summaries.md)
 
 Home: [Table of Contents](../README.md)
