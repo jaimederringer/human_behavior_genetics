@@ -1,0 +1,32 @@
+---
+
+title: What is Behavior Genetics?
+
+---
+
+Behavior genetics is a field that is defined by a common set of methods that broadly attempt to answer two questions:
+
+- Why do individuals differ from one another? and
+- What causes someone to be who they are?
+
+These questions are related but can require very different approaches to address, and we will spend the semester discussing the approaches and limitations of our attempts to understand the answers to both of them.
+
+Like any field, behavior genetics commonly uses a unique set of terms that is quite inscrutable to outsiders. Some that will come up CONSTANTLY throughout the semester:
+
+- **Phenotype**: This is any outcome that we are interested in. It can be a behavior, a physical characteristic, a low-level biological function, literally (almost) anything - except for the genotype itself.
+- **Genotype**: The sequence of As, Cs, Gs, and Ts that make (or rather, represent) the rungs on the ladder of everyone's DNA (humans and non-humans alike).
+- **Environment**: Everything that is not the genotype. This can be what we usually think of when we hear the word environment (family, culture), it can be your experiences, personal traits, it can even be biological environments, like hormones and what you've had to eat today, or ever. (Note: the difference between a "phenotype" and an "environment" is in the eye of the beholder - phenotypes can be environments and vice versa.)
+
+Why do we use jargon? Well, it makes us sound fancy and, as with all language, it provides shortcuts to understanding that save time once you're familiar with it. But in behavior genetics, we have another layer of communication to contend with: historical context. Behavior genetics, as a field, is inextricably linked with eugenics (the "father" of behavior genetics, Francis Galton, coined the term eugenics and most of the prominent early scientists in the field were avid advocates). Jargon makes our papers hard to read, and when they are hard to read, fewer people will read them, and we (the scientists) spend less time having to publicly contend with that historical (and, honestly, present) context. We'll talk more about eugenics and the real-world applications of behavior genetics (both good and evil - but, on balance, mostly evil) in the coming weeks.
+
+So, we have a whole field of defensive scientists writing dense papers, either on purpose or (for the same reason MOST academic writing is dense and boring) because we're not trained to write well. That's fine if there's nothing terribly interesting or practically important in those papers. But the reality is this information, and how we arrive at it, is becoming critically more important all the time as technology advances and the potential applications expand.
+
+In the past few years, we've seen a rapid decline in the cost of genotyping, combined with an incredible explosion in the development of new technologies. Genetic information is used in reproductive decision-making (from pre-conception genetic counseling to embryo selection to prenatal and neonatal screening), diagnosis and prediction of disease and non-disease phenotypes (in medical and non-medical settings, including direct-to-consumer genotyping services), and criminal proceedings (identification of individuals and, occasionally, determining responsibility). I keep seeing a sponsored tweet advertising a service to tell me what I should eat based on my DNA.
+
+I have one goal for this course: Scientific Literacy. In life, and soon if not already, you are going to be asked to make decisions and buy services based on the research we talk about in this class. I want you to be an educated consumer.
+
+There are no course prerequisites for Psyc 408, but there is a personal one: you need to be interested in the journey we are about to embark on. This material is not easy, but motivation will take you as far as you need to go. If you've made it this far, and you've browsed the course website, and you are still thinking "This sounds interesting!": you are ready to go.
+
+--------
+
+Home: [Table of Contents](../README.md)

@@ -1,0 +1,33 @@
+---
+
+title: Activity, Identify Scholarly Sources & Tips for Reading
+
+---
+
+Distinguishing between and critically evaluating scholarly and popular sources will be a common task throughout this course.
+
+Learn to identify scholarly versus popular sources by reviewing [the materials posted here by the University of Victoria Library](https://www.uvic.ca/library/help/tips/scholvpop/index.php).
+
+You should be able to take the Tutorial linked at the bottom of the page without being logged in, just click on 'Take the Scholarly vs Popular Tutorial [here](https://uvic.libwizard.com/id/3fcf24f3f9d7070b83eba4903f573ebd)' and ignore the prompt to log in. 
+
+## Finding Behavior Genetic Papers
+
+I personally prefer Google Scholar for searching for scholarly literature. Because behavior genetics is defined by a common set of methods, if you're looking for material related to a particular phenotype, some combination of that phenotype name and a method or two will usually turn up the bulk of the relevant literature - for example, try starting with {phenotype} heritability and {phenotype} genetics, or specific concept/method names, like {phenotype} GWAS or {phenotype} "twin study". As you find papers that seem relevant, keep track of synonyms that appear for your phenotype, method, or concept - many topics go by a handful of different terms depending on the particular research lab or subfield that they originate from. When you find a paper you like or that is particularly helpful, try looking at the papers that cite it, the papers that it cites, or for other research by the same author(s). 
+
+Human behavior genetics is a field that sometimes moves quite rapidly in terms of technological and statistical developments, so papers that are more recent or have larger sample sizes/numbers of participants are generally assumed to be of higher quality or more reliable. But that doesn't mean that smaller or older studies are not of value. It is important to evaluate any paper holistically, but especially in terms of its methods. Because genetically informative data are expensive (both in terms of the actual cost, as well as time investment), secondary data analysis (or re-analysis) of data is incredibly common. It is hugely likely that the data used for a particular paper of interest for you was not designed or collected specifically for that purpose. No data are ever perfect - we always want more or better data - and no single study is ever definitive. When reading a paper, ask yourself: Did the authors do the best they could with the data and methods available, and are the conclusions they draw reasonable given the strengths and limitations of their particular study? Pay particular attention to how the phenotype was operationalized (that is, defined and measured): Does it seem reasonable (face validity)? Are there any concerns that they might not be measuring well what they're trying to understand?
+
+## General tips for reading
+
+Throughout the course, you're going to practice reading empirical sources (that is, scholarly sources/papers/articles that report a new analysis of data) using the [Empirical Source Summary template](../materials/template_summary_empirical_source.md), which guides you through identifying key pieces of information in an empirical source, including following the tips below.
+
+**Track common themes.** As you're reading the paper, consider which commonly addressed themes apply or are discussed (see [the list of Themes from Week 1](../ch01/1.3_20_themes_in_behavior_genetics.md)). Take note of which themes the results support, and which if any they contradict. Recognizing these themes across different papers will help synthesize the information.
+
+**Note a favorite table or graph.** Often I find a figure or table that does a better job of presenting a main/interesting point than all of the text of the paper. When you discover a particularly useful table or figure, make note of it so that you can start there when referring back to the paper.
+
+**Look for replications.** One common "gold" standard for evidence in science is replication. Many GWAS include internal replication samples (that is, a smaller sample set aside specifically for the purpose of replicating any newly observed effects). You can also use Google Scholar to look for replications (either successful or null) by clicking on the "cited by" link below the paper's search listing (any replication attempt will cite the original study). Keep in mind that science is slow, so new papers (especially < 2 years old) may not yet have any available replication attempts reported, successful or otherwise. For any topic with more than a couple of studies available, try searching for a meta-analysis (a systematic empirical summary of available studies). Some papers may themselves be replications of prior findings, in which case they would usually cite those prior studies in the Introduction.
+
+**Media coverage/reactions.** Not all papers receive media or public attention, but where it exists it can reveal strengths and weaknesses both in terms of the study methods as well as the researchers' attempt at communicating the conclusions. Especially high profile or controversial studies often receive a lot of discussion in (previously) public forums like Twitter. To find reactions, you can try searching for the article title or DOI (digital object identifier, now often included on the title page or at the very end of an article) in general or news search engines, twitter, Reddit, etc. Some journals and pre-print servers (for example, bioRxiv) aggregate tweets about a paper directly under it, or may show you an altmetric badge: a colorful circle with a number in it. Altmetric is a service that aggregates general references to papers across the internet and is quite thorough; click on the badge to view the various non-scholarly sources that have made reference to the paper (the higher the number, the more sources have discussed it; the more colorful, the more it's appeared across different platforms). Some journals embed it, but for those that don't, you can access it from any paper posted online using [altmetric's free bookmarklet](https://www.altmetric.com/solutions/free-tools/bookmarklet/).
+
+---------
+
+Home: [Table of Contents](../README.md)
