@@ -20,6 +20,15 @@ After World War II and the widespread revelation of the Nazi's atrocities, publi
 
 This is not ancient history. Many of the victims of these policies are still alive. In a video included in the materials this week, you'll hear members of these state eugenics boards discussing how they made these decisions. You'll meet a woman who was sterilized by a eugenics board as a child after she became pregnant from a rape. And you'll meet her son, who was born by c-section at the same time that she was surgically sterilized. The state that did this to her, North Carolina, has committed $10 million in compensation for victims of its eugenics program. Even if all 7,600 people sterilized by that state were alive and able to claim their share, that comes out to $1,315 per person.
 
+## Additional Materials to Review
+
+- Loehlin, J. C. (2009). History of behavior genetics. In: Handbook of Behavior Genetics (pp. 3-11). New York, NY: Springer New York. [https://doi.org/10.1007/978-0-387-76727-7_1](https://doi.org/10.1007/978-0-387-76727-7_1)
+	- This is a standard "history of the field" text. Fun fact: the first organizational meeting that would become the Behavior Genetics Association (BGA) took place at UIUC in 1970.
+- Behavior Genetics Association (2021, April). Diversity and Inclusion Action Plan. [https://bga.org/content.aspx?page_id=22&club_id=971921&module_id=567723](https://bga.org/content.aspx?page_id=22&club_id=971921&module_id=567723)
+	- A key statement on the relevance of this week's material: "The history of our field is inextricably linked with racism, including the misuse of behavior genetic research to support violent eugenic policies." This is a marked divergence from the response to the 1995 Glayde Whitney Affair as described in Loehlin (2009).
+- Watch an interview with a survivor of the US eugenic sterilization program. [Eugenicist Movement in America: Victims Coming Forward](https://youtu.be/Nshj9rCTPdE) (15:04)
+- Skim the Wikipedia article on [the history of eugenics](https://en.wikipedia.org/wiki/History_of_eugenics). It's long and detailed and includes examples from around the world.
+
 ---------
 
 Home: [Table of Contents](../README.md)

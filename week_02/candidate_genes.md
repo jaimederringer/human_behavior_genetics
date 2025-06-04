@@ -18,6 +18,13 @@ So, big stuff is easy to see/genotype, and it was all we could do at the time, b
 
 This week you'll read in the Slate Star Codex (2019) blog post and the Keller & Duncan (2011) paper about the history of 5-HTT-LPR research and how we wasted immense money, time, and public attention chasing and defending false positives. I also want to give you some specific background on MAOA-uVNTR ("the warrior gene"), whose story runs very much parallel to 5-HTT-LPR, but happens to be the first gene that I ever personally published on, and so is, as a cautionary tale, quite near and dear to my heart. And for that reason, and because I've gone on quite long enough here, dear reader, I'll be covering the story of my own false positive MAOA finding in lecture this week.
 
+## Additional Resource
+
+- Alexander, S. (2019 May 7). 5-HTTLPR: A pointed Review. Slate Star Codex. [https://slatestarcodex.com/2019/05/07/5-httlpr-a-pointed-review/](https://slatestarcodex.com/2019/05/07/5-httlpr-a-pointed-review/)
+	-	This blog post provides an excellent overview of the empirical research and research culture that lead to the rise and fall of 5-HTTLPR ("the serotonin transporter") as a candidate gene "for" depression.
+	-	There are a LOT of comments on the actual blog post, but pay attention to the response from the senior author on the replication project being discussed, Dr. Matt Keller.
+	- A quick note on the source: This is a great individual piece of writing, but the blog author has received substantial criticism for his rationalist takes (and some of the discussion that ensues in the comments). Here's some more information about it: [wikipedia:Slate_Star_Codex](https://en.wikipedia.org/wiki/Slate_Star_Codex).
+	
 ------
 
 Home: [Table of Contents](../README.md)

@@ -4,7 +4,7 @@ title: Activity, Eugenics Journal Response
 
 ---
 
-Write a brief reflection on the material you reviewed about Eugenics. Answer both of the prompts below:
+Write a brief reflection on the material you reviewed about [Eugenics](eugenics.md). Answer both of the prompts below:
 
 1. What were the TWO most surprising things you learned?
 

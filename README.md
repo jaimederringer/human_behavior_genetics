@@ -42,7 +42,7 @@ Every instructor or textbook author necessarily makes decisions about what conte
 
 This course is designed differently than the typical human behavior genetics course. The focus is less on preparing STEM-focused students to be academic or industry researchers (although many of my students certainly go that way) and more on preparing a diverse range of undergrads and graduate students to be consumers, caregivers, and citizens in a world where genetics is increasingly marketed as a way to make critically important decisions, both personally and as a society.
 
-If you are looking for material that takes a more standard approach to an introduction to human behavior genetics, I recommend Scott Stoltenberg's [Foundations of Behavior Genetics](https://www.cambridge.org/highereducation/books/foundations-of-behavior-genetics/D56A9C68E53ED87EAD1E5529A88CC3D0#overview) textbook and/or Matt McGue's [Introduction to Behavioral Genetics](https://www.coursera.org/learn/behavioralgenetics) course on Coursera. 
+If you are looking for material that takes a more standard approach to an introduction to human behavior genetics, I recommend Scott Stoltenberg's [Foundations of Behavior Genetics](https://www.cambridge.org/highereducation/books/foundations-of-behavior-genetics/D56A9C68E53ED87EAD1E5529A88CC3D0#overview) textbook and/or Matt McGue's [Introduction to Behavioral Genetics](https://www.coursera.org/learn/behavioralgenetics) course on Coursera. During the first half of the course we will also be reading through Catherine Baker's (2004) Behavioral Genetics: An Introduction to How Genes and Environments Interact Through Development to Shape Differences in Mood, Personality, and Intelligence, a product of a project conducted by the American Association for the Advancement of Science (AAAS) and The Hastings Center, which is available as an [open access book](https://www.aaas.org/resources/behavioral-genetics/publications).
 
 ## Grading
 
@@ -68,8 +68,6 @@ The total possible number of points in this course is 135 (75 weekly participati
 
 Final grades are based on total points; if Canvas shows a % calculation, ignore it.
 
-The primary goal of this course is to help you develop the skills to research and understand issues related to behavior genetics in the future. The best way to do that is to guide you through actually developing your own understanding of a topic that you're interested in.
-
 There are two kinds of assignemnts in this course: weekly activities (up to 5 points per week) and course project assignments (60 points total across 6 assignments).
 
 ### Weekly Activities
@@ -78,9 +76,9 @@ Lecture attendance counts as a synchronous weekly activity option. You earn 1 po
 
 Asynchronous weekly activities (such as commenting on a reading, completing an analysis, finding and evaluating scholarly and popular sources) are due by Friday at 5 pm the week they are assigned. Weekly activities may be submitted late by the following Monday at 5 pm for a 20% reduction in credit. Late activities will not be accepted after Monday at 5 pm unless prior arrangements have been made.
 
-Course project assignments are due by Monday 5 pm following the week in which they are "due". Course project assignments lose 10% credit per day late.
-
 ### Course Project
+
+The primary goal of this course is to help you develop the skills to research and understand issues related to behavior genetics in the future. The best way to do that is to guide you through actually developing your own understanding of a topic that you're interested in.
 
 The Course Project involves developing in-depth knowledge about a topic related to human behavior genetics that is of interest to you. To help you develop that knowledge, we break down 6 major steps (assignments) to acquire and demonstrate the skills to:
 
@@ -115,39 +113,33 @@ Make good choices. You are ultimately responsible for the content of what you su
 
 - [What is Behavior Genetics?](week_01/what_is_behavior_genetics.md)
 - [Twenty Themes in Behavior Genetics](week_01/twenty_themes_in_behavior_genetics.md)
-- Brandes, N., Weissbrod, O., & Linial, M. (2022). Open problems in human trait genetics. Genome Biology, 23(1), 131. [https://doi.org/10.1186/s13059-022-02697-9](https://doi.org/10.1186/s13059-022-02697-9) (open access)
-- Briley, D. A., Livengood, J., Derringer, J., Tucker-Drob, E. M., Fraley, R. C., & Roberts, B. W. (2019). Interpreting behavior genetic models: seven developmental processes to understand. Behavior Genetics, 49, 196-210. [https://doi.org/10.1007/s10519-018-9939-6](https://doi.org/10.1007/s10519-018-9939-6)
-- Plomin, R., DeFries, J. C., Knopik, V. S., & Neiderhiser, J. M. (2016). Top 10 replicated findings from behavioral genetics. Perspectives on Psychological Science, 11(1), 3-23. [https://doi.org/10.1177/1745691615617439](https://doi.org/10.1177/1745691615617439)
 - If you haven't taken (or don't remember) biology, you can review the following Crash Course: Biology videos that cover concepts that will be relevant to material throughout the semester.
 	- [#9 Heredity](https://youtu.be/CBezq1fFUEA) (10:17)
 	- [#10 DNA Structure & Replication](https://youtu.be/8kK2zwjRV0M) (12:58)
 	- [#11 DNA Transcription & Translation](https://youtu.be/itsb2SqR-R0) (14:07)
 	- [#13 Meiosis](https://youtu.be/L0k-enzoeOM) (11:42)
 	- [#14 Natural Selection](https://youtu.be/aTftyFboC_M) (12:44)
+- Baker, C. (2004). Introduction & Chapter One: What Is Behavioral Genetics? pp. vi-x, 1-7. [visit open access book](https://www.aaas.org/resources/behavioral-genetics/publications)
+- Brandes, N., Weissbrod, O., & Linial, M. (2022). Open problems in human trait genetics. Genome Biology, 23(1), 131. [https://doi.org/10.1186/s13059-022-02697-9](https://doi.org/10.1186/s13059-022-02697-9) (open access)
+- Briley, D. A., Livengood, J., Derringer, J., Tucker-Drob, E. M., Fraley, R. C., & Roberts, B. W. (2019). Interpreting behavior genetic models: seven developmental processes to understand. Behavior Genetics, 49, 196-210. [https://doi.org/10.1007/s10519-018-9939-6](https://doi.org/10.1007/s10519-018-9939-6)
+- Plomin, R., DeFries, J. C., Knopik, V. S., & Neiderhiser, J. M. (2016). Top 10 replicated findings from behavioral genetics. Perspectives on Psychological Science, 11(1), 3-23. [https://doi.org/10.1177/1745691615617439](https://doi.org/10.1177/1745691615617439)
 - [Activity: Identify Scholarly Sources](week_01/activity_identify_scholarly_sources.md)
 
 #### Week 2. [We've Been Wrong Before](week_02/weve_been_wrong_before.md)
 
 - [Candidate Genes](week_02/candidate_genes.md)
-- Alexander, S. (2019 May 7). 5-HTTLPR: A pointed Review. Slate Star Codex. [https://slatestarcodex.com/2019/05/07/5-httlpr-a-pointed-review/](https://slatestarcodex.com/2019/05/07/5-httlpr-a-pointed-review/)
-	-	This blog post provides an excellent overview of the empirical research and research culture that lead to the rise and fall of 5-HTTLPR ("the serotonin transporter") as a candidate gene "for" depression.
-	-	There are a LOT of comments on the actual blog post, but pay attention to the response from the senior author on the replication project being discussed, Dr. Matt Keller.
-	- A quick note on the source: This is a great individual piece of writing, but the blog author has received substantial criticism for his rationalist takes (and some of the discussion that ensues in the comments). Here's some more information about it: [wikipedia:Slate_Star_Codex](https://en.wikipedia.org/wiki/Slate_Star_Codex).
+- [A Very Brief History of Eugenics](week_02/eugenics.md)
+- Baker, C. (2004). Chapter Two: How Do Genes Work Within Their Environments? pp. 9-22. [visit open access book](https://www.aaas.org/resources/behavioral-genetics/publications)
+- Baker, C. (2004). Chapter Three: How Do Environments Impinge Upon Genes? pp. 25-37. [visit open access book](https://www.aaas.org/resources/behavioral-genetics/publications)
 - Duncan, L. E., Ostacher, M., & Ballon, J. (2019). How genome-wide association studies (GWAS) made traditional candidate gene studies obsolete. Neuropsychopharmacology, 44(9), 1518-1523. [https://doi.org/10.1038/s41386-019-0389-5](https://doi.org/10.1038/s41386-019-0389-5)
-- [A Very Brief History of Eugenics](week_02/eugenics)
 - Branch, H. A., Klingler, A. N., Byers, K. J., Panofsky, A., & Peers, D. (2022). Discussions of the “not so fit”: how ableism limits diverse thought and investigative potential in evolutionary biology. The American Naturalist, 200(1), 101-113. [https://doi.org/10.1086/720003](https://doi.org/10.1086/720003)
-- Loehlin, J. C. (2009). History of behavior genetics.  Download History of behavior genetics. In Handbook of behavior genetics (pp. 3-11). New York, NY: Springer New York. [https://doi.org/10.1007/978-0-387-76727-7_1](https://doi.org/10.1007/978-0-387-76727-7_1)
-	- This is a standard "history of the field" text. Fun fact: the first organizational meeting that would become the Behavior Genetics Association (BGA) took place at UIUC in 1970.
-- Behavior Genetics Association (2021, April). Diversity and Inclusion Action Plan. [https://bga.org/content.aspx?page_id=22&club_id=971921&module_id=567723](https://bga.org/content.aspx?page_id=22&club_id=971921&module_id=567723)
-	- A key statement on the relevance of this week's material: "The history of our field is inextricably linked with racism, including the misuse of behavior genetic research to support violent eugenic policies." This is a marked divergence from the response to the 1995 Glayde Whitney Affair as described in Loehlin (2009).
-- Watch an interview with a survivor of the US eugenic sterilization program. [Eugenicist Movement in America: Victims Coming Forward](https://youtu.be/Nshj9rCTPdE) (15:04)
-- Skim the Wikipedia article on [the history of eugenics](https://en.wikipedia.org/wiki/History_of_eugenics). It's long and detailed and includes examples from around the world.
 - [Activity: Eugenics Journal Response](week_02/activity_eugenics_journal_response)
 
 #### Week 3. [Finding and Reading Behavior Genetics Research](week_03/find_and_read_behavior_genetics.md)
 
 - [How To Read a Classical Twin Study](week_03/how_to_read_a_twin_study.md)
 - [How To Read a GWAS](week_03/how_to_read_a_gwas.md)
+- Baker, C. (2004). Chapter Four: How Is Genetic Research On Behavior Conducted? pp. 39-57. [visit open access book](https://www.aaas.org/resources/behavioral-genetics/publications)
 - Eftedal, N. H. (2020, June 17). Estimating heritability of psychological traits using the classical twin design; a gentle introduction to concepts and assumptions. PsyArXiv. [https://doi.org/10.31234/osf.io/g3f9c](https://doi.org/10.31234/osf.io/g3f9c) (open access)
 - Tam, V., Patel, N., Turcotte, M., Bossé, Y., Paré, G., & Meyre, D. (2019). Benefits and limitations of genome-wide association studies. Nature Reviews Genetics, 20(8), 467-484. [https://doi.org/10.1038/s41576-019-0127-1](https://doi.org/10.1038/s41576-019-0127-1)
 - [Activity: Play with Statistics](week_03/activity_play_with_statistics.md)
@@ -176,6 +168,7 @@ Make good choices. You are ultimately responsible for the content of what you su
 
 #### Week 6. Schizophrenia: Phenotyping & Process
 
+- Baker, C. (2004). Chapter Five: How Do Mental Disorders Emerge? pp. 59-72. [visit open access book](https://www.aaas.org/resources/behavioral-genetics/publications)
 - Gottesman, I. I., & Gould, T. D. (2003). The endophenotype concept in psychiatry: Etymology and strategic intentions. American Journal of Psychiatry, 160(4), 636-645. [https://doi.org/10.1176/appi.ajp.160.4.636](https://doi.org/10.1176/appi.ajp.160.4.636)
 - Trubetskoy, V., Pardiñas, A. F., Qi, T., Panagiotaropoulou, G., Awasthi, S., Bigdeli, T. B., ... & Lazzeroni, L. C. (2022). Mapping genomic loci implicates genes and synaptic biology in schizophrenia. Nature, 604(7906), 502-508. [https://doi.org/10.1038/s41586-022-04434-5](https://doi.org/10.1038/s41586-022-04434-5)
 - [Activity: Summarize a Scholarly Source](week_06/activity_summarize_a_scholarly_source.md)
@@ -191,6 +184,7 @@ Make good choices. You are ultimately responsible for the content of what you su
 
 #### Week 8. Cognitive Ability, Educational Attainment, & Gene-Environment Correlation
 
+- Baker, C. (2004). Chapter Seven: How Is Intellect Molded By Genes And Environments? pp. 97-117. [visit open access book](https://www.aaas.org/resources/behavioral-genetics/publications)
 - Haworth, C. M., Wright, M. J., Luciano, M., Martin, N. G., de Geus, E. J., van Beijsterveldt, C. E., ... & Plomin, R. (2010). The heritability of general cognitive ability increases linearly from childhood to young adulthood. Molecular psychiatry, 15(11), 1112-1120. [https://doi.org/10.1038/mp.2009.55](https://doi.org/10.1038/mp.2009.55)
 - Rimfeld, K., Malanchini, M., Packer, A. E., Gidziela, A., Allegrini, A. G., Ayorech, Z., ... & Plomin, R. (2021). The winding roads to adulthood: a twin study. JCPP Advances, 1(4), e12053. [https://doi.org/10.1002/jcv2.12053](https://doi.org/10.1002/jcv2.12053) (open access)
 - [Activity: Contextualize a Popular Source](week_08/activity_contextualize_a_popular_source.md)
@@ -206,6 +200,7 @@ Make good choices. You are ultimately responsible for the content of what you su
 
 - Substance Use
 - Aggression
+- Baker, C. (2004). Chapter Six: How Is The Ability To Control Impulses Affected By Genes And Environments? pp. 75-95. [visit open access book](https://www.aaas.org/resources/behavioral-genetics/publications)
 - Briley, D. A., Livengood, J., & Derringer, J. (2018). Behaviour genetic frameworks of causal reasoning for personality psychology. European Journal of Personality, 32(3), 202-220. [https://doi.org/10.1002/per.2153](https://doi.org/10.1002/per.2153)
 	- This piece gives an overview of methods of applying genetically informative data to causal reasoning. Although it's about "personality," that's really only because it was written for a personality journal; you could swap the phenotypes and environments illustrated in Figures 1-3 and all the same reasoning would apply. The one element that is relatively specific to personality is the discussion of dominance (non-additive) genetic effects, which are not observed nearly as often for non-personality phenotypes.
 - Karlsson Linnér, R., Mallard, T. T., Barr, P. B., Sanchez-Roige, S., Madole, J. W., Driver, M. N., ... & Dick, D. M. (2021). Multivariate analysis of 1.5 million people identifies genetic associations with traits related to self-regulation and addiction. Nature Neuroscience, 24(10), 1367-1376. [https://doi.org/10.1038/s41593-021-00908-3](https://doi.org/10.1038/s41593-021-00908-3)
