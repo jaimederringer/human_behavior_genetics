@@ -38,6 +38,17 @@ After the individual SNP results, there is a MULTITUDE of ways that the set of r
 
 **Tissue/expression enrichment:** There are a huge, rapidly developing array of methods for examining tissue expression and epigenetic mechanism "enrichment," or (as in the gene- or pathway-based methods) overrepresentation of SNPs with low p-values in regions known to be expressed in certain tissues or known to be susceptible to variations in expression from a variety of factors (including but not limited to methylation, which is one commonly studied form of epigenetic modification).
 
+## Play With Statistics: p-hacker
+
+[https://www.shinyapps.org/apps/p-hacker/](https://www.shinyapps.org/apps/p-hacker/)
+
+This web app illustrates how p-hacking (or running a bunch of different kinds of analyses - add or dropping participants until you get a significant result, looking at multiple outcomes without correcting the significant p-value threshold, running subgroup analyses without a theory or plan or correction for multiple testing) can get you a significant (low) p-value just by chance alone. It will simulate, analyze, and plot data according to your instructions.
+
+The Manual drop-down menu at the top left will give some tips. To make it feel genetic-y, label the experimental group "minor allele present (AB, BB)" and the control group "minor allele absent (AA)" and "test" for effects of the "genotype" on multiple "phenotypes" (set the number of DVs to 10). 
+
+Instead of a correlation, the effect size used is cohen's d (which describes the average difference between two groups). Larger values mean a bigger difference between the two groups. It's a little different from a correlation in that it's not bounded by +/- 1 (it can be infinitely large). But 0 still means "no effect", or no difference between the two groups, or no relationship between the exposure and the outcome, and the interpretation of its p-values is still the same (it's a combination of the size of the effect and the number of observations - larger effects and/or more observations lead to smaller, more significant p-values).
+
+
 --------
 
 Home: [Table of Contents](../README.md)

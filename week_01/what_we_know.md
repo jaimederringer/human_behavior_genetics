@@ -14,6 +14,13 @@ This week we will:
 - Become comfortable with the typical weekly course structure.
 - Evaluate and share what knowledge you come to this course with and what you hope to learn.
 
+- If you haven't taken (or don't remember) biology, you can review the following Crash Course: Biology videos that cover concepts that will be relevant to material throughout the semester.
+	- [#9 Heredity](https://youtu.be/CBezq1fFUEA) (10:17)
+	- [#10 DNA Structure & Replication](https://youtu.be/8kK2zwjRV0M) (12:58)
+	- [#11 DNA Transcription & Translation](https://youtu.be/itsb2SqR-R0) (14:07)
+	- [#13 Meiosis](https://youtu.be/L0k-enzoeOM) (11:42)
+	- [#14 Natural Selection](https://youtu.be/aTftyFboC_M) (12:44)
+
 -------
 
 Home: [Table of Contents](../README.md)

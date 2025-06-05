@@ -68,6 +68,16 @@ Note: The difference between the set-up for an ACE model versus the setup for an
 
 One way we commonly compare alternative models is by looking at model fit statistics. There are a huge variety of ways we can summarize "how well the final model fits the observed data." Typically model comparisons are made in a table that will have a (hopefully) clear note including what models were compared and how the "best" model was determined (some common measures are AIC and BIC, where smaller numbers are better, and RMSEA, where smaller numbers are also better but for different reasons, and CFI and TLI, where larger numbers are better). But, in the end, it's the conclusion that matters and these model fit statistics rarely (or debatably) have any absolute interpretation - there's never going to be a conclusion that suggests they've found the True model, just identification of one that was tested better fitting the current data than the others that happen to be tested/testable (again, constrained by information provided by the available data). Alternative models usually try adding or dropping concepts, or fixing or freeing parameters, and see which of many models does the best job reproducing the observed data. Typically, the researchers will identify the best model that was tested on the current data (using whatever metric) and focus on the results of that one model in particular.
 
+## Play With Statistics: Guess the Correlation!
+
+[http://guessthecorrelation.com/](http://guessthecorrelation.com/)
+
+The most common effect size you'll encounter in this course is a correlation, whether it's the phenotypic correlation between twins, or the correlation between a genetic variant and a phenotype, or the genetic correlation between two phenotypes. 
+
+Practice visualizing what different correlations imply in terms of how consistent or spread out the data might be.
+
+It's a simple website that for some reason is really strict about picking a unique username even though it won't let you sign in to retrieve your results later. I usually just bang on my keyboard to generate a unique username to get in.
+
 -------
 
 Home: [Table of Contents](../README.md)
