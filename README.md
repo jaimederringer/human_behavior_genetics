@@ -111,9 +111,9 @@ Make good choices. You are ultimately responsible for the content of what you su
 
 #### Week 1. [What We Know and What We Don't](week_01/what_we_know.md)
 
+- Lectures: Monday, Wednesday, Friday
 - [What is Behavior Genetics?](week_01/what_is_behavior_genetics.md)
 - [Twenty Themes in Behavior Genetics](week_01/twenty_themes_in_behavior_genetics.md)
-- Lectures: Monday, Wednesday, Friday
 - Baker, C. (2004). Introduction & Chapter One: What Is Behavioral Genetics? pp. vii-xi, 1-7. [visit open access book](https://www.aaas.org/resources/behavioral-genetics/publications)
 - Brandes, N., Weissbrod, O., & Linial, M. (2022). Open problems in human trait genetics. Genome Biology, 23(1), 131. [https://doi.org/10.1186/s13059-022-02697-9](https://doi.org/10.1186/s13059-022-02697-9) (open access)
 - Briley, D. A., Livengood, J., Derringer, J., Tucker-Drob, E. M., Fraley, R. C., & Roberts, B. W. (2019). Interpreting behavior genetic models: seven developmental processes to understand. Behavior Genetics, 49, 196-210. [https://doi.org/10.1007/s10519-018-9939-6](https://doi.org/10.1007/s10519-018-9939-6)
@@ -122,9 +122,9 @@ Make good choices. You are ultimately responsible for the content of what you su
 
 #### Week 2. [We've Been Wrong Before](week_02/weve_been_wrong_before.md)
 
+- Lectures: Wednesday, Friday (No Class Monday, Labor Day)
 - [Candidate Genes](week_02/candidate_genes.md)
 - [A Very Brief History of Eugenics](week_02/eugenics.md)
-- Lectures: Wednesday, Friday (No Class Monday, Labor Day)
 - Baker, C. (2004). Chapter Two: How Do Genes Work Within Their Environments? pp. 9-22. [visit open access book](https://www.aaas.org/resources/behavioral-genetics/publications)
 - Baker, C. (2004). Chapter Three: How Do Environments Impinge Upon Genes? pp. 25-37. [visit open access book](https://www.aaas.org/resources/behavioral-genetics/publications)
 - Duncan, L. E., Ostacher, M., & Ballon, J. (2019). How genome-wide association studies (GWAS) made traditional candidate gene studies obsolete. Neuropsychopharmacology, 44(9), 1518-1523. [https://doi.org/10.1038/s41386-019-0389-5](https://doi.org/10.1038/s41386-019-0389-5)
@@ -133,9 +133,9 @@ Make good choices. You are ultimately responsible for the content of what you su
 
 #### Week 3. [Finding and Reading Behavior Genetics Research](week_03/find_and_read_behavior_genetics.md)
 
+- Lectures: Monday, Wednesday, Friday
 - [How To Read a Classical Twin Study](week_03/how_to_read_a_twin_study.md)
 - [How To Read a GWAS](week_03/how_to_read_a_gwas.md)
-- Lectures: Monday, Wednesday, Friday
 - Baker, C. (2004). Chapter Four: How Is Genetic Research On Behavior Conducted? pp. 39-57. [visit open access book](https://www.aaas.org/resources/behavioral-genetics/publications)
 - Eftedal, N. H. (2020, June 17). Estimating heritability of psychological traits using the classical twin design; a gentle introduction to concepts and assumptions. PsyArXiv. [https://doi.org/10.31234/osf.io/g3f9c](https://doi.org/10.31234/osf.io/g3f9c) (open access)
 - Tam, V., Patel, N., Turcotte, M., Bossé, Y., Paré, G., & Meyre, D. (2019). Benefits and limitations of genome-wide association studies. Nature Reviews Genetics, 20(8), 467-484. [https://doi.org/10.1038/s41576-019-0127-1](https://doi.org/10.1038/s41576-019-0127-1)
@@ -154,10 +154,10 @@ Make good choices. You are ultimately responsible for the content of what you su
 
 #### Week 5. [Ancestry: What It Is and Isn't](week_05/ancestry_what_it_is_and_isnt.md)
 
-- [Population Genetics](week_05/population_genetics.md)
-- [Scientific Racism](week_05/scientific_racism.md)
 - Lectures: Monday, Wednesday
 - Review Session: Friday
+- [Population Genetics](week_05/population_genetics.md)
+- [Scientific Racism](week_05/scientific_racism.md)
 - McLean, S. A. (2020). Social constructions, historical grounds. Practicing Anthropology, 42(3), 40-44. [https://doi.org/10.17730/0888-4552.42.3.32](https://doi.org/10.17730/0888-4552.42.3.32)
 - Martin, A. R., Kanai, M., Kamatani, Y., Okada, Y., Neale, B. M., & Daly, M. J. (2019). Clinical use of current polygenic risk scores may exacerbate health disparities. Nature Genetics, 51(4), 584-591. [https://doi.org/10.1038/s41588-019-0379-x](https://doi.org/10.1038/s41588-019-0379-x)
 - Watson, K. S., Cohn, E. G., Fair, A., Menon, U., Szalacha, L. A., Carpenter, S. M., & Wilkins, C. H. (2022). Adapting a conceptual framework to engage diverse stakeholders in genomic/precision medicine research. Health Expectations, 25(4), 1478-1485. [https://doi.org/10.1111/hex.13486](https://doi.org/10.1111/hex.13486) (open access)
@@ -221,7 +221,8 @@ Make good choices. You are ultimately responsible for the content of what you su
 #### Week 11. [Science Communication](week_11/science_communication.md)
 
 - Lecture: Monday
-- Open Work Sessions: Wednesday, Friday
+- Discussion: Wednesday
+- Open Work Session: Friday
 - Carlson, J., & Harris, K. (2020). Quantifying and contextualizing the impact of bioRxiv preprints through automated social media audience segmentation. PLoS Biology, 18(9), e3000860. [https://doi.org/10.1371/journal.pbio.3000860](https://doi.org/10.1371/journal.pbio.3000860) (open access)
 - Chapman, R., Likhanov, M., Selita, F., Zakharov, I., Smith-Woolley, E., & Kovas, Y. (2019). New literacy challenge for the twenty-first century: genetic knowledge is poor even among well educated. Journal of Community Genetics, 10, 73-84. [https://doi.org/10.1007/s12687-018-0363-7](https://doi.org/10.1007/s12687-018-0363-7) (open access)
 - Morosoli, J. J., Colodro-Conde, L., Barlow, F., & Medland, S. (2022, September 28). Scientific clickbait: Examining media coverage and readability in genome-wide association research. PsyArXiv.  [https://doi.org/10.31234/osf.io/w29as](https://doi.org/10.31234/osf.io/w29as) (open access)
@@ -242,7 +243,8 @@ Make good choices. You are ultimately responsible for the content of what you su
 #### Week 13. [Genetic Engineering](week_13/genetic_engineering.md)
 
 - Lecture: Monday
-- Open Work Sessions: Wednesday, Friday
+- Discussion: Wednesday
+- Open Work Session: Friday
 - Doudna, J. A. (2020). The promise and challenge of therapeutic genome editing. Nature, 578(7794), 229-236. [https://doi.org/10.1038/s41586-020-1978-5](https://doi.org/10.1038/s41586-020-1978-5)
 - Gyngell, C., Bowman-Smart, H., & Savulescu, J. (2019). Moral reasons to edit the human genome: picking up from the Nuffield report. Journal of Medical Ethics, 45(8), 514-523. [http://dx.doi.org/10.1136/medethics-2018-105084](http://dx.doi.org/10.1136/medethics-2018-105084) (open access)
 - Eeltink, E., Van der Horst, M. Z., Zinkstok, J. R., Aalfs, C. M., & Luykx, J. J. (2021). Polygenic risk scores for genetic counseling in psychiatry: Lessons learned from other fields of medicine. Neuroscience & Biobehavioral Reviews, 121, 119-127. [https://doi.org/10.1016/j.neubiorev.2020.11.021](https://doi.org/10.1016/j.neubiorev.2020.11.021) (open access)
@@ -255,7 +257,8 @@ Make good choices. You are ultimately responsible for the content of what you su
 #### Week 14. At the Individual Level
 
 - Lecture: Monday
-- Open Work Sessions: Wednesday, Friday
+- Discussion: Wednesday
+- Open Work Session: Friday
 - Pirmohamed, M. (2023). Pharmacogenomics: Current status and future perspectives. Nature Reviews Genetics, 1-13. [https://doi.org/10.1038/s41576-022-00572-8](https://doi.org/10.1038/s41576-022-00572-8)
 - Gómez-Carrillo, A., Paquin, V., Dumas, G., & Kirmayer, L. J. (2023). Restoring the missing person to personalized medicine and precision psychiatry. Frontiers in Neuroscience, 17, 1041433. [https://doi.org/10.3389/fnins.2023.1041433](https://doi.org/10.3389/fnins.2023.1041433) (open access)
 - Martschenko, D. (2020). DNA dreams: Teacher perspectives on the role and relevance of genetics for education. Research in Education, 107(1), 33-54. [https://doi.org/10.1177/0034523719869956](https://doi.org/10.1177/0034523719869956)
@@ -268,7 +271,7 @@ Make good choices. You are ultimately responsible for the content of what you su
 
 #### Week 15. [GATTACA & Genetics as a Social Construct](week_15/gattaca.md)
 
-- Movie Showing: Monday, Wednesday
+- Movie Showing + 20 Themes BINGO: Monday, Wednesday
 - Kirby, D. A. (2000). The New Eugenics in Cinema: Genetic Determinism and Gene Therapy in "GATTACA". Science Fiction Studies, 193-215. [https://www.jstor.org/stable/4240876](https://www.jstor.org/stable/4240876)
 - Ogbunugafor, C. B., & Edge, M. D. (2022). Gattaca as a lens on contemporary genetics: marking 25 years into the film’s “not-too-distant” future. Genetics, 222(4), iyac142. [https://doi.org/10.1093/genetics/iyac142](https://doi.org/10.1093/genetics/iyac142) (open access)
 - Roberts, J., Archer, L., DeWitt, J., & Middleton, A. (2019). Popular culture and genetics; friend, foe or something more complex? European Journal of Medical Genetics, 62(5), 368-375. [https://doi.org/10.1016/j.ejmg.2018.12.005](https://doi.org/10.1016/j.ejmg.2018.12.005) (open access)
