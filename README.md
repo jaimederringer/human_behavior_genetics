@@ -72,7 +72,7 @@ There are two kinds of assignemnts in this course: weekly activities (up to 5 po
 
 ### Weekly Activities
 
-Lecture attendance counts as a synchronous weekly activity option. You earn 1 point for every lecture session you attend. Lecture attendance, of course, cannot be "submitted" late. However, every week there will be at least 5 asynchronous options to earn participation points, so if you are not able to attend lecture you are still able to earn your full participation activity points for that week.
+Class attendance counts as a synchronous weekly activity option. You earn 1 point for every class session you attend. Class attendance, of course, cannot be submitted late. However, every week there will be at least 5 asynchronous options to earn weekly points, so if you are not able to attend class you are still able to earn your full activity points for that week.
 
 Asynchronous weekly activities (such as commenting on a reading, completing an analysis, finding and evaluating scholarly and popular sources) are due by Friday at 5 pm the week they are assigned. Weekly activities may be submitted late by the following Monday at 5 pm for a 20% reduction in credit. Late activities will not be accepted after Monday at 5 pm unless prior arrangements have been made.
 
@@ -80,11 +80,13 @@ Asynchronous weekly activities (such as commenting on a reading, completing an a
 
 The primary goal of this course is to help you develop the skills to research and understand issues related to behavior genetics in the future. The best way to do that is to guide you through actually developing your own understanding of a topic that you're interested in.
 
-The Course Project involves developing in-depth knowledge about a topic related to human behavior genetics that is of interest to you. To help you develop that knowledge, we break down 6 major steps (assignments) to acquire and demonstrate the skills to:
+The Course Project involves developing in-depth knowledge about a topic related to human behavior genetics that is of interest to you by demonstrating the skills to:
 
 - Identify, understand, and synthesize recent and historic scholarly sources;
 - Develop expertise in a specific topic of interest; and
 - Communicate knowledge to a general audience.
+
+To help you develop those skills, the Course Project is broken down into 6 major steps (assignments):
 
 1. [Ten Scholarly Source Summaries](week_08/course_project_ten_scholarly_source_summaries.md), due Week 8, 15 points
 2. [Draft Paper](week_11/course_project_draft_paper.md), due Week 11, 10 points
@@ -93,7 +95,7 @@ The Course Project involves developing in-depth knowledge about a topic related 
 5. [Final Popular Source](week_14/course_project_final_popular_source.md), due Week 14, 5 points
 6. [Final Paper](week_15/course_project_final_paper.md), due Finals Week, 10 points
 
-Additionally, throughout the semester there will be weekly activities that integrate your course project topic.
+Additionally, throughout the semester there will be weekly activities that integrate your Course Project topic and skills.
 
 Course Project assignments (those listed above) EXCEPT FOR THE FINAL PAPER are due by the Monday after the listed week by 5 pm. Late assignments lose 10% per day late, where "day" increments automatically after 5 pm (eg. 5.01 pm on Monday is 1 day late = -10%).
 
@@ -186,14 +188,17 @@ Make good choices. You are ultimately responsible for the content of what you su
 - Activity: [Evaluate a Popular Source](week_07/activity_evaluate_a_popular_source.md)
 
 
-#### Week 8. Cognitive Ability, Educational Attainment, & Gene-Environment Correlation
+#### Week 8. [Causal Reasoning in Substance Use & Aggression](week_08/causal_reasoning.md)
 
 - Lectures: Monday, Wednesday
 - Open Work Session: Friday
-- Baker, C. (2004). Chapter Seven: How Is Intellect Molded By Genes And Environments? pp. 97-117. [visit open access book](https://www.aaas.org/resources/behavioral-genetics/publications)
-- Haworth, C. M., Wright, M. J., Luciano, M., Martin, N. G., de Geus, E. J., van Beijsterveldt, C. E., ... & Plomin, R. (2010). The heritability of general cognitive ability increases linearly from childhood to young adulthood. Molecular psychiatry, 15(11), 1112-1120. [https://doi.org/10.1038/mp.2009.55](https://doi.org/10.1038/mp.2009.55)
-- Rimfeld, K., Malanchini, M., Packer, A. E., Gidziela, A., Allegrini, A. G., Ayorech, Z., ... & Plomin, R. (2021). The winding roads to adulthood: a twin study. JCPP Advances, 1(4), e12053. [https://doi.org/10.1002/jcv2.12053](https://doi.org/10.1002/jcv2.12053) (open access)
-- Activity: [Contextualize a Popular Source](week_08/activity_contextualize_a_popular_source.md)
+- Baker, C. (2004). Chapter Six: How Is The Ability To Control Impulses Affected By Genes And Environments? pp. 75-95. [visit open access book](https://www.aaas.org/resources/behavioral-genetics/publications)
+- Briley, D. A., Livengood, J., & Derringer, J. (2018). Behaviour genetic frameworks of causal reasoning for personality psychology. European Journal of Personality, 32(3), 202-220. [https://doi.org/10.1002/per.2153](https://doi.org/10.1002/per.2153)
+	- This piece gives an overview of methods of applying genetically informative data to causal reasoning. Although it's about "personality," that's really only because it was written for a personality journal; you could swap the phenotypes and environments illustrated in Figures 1-3 and all the same reasoning would apply. The one element that is relatively specific to personality is the discussion of dominance (non-additive) genetic effects, which are not observed nearly as often for non-personality phenotypes.
+- Karlsson Linnér, R., Mallard, T. T., Barr, P. B., Sanchez-Roige, S., Madole, J. W., Driver, M. N., ... & Dick, D. M. (2021). Multivariate analysis of 1.5 million people identifies genetic associations with traits related to self-regulation and addiction. Nature Neuroscience, 24(10), 1367-1376. [https://doi.org/10.1038/s41593-021-00908-3](https://doi.org/10.1038/s41593-021-00908-3)
+- Treur, J. L., Munafò, M. R., Logtenberg, E., Wiers, R. W., & Verweij, K. J. (2021). Using Mendelian randomization analysis to better understand the relationship between mental health and substance use: a systematic review. Psychological Medicine, 51(10), 1593-1624. [https://doi.org/10.1017/S003329172100180X](https://doi.org/10.1017/S003329172100180X)
+- Burt, S. A., Clark, D. A., Gershoff, E. T., Klump, K. L., & Hyde, L. W. (2021). Twin differences in harsh parenting predict youth’s antisocial behavior. Psychological Science, 32(3), 395-409. [https://doi.org/10.1177/0956797620968532](https://doi.org/10.1177/0956797620968532)
+- Activity: [Evaluate a Causal Claim](week_08/activity_evaluate_a_causal_claim.md)
 - COURSE PROJECT: [Ten Scholarly Source Summaries](week_08/course_project_ten_scholarly_source_summaries.md)
 
 #### Week 9. Internalizing, Stress, & Gene-Environment Interaction
@@ -204,17 +209,14 @@ Make good choices. You are ultimately responsible for the content of what you su
 - Hicks, B. M., DiRago, A. C., Iacono, W. G., & McGue, M. (2009). Gene–environment interplay in internalizing disorders: consistent findings across six environmental risk factors. Journal of Child Psychology and Psychiatry, 50(10), 1309-1317. [https://doi.org/10.1111/j.1469-7610.2009.02100.x](https://doi.org/10.1111/j.1469-7610.2009.02100.x)
 - Activity: [Contextualize a Popular Source](week_09/activity_contextualize_a_popular_source.md)
 
-#### Week 10. [Causal Reasoning](week_10/causal_reasoning.md)
+#### Week 10. Cognitive Ability, Educational Attainment, & Gene-Environment Correlation
 
 - Lectures: Monday, Wednesday
 - Review Session: Friday
-- Baker, C. (2004). Chapter Six: How Is The Ability To Control Impulses Affected By Genes And Environments? pp. 75-95. [visit open access book](https://www.aaas.org/resources/behavioral-genetics/publications)
-- Briley, D. A., Livengood, J., & Derringer, J. (2018). Behaviour genetic frameworks of causal reasoning for personality psychology. European Journal of Personality, 32(3), 202-220. [https://doi.org/10.1002/per.2153](https://doi.org/10.1002/per.2153)
-	- This piece gives an overview of methods of applying genetically informative data to causal reasoning. Although it's about "personality," that's really only because it was written for a personality journal; you could swap the phenotypes and environments illustrated in Figures 1-3 and all the same reasoning would apply. The one element that is relatively specific to personality is the discussion of dominance (non-additive) genetic effects, which are not observed nearly as often for non-personality phenotypes.
-- Karlsson Linnér, R., Mallard, T. T., Barr, P. B., Sanchez-Roige, S., Madole, J. W., Driver, M. N., ... & Dick, D. M. (2021). Multivariate analysis of 1.5 million people identifies genetic associations with traits related to self-regulation and addiction. Nature Neuroscience, 24(10), 1367-1376. [https://doi.org/10.1038/s41593-021-00908-3](https://doi.org/10.1038/s41593-021-00908-3)
-- Treur, J. L., Munafò, M. R., Logtenberg, E., Wiers, R. W., & Verweij, K. J. (2021). Using Mendelian randomization analysis to better understand the relationship between mental health and substance use: a systematic review. Psychological Medicine, 51(10), 1593-1624. [https://doi.org/10.1017/S003329172100180X](https://doi.org/10.1017/S003329172100180X)
-- Burt, S. A., Clark, D. A., Gershoff, E. T., Klump, K. L., & Hyde, L. W. (2021). Twin differences in harsh parenting predict youth’s antisocial behavior. Psychological Science, 32(3), 395-409. [https://doi.org/10.1177/0956797620968532](https://doi.org/10.1177/0956797620968532)
-- Activity: [Evaluate a Causal Claim](week_10/activity_evaluate_a_causal_claim.md)
+- Baker, C. (2004). Chapter Seven: How Is Intellect Molded By Genes And Environments? pp. 97-117. [visit open access book](https://www.aaas.org/resources/behavioral-genetics/publications)
+- Haworth, C. M., Wright, M. J., Luciano, M., Martin, N. G., de Geus, E. J., van Beijsterveldt, C. E., ... & Plomin, R. (2010). The heritability of general cognitive ability increases linearly from childhood to young adulthood. Molecular psychiatry, 15(11), 1112-1120. [https://doi.org/10.1038/mp.2009.55](https://doi.org/10.1038/mp.2009.55)
+- Rimfeld, K., Malanchini, M., Packer, A. E., Gidziela, A., Allegrini, A. G., Ayorech, Z., ... & Plomin, R. (2021). The winding roads to adulthood: a twin study. JCPP Advances, 1(4), e12053. [https://doi.org/10.1002/jcv2.12053](https://doi.org/10.1002/jcv2.12053) (open access)
+- Activity: [Contextualize a Popular Source](week_10/activity_contextualize_a_popular_source.md)
 
 ### <a name="part_3"></a>Part III: Applications and Ethics
 
