@@ -38,6 +38,8 @@ The history of behavior genetics is inextricably linked with eugenics and racism
 
 The course that follows these materials, as I teach it, is a 15-week advanced undergraduate/introductory graduate course focused on developing core competencies that allow for the critical evaluation of current and future knowledge. Because genetics - especially as related to complex behaviors and experiences - is a constantly developing field, and because you never know what you might need to learn about in the future, I focus skill development on accessing, reading, evaluating, and synthesizing the primary research literature. There are no exams in my course, and the major grade/product is a term paper on any topic of the students' choosing (along with an accompanying piece of public-oriented science communication). Even in a large lecture course, I am able to manage individual development of highly specialized/selected areas of expertise by following a heavily scaffolded process (developed over a decade of teaching and growing this class) that helps students learn to learn.
 
+I view my role as instructor as serving three primary purposes: (1) expert content curation, (2) accountability, and (3) a good live show (class sessions).
+
 Every instructor or textbook author necessarily makes decisions about what content to include, to focus on, to elevate or gloss over, and I am no different. There is no such thing as a neutral presentaion of any topic, much less one that has such profound and personal implications for individuals and society. For this reason, the material is not written as if by a neutral third party - I very intentionally present information from my first-person perspective, as both an expert in the field and as a whole human being. 
 
 This course is designed differently than the typical human behavior genetics course. The focus is less on preparing STEM-focused students to be academic or industry researchers (although many of my students certainly go that way) and more on preparing a diverse range of undergrads and graduate students to be consumers, caregivers, and citizens in a world where genetics is increasingly marketed as a way to make critically important decisions, both personally and as a society.
@@ -72,9 +74,11 @@ There are two kinds of assignemnts in this course: weekly activities (up to 5 po
 
 ### Weekly Activities
 
-Class attendance counts as a synchronous weekly activity option. You earn 1 point for every class session you attend. Class attendance, of course, cannot be submitted late. However, every week there will be at least 5 asynchronous options to earn weekly points, so if you are not able to attend class you are still able to earn your full activity points for that week.
+Each week you can earn up to 5 points from synchronous and asychronous participation activities.
 
-Asynchronous weekly activities (such as commenting on a reading, completing an analysis, finding and evaluating scholarly and popular sources) are due by Friday at 5 pm the week they are assigned. Weekly activities may be submitted late by the following Monday at 5 pm for a 20% reduction in credit. Late activities will not be accepted after Monday at 5 pm unless prior arrangements have been made.
+You earn 1 activity point for every class session you attend. Class attendance, of course, cannot be turned in late. However, every week there will be at least 5 asynchronous options to earn weekly points, so even if you are not able to attend class you are still able to earn your full activity points for that week.
+
+Asynchronous participation activities (such as commenting on a reading, completing an analysis, finding and evaluating scholarly and popular sources) are due by Friday at 5 pm the week they are assigned. Asynchronous weekly activities may be submitted late by the following Monday at 5 pm for a 20% reduction in credit. Late activities will not be accepted after Monday at 5 pm unless prior arrangements have been made.
 
 ### Course Project
 
@@ -86,7 +90,7 @@ The Course Project involves developing in-depth knowledge about a topic related 
 - Develop expertise in a specific topic of interest; and
 - Communicate knowledge to a general audience.
 
-To help you develop those skills, the Course Project is broken down into 6 major steps (assignments):
+The Course Project is broken down into 6 major steps (assignments):
 
 1. [Ten Scholarly Source Summaries](week_08/course_project_ten_scholarly_source_summaries.md), due Week 8, 15 points
 2. [Draft Paper](week_11/course_project_draft_paper.md), due Week 11, 10 points
@@ -156,7 +160,8 @@ Make good choices. You are ultimately responsible for the content of what you su
 
 #### Week 5. [Ancestry: What It Is and Isn't](week_05/ancestry_what_it_is_and_isnt.md)
 
-- Lectures: Monday, Wednesday
+- Lecture: Monday
+- Discussion: Wednesday
 - Review Session: Friday
 - [Population Genetics](week_05/population_genetics.md)
 - [Scientific Racism](week_05/scientific_racism.md)
@@ -174,6 +179,8 @@ Make good choices. You are ultimately responsible for the content of what you su
 - Open Work Session: Friday
 - Baker, C. (2004). Chapter Five: How Do Mental Disorders Emerge? pp. 59-72. [visit open access book](https://www.aaas.org/resources/behavioral-genetics/publications)
 - Gottesman, I. I., & Gould, T. D. (2003). The endophenotype concept in psychiatry: Etymology and strategic intentions. American Journal of Psychiatry, 160(4), 636-645. [https://doi.org/10.1176/appi.ajp.160.4.636](https://doi.org/10.1176/appi.ajp.160.4.636)
+- Hilker, R., Helenius, D., Fagerlund, B., Skytthe, A., Christensen, K., Werge, T. M., ... & Glenthøj, B. (2018). Heritability of schizophrenia and schizophrenia spectrum based on the nationwide Danish twin register. Biological Psychiatry, 83(6), 492-498. [https://doi.org/10.1016/j.biopsych.2017.08.017](https://doi.org/10.1016/j.biopsych.2017.08.017)
+- Sullivan, P. F., Yao, S., & Hjerling-Leffler, J. (2024). Schizophrenia genomics: genetic complexity and functional insights. Nature Reviews Neuroscience, 25(9), 611-624. [https://doi.org/10.1038/s41583-024-00837-7](https://doi.org/10.1038/s41583-024-00837-7)
 - Trubetskoy, V., Pardiñas, A. F., Qi, T., Panagiotaropoulou, G., Awasthi, S., Bigdeli, T. B., ... & Lazzeroni, L. C. (2022). Mapping genomic loci implicates genes and synaptic biology in schizophrenia. Nature, 604(7906), 502-508. [https://doi.org/10.1038/s41586-022-04434-5](https://doi.org/10.1038/s41586-022-04434-5)
 - Activity: [Summarize a Scholarly Source](week_06/activity_summarize_a_scholarly_source.md)
 - Activity: [Evaluate a Popular Source](week_06/activity_evaluate_a_popular_source.md)
@@ -183,7 +190,9 @@ Make good choices. You are ultimately responsible for the content of what you su
 - Lectures: Monday, Wednesday
 - Open Work Session: Friday
 - Bai, D., Yip, B. H. K., Windham, G. C., Sourander, A., Francis, R., Yoffe, R., ... & Sandin, S. (2019). Association of genetic and environmental factors with autism in a 5-country cohort. JAMA Psychiatry, 76(10), 1035-1043. [https://doi.org/10.1001/jamapsychiatry.2019.1411](https://doi.org/10.1001/jamapsychiatry.2019.1411) (open access)
+- Grove, J., Ripke, S., Als, T. D., Mattheisen, M., Walters, R. K., Won, H., ... & Børglum, A. D. (2019). Identification of common genetic risk variants for autism spectrum disorder. Nature Genetics, 51(3), 431-444. [https://doi.org/10.1038/s41588-019-0344-8](https://doi.org/10.1038/s41588-019-0344-8)
 - Koi, P. (2021). Genetics on the neurodiversity spectrum: Genetic, phenotypic and endophenotypic continua in autism and ADHD. Studies in History and Philosophy of Science Part A, 89, 52-62. [https://doi.org/10.1016/j.shpsa.2021.07.006](https://doi.org/10.1016/j.shpsa.2021.07.006) (open access)
+- Natri, H. M., Chapman, C. R., Heraty, S., Dwyer, P., Walker, N., Kapp, S. K., ... & Doherty, M. (2023). Ethical challenges in autism genomics: Recommendations for researchers. European Journal of Medical Genetics, 66(9), 104810. [https://doi.org/10.1016/j.ejmg.2023.104810](https://doi.org/10.1016/j.ejmg.2023.104810)
 - Activity: [Summarize a Scholarly Source](week_07/activity_summarize_a_scholarly_source.md)
 - Activity: [Evaluate a Popular Source](week_07/activity_evaluate_a_popular_source.md)
 
@@ -205,8 +214,9 @@ Make good choices. You are ultimately responsible for the content of what you su
 
 - Lectures: Monday, Wednesday
 - Open Work Session: Friday
-- Levey, D. F., Stein, M. B., Wendt, F. R., Pathak, G. A., Zhou, H., Aslan, M., ... & Gelernter, J. (2021). Bi-ancestral depression GWAS in the Million Veteran Program and meta-analysis in> 1.2 million individuals highlight new therapeutic directions. Nature Neuroscience, 24(7), 954-963. [https://doi.org/10.1038/s41593-021-00860-2](https://doi.org/10.1038/s41593-021-00860-2)
+- Grillo, A. R. (2025). Polygene by environment interactions predicting depressive outcomes. American Journal of Medical Genetics Part B: Neuropsychiatric Genetics, 198(1), e33000. [https://doi.org/10.1002/ajmg.b.33000](https://doi.org/10.1002/ajmg.b.33000) (open access)
 - Hicks, B. M., DiRago, A. C., Iacono, W. G., & McGue, M. (2009). Gene–environment interplay in internalizing disorders: consistent findings across six environmental risk factors. Journal of Child Psychology and Psychiatry, 50(10), 1309-1317. [https://doi.org/10.1111/j.1469-7610.2009.02100.x](https://doi.org/10.1111/j.1469-7610.2009.02100.x)
+- Levey, D. F., Stein, M. B., Wendt, F. R., Pathak, G. A., Zhou, H., Aslan, M., ... & Gelernter, J. (2021). Bi-ancestral depression GWAS in the Million Veteran Program and meta-analysis in> 1.2 million individuals highlight new therapeutic directions. Nature Neuroscience, 24(7), 954-963. [https://doi.org/10.1038/s41593-021-00860-2](https://doi.org/10.1038/s41593-021-00860-2)
 - Activity: [Contextualize a Popular Source](week_09/activity_contextualize_a_popular_source.md)
 
 #### Week 10. Cognitive Ability, Educational Attainment, & Gene-Environment Correlation
@@ -214,6 +224,7 @@ Make good choices. You are ultimately responsible for the content of what you su
 - Lectures: Monday, Wednesday
 - Review Session: Friday
 - Baker, C. (2004). Chapter Seven: How Is Intellect Molded By Genes And Environments? pp. 97-117. [visit open access book](https://www.aaas.org/resources/behavioral-genetics/publications)
+- Chen, T. T., Kim, J., Lam, M., Chuang, Y. F., Chiu, Y. L., Lin, S. C., ... & Won, H. H. (2024). Shared genetic architectures of educational attainment in East Asian and European populations. Nature Human Behaviour, 8(3), 562-575. [https://doi.org/10.1038/s41562-023-01781-9](https://doi.org/10.1038/s41562-023-01781-9) (open access)
 - Haworth, C. M., Wright, M. J., Luciano, M., Martin, N. G., de Geus, E. J., van Beijsterveldt, C. E., ... & Plomin, R. (2010). The heritability of general cognitive ability increases linearly from childhood to young adulthood. Molecular psychiatry, 15(11), 1112-1120. [https://doi.org/10.1038/mp.2009.55](https://doi.org/10.1038/mp.2009.55)
 - Rimfeld, K., Malanchini, M., Packer, A. E., Gidziela, A., Allegrini, A. G., Ayorech, Z., ... & Plomin, R. (2021). The winding roads to adulthood: a twin study. JCPP Advances, 1(4), e12053. [https://doi.org/10.1002/jcv2.12053](https://doi.org/10.1002/jcv2.12053) (open access)
 - Activity: [Contextualize a Popular Source](week_10/activity_contextualize_a_popular_source.md)
@@ -228,6 +239,7 @@ Make good choices. You are ultimately responsible for the content of what you su
 - Carlson, J., & Harris, K. (2020). Quantifying and contextualizing the impact of bioRxiv preprints through automated social media audience segmentation. PLoS Biology, 18(9), e3000860. [https://doi.org/10.1371/journal.pbio.3000860](https://doi.org/10.1371/journal.pbio.3000860) (open access)
 - Chapman, R., Likhanov, M., Selita, F., Zakharov, I., Smith-Woolley, E., & Kovas, Y. (2019). New literacy challenge for the twenty-first century: genetic knowledge is poor even among well educated. Journal of Community Genetics, 10, 73-84. [https://doi.org/10.1007/s12687-018-0363-7](https://doi.org/10.1007/s12687-018-0363-7) (open access)
 - Morosoli, J. J., Colodro-Conde, L., Barlow, F., & Medland, S. (2022, September 28). Scientific clickbait: Examining media coverage and readability in genome-wide association research. PsyArXiv.  [https://doi.org/10.31234/osf.io/w29as](https://doi.org/10.31234/osf.io/w29as) (open access)
+- Activity: Reflect on the open peer review materials provided with the Chen et al. (2024) paper from last week ([https://doi.org/10.1038/s41562-023-01781-9](https://doi.org/10.1038/s41562-023-01781-9); the link to the Peer Review File is toward the bottom in the Supplementary Information section)
 - COURSE PROJECT: [Draft Paper](week_11/course_project_draft_paper.md)
 
 #### Week 12. Data Privacy
