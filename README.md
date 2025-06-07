@@ -120,7 +120,7 @@ Make good choices. You are ultimately responsible for the content of what you su
 - Lectures: Monday, Wednesday, Friday
 - [What is Behavior Genetics?](week_01/what_is_behavior_genetics.md)
 - [Twenty Themes in Behavior Genetics](week_01/twenty_themes_in_behavior_genetics.md)
-- Baker, C. (2004). Introduction & Chapter One: What Is Behavioral Genetics? pp. vii-xi, 1-7. [visit open access book](https://www.aaas.org/resources/behavioral-genetics/publications)
+- Baker, C. (2004). Introduction & Chapter One: What Is Behavioral Genetics? pp. vii-xi, 1-7. [open access book](https://www.aaas.org/resources/behavioral-genetics/publications)
 - Brandes, N., Weissbrod, O., & Linial, M. (2022). Open problems in human trait genetics. Genome Biology, 23(1), 131. [https://doi.org/10.1186/s13059-022-02697-9](https://doi.org/10.1186/s13059-022-02697-9) (open access)
 - Briley, D. A., Livengood, J., Derringer, J., Tucker-Drob, E. M., Fraley, R. C., & Roberts, B. W. (2019). Interpreting behavior genetic models: seven developmental processes to understand. Behavior Genetics, 49, 196-210. [https://doi.org/10.1007/s10519-018-9939-6](https://doi.org/10.1007/s10519-018-9939-6)
 - Plomin, R., DeFries, J. C., Knopik, V. S., & Neiderhiser, J. M. (2016). Top 10 replicated findings from behavioral genetics. Perspectives on Psychological Science, 11(1), 3-23. [https://doi.org/10.1177/1745691615617439](https://doi.org/10.1177/1745691615617439)
@@ -131,10 +131,11 @@ Make good choices. You are ultimately responsible for the content of what you su
 - Lectures: Wednesday, Friday (No Class Monday, Labor Day)
 - [Candidate Genes](week_02/candidate_genes.md)
 - [A Very Brief History of Eugenics](week_02/eugenics.md)
-- Baker, C. (2004). Chapter Two: How Do Genes Work Within Their Environments? pp. 9-22. [visit open access book](https://www.aaas.org/resources/behavioral-genetics/publications)
+- Baker, C. (2004). Chapter Two: How Do Genes Work Within Their Environments? pp. 9-22. [open access book](https://www.aaas.org/resources/behavioral-genetics/publications)
 - Baker, C. (2004). Chapter Three: How Do Environments Impinge Upon Genes? pp. 25-37. [visit open access book](https://www.aaas.org/resources/behavioral-genetics/publications)
+- Allen, G. E. (1997). The social and economic origins of genetic determinism: a case history of the American Eugenics Movement, 1900–1940 and its lessons for today. Genetica, 99, 77-88. [https://doi.org/10.1007/BF02259511](https://doi.org/10.1007/BF02259511)
 - Duncan, L. E., Ostacher, M., & Ballon, J. (2019). How genome-wide association studies (GWAS) made traditional candidate gene studies obsolete. Neuropsychopharmacology, 44(9), 1518-1523. [https://doi.org/10.1038/s41386-019-0389-5](https://doi.org/10.1038/s41386-019-0389-5)
-- Branch, H. A., Klingler, A. N., Byers, K. J., Panofsky, A., & Peers, D. (2022). Discussions of the “not so fit”: how ableism limits diverse thought and investigative potential in evolutionary biology. The American Naturalist, 200(1), 101-113. [https://doi.org/10.1086/720003](https://doi.org/10.1086/720003)
+- Rembis, M. A. (2009). (Re) Defining disability in the ‘genetic age’: Behavioral genetics,‘new’eugenics and the future of impairment. Disability & Society, 24(5), 585-597. [https://doi.org/10.1080/09687590903010941](https://doi.org/10.1080/09687590903010941)
 - Activity: [Eugenics Journal Response](week_02/activity_eugenics_journal_response)
 
 #### Week 3. [Finding and Reading Behavior Genetics Research](week_03/find_and_read_behavior_genetics.md)
@@ -142,10 +143,10 @@ Make good choices. You are ultimately responsible for the content of what you su
 - Lectures: Monday, Wednesday, Friday
 - [How To Read a Classical Twin Study](week_03/how_to_read_a_twin_study.md)
 - [How To Read a GWAS](week_03/how_to_read_a_gwas.md)
-- Baker, C. (2004). Chapter Four: How Is Genetic Research On Behavior Conducted? pp. 39-57. [visit open access book](https://www.aaas.org/resources/behavioral-genetics/publications)
+- Baker, C. (2004). Chapter Four: How Is Genetic Research On Behavior Conducted? pp. 39-57. [open access book](https://www.aaas.org/resources/behavioral-genetics/publications)
 - Eftedal, N. H. (2020, June 17). Estimating heritability of psychological traits using the classical twin design; a gentle introduction to concepts and assumptions. PsyArXiv. [https://doi.org/10.31234/osf.io/g3f9c](https://doi.org/10.31234/osf.io/g3f9c) (open access)
 - Tam, V., Patel, N., Turcotte, M., Bossé, Y., Paré, G., & Meyre, D. (2019). Benefits and limitations of genome-wide association studies. Nature Reviews Genetics, 20(8), 467-484. [https://doi.org/10.1038/s41576-019-0127-1](https://doi.org/10.1038/s41576-019-0127-1)
-- [Activity: Estimate Heritability from Twin Data using Two Methods in R](week_03/activity_estimate_twin_heritability_two_ways.md)
+- Activity: [Estimate Heritability from Twin Data using Two Methods in R](week_03/activity_estimate_twin_heritability_two_ways.md)
 - Activity: [Interpret a Manhattan Plot](week_03/activity_interpret_a_manhattan_plot.md)
 
 #### Week 4. Height: A Model Phenotype
@@ -165,8 +166,10 @@ Make good choices. You are ultimately responsible for the content of what you su
 - Review Session: Friday
 - [Population Genetics](week_05/population_genetics.md)
 - [Scientific Racism](week_05/scientific_racism.md)
-- McLean, S. A. (2020). Social constructions, historical grounds. Practicing Anthropology, 42(3), 40-44. [https://doi.org/10.17730/0888-4552.42.3.32](https://doi.org/10.17730/0888-4552.42.3.32)
+- Bird, K. A., & Carlson, J. (2024). Typological thinking in human genomics research contributes to the production and prominence of scientific racism. Frontiers in Genetics, 15, 1345631. [https://doi.org/10.3389/fgene.2024.1345631](https://doi.org/10.3389/fgene.2024.1345631)
+- Dauda, B., Molina, S. J., Allen, D. S., Fuentes, A., Ghosh, N., Mauro, M., ... & Lewis, A. C. (2023). Ancestry: How researchers use it and what they mean by it. Frontiers in Genetics, 14, 1044555. [https://doi.org/10.3389/fgene.2023.1044555](https://doi.org/10.3389/fgene.2023.1044555)
 - Martin, A. R., Kanai, M., Kamatani, Y., Okada, Y., Neale, B. M., & Daly, M. J. (2019). Clinical use of current polygenic risk scores may exacerbate health disparities. Nature Genetics, 51(4), 584-591. [https://doi.org/10.1038/s41588-019-0379-x](https://doi.org/10.1038/s41588-019-0379-x)
+- McLean, S. A. (2020). Social constructions, historical grounds. Practicing Anthropology, 42(3), 40-44. [https://doi.org/10.17730/0888-4552.42.3.32](https://doi.org/10.17730/0888-4552.42.3.32)
 - Watson, K. S., Cohn, E. G., Fair, A., Menon, U., Szalacha, L. A., Carpenter, S. M., & Wilkins, C. H. (2022). Adapting a conceptual framework to engage diverse stakeholders in genomic/precision medicine research. Health Expectations, 25(4), 1478-1485. [https://doi.org/10.1111/hex.13486](https://doi.org/10.1111/hex.13486) (open access)
 - Activity: [Summarize a Review Source](week_05/activity_summarize_a_review_source)
 - Activity: [Plot Ancestry Principle Components in R](week_05/activity_plot_ancestry_pcs.md)
@@ -177,7 +180,7 @@ Make good choices. You are ultimately responsible for the content of what you su
 
 - Lectures: Monday, Wednesday
 - Open Work Session: Friday
-- Baker, C. (2004). Chapter Five: How Do Mental Disorders Emerge? pp. 59-72. [visit open access book](https://www.aaas.org/resources/behavioral-genetics/publications)
+- Baker, C. (2004). Chapter Five: How Do Mental Disorders Emerge? pp. 59-72. [open access book](https://www.aaas.org/resources/behavioral-genetics/publications)
 - Gottesman, I. I., & Gould, T. D. (2003). The endophenotype concept in psychiatry: Etymology and strategic intentions. American Journal of Psychiatry, 160(4), 636-645. [https://doi.org/10.1176/appi.ajp.160.4.636](https://doi.org/10.1176/appi.ajp.160.4.636)
 - Hilker, R., Helenius, D., Fagerlund, B., Skytthe, A., Christensen, K., Werge, T. M., ... & Glenthøj, B. (2018). Heritability of schizophrenia and schizophrenia spectrum based on the nationwide Danish twin register. Biological Psychiatry, 83(6), 492-498. [https://doi.org/10.1016/j.biopsych.2017.08.017](https://doi.org/10.1016/j.biopsych.2017.08.017)
 - Sullivan, P. F., Yao, S., & Hjerling-Leffler, J. (2024). Schizophrenia genomics: genetic complexity and functional insights. Nature Reviews Neuroscience, 25(9), 611-624. [https://doi.org/10.1038/s41583-024-00837-7](https://doi.org/10.1038/s41583-024-00837-7)
@@ -201,7 +204,7 @@ Make good choices. You are ultimately responsible for the content of what you su
 
 - Lectures: Monday, Wednesday
 - Open Work Session: Friday
-- Baker, C. (2004). Chapter Six: How Is The Ability To Control Impulses Affected By Genes And Environments? pp. 75-95. [visit open access book](https://www.aaas.org/resources/behavioral-genetics/publications)
+- Baker, C. (2004). Chapter Six: How Is The Ability To Control Impulses Affected By Genes And Environments? pp. 75-95. [open access book](https://www.aaas.org/resources/behavioral-genetics/publications)
 - Briley, D. A., Livengood, J., & Derringer, J. (2018). Behaviour genetic frameworks of causal reasoning for personality psychology. European Journal of Personality, 32(3), 202-220. [https://doi.org/10.1002/per.2153](https://doi.org/10.1002/per.2153)
 	- This piece gives an overview of methods of applying genetically informative data to causal reasoning. Although it's about "personality," that's really only because it was written for a personality journal; you could swap the phenotypes and environments illustrated in Figures 1-3 and all the same reasoning would apply. The one element that is relatively specific to personality is the discussion of dominance (non-additive) genetic effects, which are not observed nearly as often for non-personality phenotypes.
 - Karlsson Linnér, R., Mallard, T. T., Barr, P. B., Sanchez-Roige, S., Madole, J. W., Driver, M. N., ... & Dick, D. M. (2021). Multivariate analysis of 1.5 million people identifies genetic associations with traits related to self-regulation and addiction. Nature Neuroscience, 24(10), 1367-1376. [https://doi.org/10.1038/s41593-021-00908-3](https://doi.org/10.1038/s41593-021-00908-3)
@@ -214,6 +217,7 @@ Make good choices. You are ultimately responsible for the content of what you su
 
 - Lectures: Monday, Wednesday
 - Open Work Session: Friday
+- Bucknor, B. A., & Derringer, J. (2022). Exploring the utility of current polygenic scores in capturing resilience. Psychiatric Genetics, 32(1), 15-24. [https://doi.org/10.1097/YPG.0000000000000300](https://doi.org/10.1097/YPG.0000000000000300)
 - Grillo, A. R. (2025). Polygene by environment interactions predicting depressive outcomes. American Journal of Medical Genetics Part B: Neuropsychiatric Genetics, 198(1), e33000. [https://doi.org/10.1002/ajmg.b.33000](https://doi.org/10.1002/ajmg.b.33000) (open access)
 - Hicks, B. M., DiRago, A. C., Iacono, W. G., & McGue, M. (2009). Gene–environment interplay in internalizing disorders: consistent findings across six environmental risk factors. Journal of Child Psychology and Psychiatry, 50(10), 1309-1317. [https://doi.org/10.1111/j.1469-7610.2009.02100.x](https://doi.org/10.1111/j.1469-7610.2009.02100.x)
 - Levey, D. F., Stein, M. B., Wendt, F. R., Pathak, G. A., Zhou, H., Aslan, M., ... & Gelernter, J. (2021). Bi-ancestral depression GWAS in the Million Veteran Program and meta-analysis in> 1.2 million individuals highlight new therapeutic directions. Nature Neuroscience, 24(7), 954-963. [https://doi.org/10.1038/s41593-021-00860-2](https://doi.org/10.1038/s41593-021-00860-2)
@@ -223,7 +227,8 @@ Make good choices. You are ultimately responsible for the content of what you su
 
 - Lectures: Monday, Wednesday
 - Review Session: Friday
-- Baker, C. (2004). Chapter Seven: How Is Intellect Molded By Genes And Environments? pp. 97-117. [visit open access book](https://www.aaas.org/resources/behavioral-genetics/publications)
+- Baker, C. (2004). Chapter Seven: How Is Intellect Molded By Genes And Environments? pp. 97-117. [open access book](https://www.aaas.org/resources/behavioral-genetics/publications)
+- Benning, J. W., Carlson, J., Smith, O. S., Shaw, R. G., & Harpak, A. (2024). Confounding Fuels Misinterpretation in Human Genetics. bioRxiv, 2023-11. [https://doi.org/10.1101/2023.11.01.565061](https://doi.org/10.1101/2023.11.01.565061) (open access)
 - Chen, T. T., Kim, J., Lam, M., Chuang, Y. F., Chiu, Y. L., Lin, S. C., ... & Won, H. H. (2024). Shared genetic architectures of educational attainment in East Asian and European populations. Nature Human Behaviour, 8(3), 562-575. [https://doi.org/10.1038/s41562-023-01781-9](https://doi.org/10.1038/s41562-023-01781-9) (open access)
 - Haworth, C. M., Wright, M. J., Luciano, M., Martin, N. G., de Geus, E. J., van Beijsterveldt, C. E., ... & Plomin, R. (2010). The heritability of general cognitive ability increases linearly from childhood to young adulthood. Molecular psychiatry, 15(11), 1112-1120. [https://doi.org/10.1038/mp.2009.55](https://doi.org/10.1038/mp.2009.55)
 - Rimfeld, K., Malanchini, M., Packer, A. E., Gidziela, A., Allegrini, A. G., Ayorech, Z., ... & Plomin, R. (2021). The winding roads to adulthood: a twin study. JCPP Advances, 1(4), e12053. [https://doi.org/10.1002/jcv2.12053](https://doi.org/10.1002/jcv2.12053) (open access)
@@ -236,9 +241,9 @@ Make good choices. You are ultimately responsible for the content of what you su
 - Lecture: Monday
 - Discussion: Wednesday
 - Open Work Session: Friday
-- Carlson, J., & Harris, K. (2020). Quantifying and contextualizing the impact of bioRxiv preprints through automated social media audience segmentation. PLoS Biology, 18(9), e3000860. [https://doi.org/10.1371/journal.pbio.3000860](https://doi.org/10.1371/journal.pbio.3000860) (open access)
 - Chapman, R., Likhanov, M., Selita, F., Zakharov, I., Smith-Woolley, E., & Kovas, Y. (2019). New literacy challenge for the twenty-first century: genetic knowledge is poor even among well educated. Journal of Community Genetics, 10, 73-84. [https://doi.org/10.1007/s12687-018-0363-7](https://doi.org/10.1007/s12687-018-0363-7) (open access)
-- Morosoli, J. J., Colodro-Conde, L., Barlow, F., & Medland, S. (2022, September 28). Scientific clickbait: Examining media coverage and readability in genome-wide association research. PsyArXiv.  [https://doi.org/10.31234/osf.io/w29as](https://doi.org/10.31234/osf.io/w29as) (open access)
+- Morosoli, J. J., Colodro-Conde, L., Barlow, F. K., & Medland, S. E. (2024). Scientific clickbait: Examining media coverage and readability in genome-wide association research. Plos one, 19(1), e0296323. [https://doi.org/10.1371/journal.pone.0296323](https://doi.org/10.1371/journal.pone.0296323) (open access)
+- Panofsky, A., Dasgupta, K., Iturriaga, N., & Koch, B. (2024). Confronting the “Weaponization” of Genetics by Racists Online and Elsewhere. Hastings Center Report, 54, S14-S21. [https://doi.org/10.1002/hast.4925](https://doi.org/10.1002/hast.4925) (open access)
 - Activity: Reflect on the open peer review materials provided with the Chen et al. (2024) paper from last week ([https://doi.org/10.1038/s41562-023-01781-9](https://doi.org/10.1038/s41562-023-01781-9); the link to the Peer Review File is toward the bottom in the Supplementary Information section)
 - COURSE PROJECT: [Draft Paper](week_11/course_project_draft_paper.md)
 
