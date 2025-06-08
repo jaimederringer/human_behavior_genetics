@@ -15,7 +15,7 @@ This repository contains open educational resources (OER) for PSYC 408 Human Beh
 - [Part III: Applications and Ethics (weeks 11-15)](#part_3)
 - [Frequently Used & Additional Resources](#resources)
 
-## Course Description
+## Learning Objectives
 
 The aim of this course is to provide students with a clearer understanding of the contribution that genes make to individual differences in behavior. Students will be in a better position to evaluate evidence for and against genetic and environmental influences. They will also gain an appreciation of the interrelationships of biological and social causes of behavior and will gain a better understanding of influences that might affect themselves and others.
 
@@ -36,27 +36,21 @@ The history of behavior genetics is inextricably linked with eugenics and racism
 
 ## A Note on Pedagogy
 
-The course that follows these materials, as I teach it, is a 15-week advanced undergraduate/introductory graduate course focused on developing core competencies that allow for the critical evaluation of current and future knowledge. Because genetics - especially as related to complex behaviors and experiences - is a constantly developing field, and because you never know what you might need to learn about in the future, I focus skill development on accessing, reading, evaluating, and synthesizing the primary research literature. There are no exams in my course, and the major grade/product is a term paper on any topic of the students' choosing (along with an accompanying piece of public-oriented science communication). Even in a large lecture course, I am able to manage individual development of highly specialized/selected areas of expertise by following a heavily scaffolded process (developed over a decade of teaching and growing this class) that helps students learn to learn.
-
 I view my role as instructor as serving three primary purposes: (1) expert content curation, (2) accountability, and (3) a good live show (class sessions).
+
+The course that follows these materials, as I teach it, is a 15-week advanced undergraduate/introductory graduate course focused on developing core competencies that allow for the critical evaluation of current and future knowledge. Because genetics - especially as related to complex behaviors and experiences - is a constantly developing field, and because you never know what you might need to learn about in the future, I focus skill development on accessing, reading, evaluating, and synthesizing the primary research literature. There are no exams in my course, and the major grade/product is a term paper on any topic of the students' choosing (along with an accompanying piece of public-oriented science communication). Even in a large lecture course, I am able to manage individual development of highly specialized/selected areas of expertise by following a heavily scaffolded process (developed over a decade of teaching and growing this class) that helps students learn to learn.
 
 Every instructor or textbook author necessarily makes decisions about what content to include, to focus on, to elevate or gloss over, and I am no different. There is no such thing as a neutral presentaion of any topic, much less one that has such profound and personal implications for individuals and society. For this reason, the material is not written as if by a neutral third party - I very intentionally present information from my first-person perspective, as both an expert in the field and as a whole human being. 
 
 This course is designed differently than the typical human behavior genetics course. The focus is less on preparing STEM-focused students to be academic or industry researchers (although many of my students certainly go that way) and more on preparing a diverse range of undergrads and graduate students to be consumers, caregivers, and citizens in a world where genetics is increasingly marketed as a way to make critically important decisions, both personally and as a society.
 
-If you are looking for material that takes a more standard approach to an introduction to human behavior genetics, I recommend Scott Stoltenberg's [Foundations of Behavior Genetics](https://www.cambridge.org/highereducation/books/foundations-of-behavior-genetics/D56A9C68E53ED87EAD1E5529A88CC3D0#overview) textbook and/or Matt McGue's [Introduction to Behavioral Genetics](https://www.coursera.org/learn/behavioralgenetics) course on Coursera. During the first half of the course we will also be reading through Catherine Baker's (2004) Behavioral Genetics: An Introduction to How Genes and Environments Interact Through Development to Shape Differences in Mood, Personality, and Intelligence, a product of a project conducted by the American Association for the Advancement of Science (AAAS) and The Hastings Center, which is available as an [open access book](https://www.aaas.org/resources/behavioral-genetics/publications).
+If you are looking for material that takes a more standard approach to an introduction to human behavior genetics, I recommend Scott Stoltenberg's [Foundations of Behavior Genetics](https://www.cambridge.org/highereducation/books/foundations-of-behavior-genetics/D56A9C68E53ED87EAD1E5529A88CC3D0#overview) textbook and/or Matt McGue's [Introduction to Behavioral Genetics](https://www.coursera.org/learn/behavioralgenetics) course on Coursera. 
 
-## Grading
+## Course Structure
 
-Grades are assigned based on your final point total at the end of the semester.
+Points earned for weekly participation activities and larger course project assignments are scaled such that each point is expected to take about 1 hour of effort, including time to prepare (e.g. read, think) and complete (e.g. write, edit) the task. Consistent with an expectation that a course takes about 3 times the number of credits in hours per week, as a 3-credit course (for undergrads), plan to spend an average of 9 hours per week working on this course.
 
-The total possible number of points in this course is 135. Points come from two sources: weekly participation activities, including lecture attendance and weekly assignments (up to 5 points per week x 15 weeks = up to 75 points), and course project assignments leading to a term paper (up to 60 points from 6 assignments). There are no exams. 
-
-Points earned for weekly participation activities and larger course project assignments are scaled such that each point is expected to take about 1 to 1.5 hours of effort, including time to prepare (e.g. read, think) and complete (e.g. write, edit) the task. This is consistent with an expectation that a course takes about 3 times the number of credits in hours per week. As a 3-credit course (for undergrads), plan to spend an average of 9 hours per week working on this course, including attending lectures, weekly participation activities, and larger course project assignments.
-
-You complete an activity, you earn a point. You attend lecture, you earn a point. You submit a course project assignment, you receive points as described on that assignment. Over the course of the semester, you collect your points. At the end of the semester, you exchange your points for a grade.
-
-There are no +s or -s, only letter grades. 
+**Grades** are based on the total number of points earned by the end of the semester. Points come from weekly activities (up to five points per week for 15 weeks) and a course project (including six assignments leading up to a term paper, totaling up to 60 points). There are potentially 135 points to be earned throughout the semester.
 
 | Points | Letter Grade |
 | --- | ----------- |
@@ -66,50 +60,44 @@ There are no +s or -s, only letter grades.
 | 75 - 89.999 | D |
 | < 75 | F |
 
-The total possible number of points in this course is 135 (75 weekly participation + 60 course project), although you may notice that the table for converting points into final grades doesn't quite scale at 10% increments (eg. 90% of 135 is 122.5, but you only need 120 points to earn an A). The extra cushioning on each letter grade is intended to serve as buffer for flexibility for absences or missed assignments, whatever the reason. That is, you could miss up to 15 points worth of activities (3 whole weeks of attendance, or one of the 'largest' assignments), and still be able to earn an A.
+There are no +s or -s, only letter grades. 
 
-Final grades are based on total points; if Canvas shows a % calculation, ignore it.
+You may notice that the table for converting points into final grades doesn't quite scale at 10% increments (eg. 90% of 135 is 122.5, but you only need 120 points to earn an A). The extra cushioning on each letter grade is intended to serve as buffer for flexibility for absences or missed assignments. 
 
-There are two kinds of assignemnts in this course: weekly activities (up to 5 points per week) and course project assignments (60 points total across 6 assignments).
+**Activities** are scaled so that about 1 hour of effort = 1 point. You can earn up to five points per week from activities. Every week there will be more than five options for activities available; you are welcome to choose-your-own-adventure in terms of which activities you complete. The list of activities available each week is contained as the 'module' for that week. You are expected to at least skim everything early in each week to (1) decide which activities you're going to do and (2) quickly be able to find and digest any particular section of readings that come up for discussion in class that week. 
 
-### Weekly Activities
+Weekly activities are due by Friday 5 pm that week. Late weekly activities may be submitted by Monday 5 pm for 80% credit.
 
-Each week you can earn up to 5 points from synchronous and asychronous participation activities.
+Each class attended earns 1 activity point. Lectures and discussions will be generally structured around the readings associated with that week. Class attendance points can't be made up or submitted late, but there will be at least five asynchonous Activity options each week, so even if you are unable to attend class you can still earn all of your weekly points. 
 
-You earn 1 activity point for every class session you attend. Class attendance, of course, cannot be turned in late. However, every week there will be at least 5 asynchronous options to earn weekly points, so even if you are not able to attend class you are still able to earn your full activity points for that week.
+Outside of class, the most common weekly activity will be annotating/virtually discussing journal articles in Perusall. Perusall applies automatic scoring based on an algorithm that I define; usually, about 4 high-quality comments or replies on an article will earn a point.
 
-Asynchronous participation activities (such as commenting on a reading, completing an analysis, finding and evaluating scholarly and popular sources) are due by Friday at 5 pm the week they are assigned. Asynchronous weekly activities may be submitted late by the following Monday at 5 pm for a 20% reduction in credit. Late activities will not be accepted after Monday at 5 pm unless prior arrangements have been made.
+Throughout the semester, you will develop a **Course Project** about a topic related to human behavior genetics that is of interest to you, with the goals of identifying, understanding, and synthesizing recent and historic scholarly sources; developing expertise in a specific topic of interest; and communicating knowledge to a general audience. The course project includes six major assignments up to and including the final paper:
 
-### Course Project
+- Week 8: [Ten Scholarly Source Summaries](week_08/course_project_ten_scholarly_source_summaries.md) (15 points
+- Week 11: [Draft Paper](week_11/course_project_draft_paper.md) (10 points)
+- Week 12: [Draft Popular Source](week_12/course_project_draft_popular_source.md) (5 points)
+- Week 13: [Paper Peer Reviews](week_13/course_project_peer_review_papers.md) (15 points)
+- Week 14: [Final Popular Source](week_14/course_project_final_popular_source.md) (5 points)
+- Finals Week: [Final Paper](week_15/course_project_final_paper.md) (10 points)
 
-The primary goal of this course is to help you develop the skills to research and understand issues related to behavior genetics in the future. The best way to do that is to guide you through actually developing your own understanding of a topic that you're interested in.
-
-The Course Project involves developing in-depth knowledge about a topic related to human behavior genetics that is of interest to you by demonstrating the skills to:
-
-- Identify, understand, and synthesize recent and historic scholarly sources;
-- Develop expertise in a specific topic of interest; and
-- Communicate knowledge to a general audience.
-
-The Course Project is broken down into 6 major steps (assignments):
-
-1. [Ten Scholarly Source Summaries](week_08/course_project_ten_scholarly_source_summaries.md), due Week 8, 15 points
-2. [Draft Paper](week_11/course_project_draft_paper.md), due Week 11, 10 points
-3. [Draft Popular Source](week_12/course_project_draft_popular_source.md), due Week 12, 5 points
-4. [Paper Peer Reviews](week_13/course_project_peer_review_papers.md), due Week 13, 15 points
-5. [Final Popular Source](week_14/course_project_final_popular_source.md), due Week 14, 5 points
-6. [Final Paper](week_15/course_project_final_paper.md), due Finals Week, 10 points
-
-Additionally, throughout the semester there will be weekly activities that integrate your Course Project topic and skills.
-
-Course Project assignments (those listed above) EXCEPT FOR THE FINAL PAPER are due by the Monday after the listed week by 5 pm. Late assignments lose 10% per day late, where "day" increments automatically after 5 pm (eg. 5.01 pm on Monday is 1 day late = -10%).
-
-The Final Paper is due by 5 pm on the day our "Final Exam" would have been held based on the noncombined finals schedule. Late Final Papers will not be accepted.
+Course Project assignments due during the semester are due by the Monday after the listed week by 5 pm. The Final Paper is due by 5 pm on the day our "Final Exam" would have been held based on the noncombined finals schedule. Late Course Project assignments lose 10% of their grade per day late.
 
 ### Integrity and "AI" Policy
 
 [UIUC Student Code Academic Integrity Policy](https://studentcode.illinois.edu/article1/part4/1-402)
 
 Make good choices. You are ultimately responsible for the content of what you submit. The landscape of computer assistance for research and knowledge production is ever changing. A good guideline is that if you would be uncomfortable describing your process for producing work for this course (to me, to your parents, or announced on a roadside billboard), you should re-evaluate your approach. If you are in doubt, reach out to discuss options and approaches. I am a reasonable, practical person, and I can tell you from experience that the examples of (obviously) "AI" generated work that I have encountered have been terrible enough that they end up earning failing scores on their merits alone. We will work through some examples of how AI/large language models fail to reason competently in this area (true for most fields, once you get into advanced knowledge production and synthesis, as we do in college courses). If you would like to quickly see for yourself, try talking to any LLM about a topic you are very knowledgable about... it'll say wrong things that sound good, except you know better. This is true for genetics as well (maybe even especially so, considering the amount of misinformation on the internet that these models have to draw from) - you will get a lot of confident nonsense that to an expert (like me) is obviously, hilariously, depressingly wrong.
+
+### Accessing Course Readings
+
+PDFs of Course Readings will be posted on the course Canvas page. 
+
+If you are accessing readings from outside of the course, I've tried to mark articles that are freely available as (open access). For those that aren't, many are old/popular enough that there are freely available PDFs floating around on the internet if you search for the article. If you have access to a University library system, most of these journals will likely be available online through your library. 
+
+When you pay to access a journal article, that money goes to the publisher, not to the authors or their institutions. Especially newer articles you can usually get by emailing the author (first, last, or corresponding) - we love to hear that someone wants to read our work! Services like Sci-Hub ([https://en.wikipedia.org/wiki/Sci-Hub](https://en.wikipedia.org/wiki/Sci-Hub)) bypass journal paywalls to provide free access. 
+
+During the first half of the course we will also be reading through Catherine Baker's (2004) Behavioral Genetics: An Introduction to How Genes and Environments Interact Through Development to Shape Differences in Mood, Personality, and Intelligence, a product of a project conducted by the American Association for the Advancement of Science (AAAS) and The Hastings Center, which is available as an [open access book](https://www.aaas.org/resources/behavioral-genetics/publications).
 
 ## Schedule and Materials
 
@@ -135,7 +123,7 @@ Make good choices. You are ultimately responsible for the content of what you su
 - Baker, C. (2004). Chapter Three: How Do Environments Impinge Upon Genes? pp. 25-37. [visit open access book](https://www.aaas.org/resources/behavioral-genetics/publications)
 - Allen, G. E. (1997). The social and economic origins of genetic determinism: a case history of the American Eugenics Movement, 1900–1940 and its lessons for today. Genetica, 99, 77-88. [https://doi.org/10.1007/BF02259511](https://doi.org/10.1007/BF02259511)
 - Duncan, L. E., Ostacher, M., & Ballon, J. (2019). How genome-wide association studies (GWAS) made traditional candidate gene studies obsolete. Neuropsychopharmacology, 44(9), 1518-1523. [https://doi.org/10.1038/s41386-019-0389-5](https://doi.org/10.1038/s41386-019-0389-5)
-- Rembis, M. A. (2009). (Re) Defining disability in the ‘genetic age’: Behavioral genetics,‘new’eugenics and the future of impairment. Disability & Society, 24(5), 585-597. [https://doi.org/10.1080/09687590903010941](https://doi.org/10.1080/09687590903010941)
+- Rembis, M. A. (2009). (Re) Defining disability in the ‘genetic age’: Behavioral genetics,‘new’ eugenics and the future of impairment. Disability & Society, 24(5), 585-597. [https://doi.org/10.1080/09687590903010941](https://doi.org/10.1080/09687590903010941)
 - Activity: [Eugenics Journal Response](week_02/activity_eugenics_journal_response)
 
 #### Week 3. [Finding and Reading Behavior Genetics Research](week_03/find_and_read_behavior_genetics.md)
@@ -181,8 +169,8 @@ Make good choices. You are ultimately responsible for the content of what you su
 - Lectures: Monday, Wednesday
 - Open Work Session: Friday
 - Baker, C. (2004). Chapter Five: How Do Mental Disorders Emerge? pp. 59-72. [open access book](https://www.aaas.org/resources/behavioral-genetics/publications)
-- Gottesman, I. I., & Gould, T. D. (2003). The endophenotype concept in psychiatry: Etymology and strategic intentions. American Journal of Psychiatry, 160(4), 636-645. [https://doi.org/10.1176/appi.ajp.160.4.636](https://doi.org/10.1176/appi.ajp.160.4.636)
 - Hilker, R., Helenius, D., Fagerlund, B., Skytthe, A., Christensen, K., Werge, T. M., ... & Glenthøj, B. (2018). Heritability of schizophrenia and schizophrenia spectrum based on the nationwide Danish twin register. Biological Psychiatry, 83(6), 492-498. [https://doi.org/10.1016/j.biopsych.2017.08.017](https://doi.org/10.1016/j.biopsych.2017.08.017)
+- Kendler, K. S. (2015). A joint history of the nature of genetic variation and the nature of schizophrenia. Molecular Psychiatry, 20(1), 77-83. [https://doi.org/10.1038/mp.2014.94](https://doi.org/10.1038/mp.2014.94)
 - Sullivan, P. F., Yao, S., & Hjerling-Leffler, J. (2024). Schizophrenia genomics: genetic complexity and functional insights. Nature Reviews Neuroscience, 25(9), 611-624. [https://doi.org/10.1038/s41583-024-00837-7](https://doi.org/10.1038/s41583-024-00837-7)
 - Trubetskoy, V., Pardiñas, A. F., Qi, T., Panagiotaropoulou, G., Awasthi, S., Bigdeli, T. B., ... & Lazzeroni, L. C. (2022). Mapping genomic loci implicates genes and synaptic biology in schizophrenia. Nature, 604(7906), 502-508. [https://doi.org/10.1038/s41586-022-04434-5](https://doi.org/10.1038/s41586-022-04434-5)
 - Activity: [Summarize a Scholarly Source](week_06/activity_summarize_a_scholarly_source.md)
@@ -217,9 +205,9 @@ Make good choices. You are ultimately responsible for the content of what you su
 
 - Lectures: Monday, Wednesday
 - Open Work Session: Friday
-- Bucknor, B. A., & Derringer, J. (2022). Exploring the utility of current polygenic scores in capturing resilience. Psychiatric Genetics, 32(1), 15-24. [https://doi.org/10.1097/YPG.0000000000000300](https://doi.org/10.1097/YPG.0000000000000300)
 - Grillo, A. R. (2025). Polygene by environment interactions predicting depressive outcomes. American Journal of Medical Genetics Part B: Neuropsychiatric Genetics, 198(1), e33000. [https://doi.org/10.1002/ajmg.b.33000](https://doi.org/10.1002/ajmg.b.33000) (open access)
 - Hicks, B. M., DiRago, A. C., Iacono, W. G., & McGue, M. (2009). Gene–environment interplay in internalizing disorders: consistent findings across six environmental risk factors. Journal of Child Psychology and Psychiatry, 50(10), 1309-1317. [https://doi.org/10.1111/j.1469-7610.2009.02100.x](https://doi.org/10.1111/j.1469-7610.2009.02100.x)
+- Kendler, K. S. (2020). A prehistory of the diathesis-stress model: predisposing and exciting causes of insanity in the 19th century. American Journal of Psychiatry, 177(7), 576-588. [https://doi.org/10.1176/appi.ajp.2020.19111213](https://doi.org/10.1176/appi.ajp.2020.19111213)
 - Levey, D. F., Stein, M. B., Wendt, F. R., Pathak, G. A., Zhou, H., Aslan, M., ... & Gelernter, J. (2021). Bi-ancestral depression GWAS in the Million Veteran Program and meta-analysis in> 1.2 million individuals highlight new therapeutic directions. Nature Neuroscience, 24(7), 954-963. [https://doi.org/10.1038/s41593-021-00860-2](https://doi.org/10.1038/s41593-021-00860-2)
 - Activity: [Contextualize a Popular Source](week_09/activity_contextualize_a_popular_source.md)
 
@@ -244,18 +232,20 @@ Make good choices. You are ultimately responsible for the content of what you su
 - Chapman, R., Likhanov, M., Selita, F., Zakharov, I., Smith-Woolley, E., & Kovas, Y. (2019). New literacy challenge for the twenty-first century: genetic knowledge is poor even among well educated. Journal of Community Genetics, 10, 73-84. [https://doi.org/10.1007/s12687-018-0363-7](https://doi.org/10.1007/s12687-018-0363-7) (open access)
 - Morosoli, J. J., Colodro-Conde, L., Barlow, F. K., & Medland, S. E. (2024). Scientific clickbait: Examining media coverage and readability in genome-wide association research. Plos one, 19(1), e0296323. [https://doi.org/10.1371/journal.pone.0296323](https://doi.org/10.1371/journal.pone.0296323) (open access)
 - Panofsky, A., Dasgupta, K., Iturriaga, N., & Koch, B. (2024). Confronting the “Weaponization” of Genetics by Racists Online and Elsewhere. Hastings Center Report, 54, S14-S21. [https://doi.org/10.1002/hast.4925](https://doi.org/10.1002/hast.4925) (open access)
+- Reydon, T. A., Kampourakis, K., & Patrinos, G. P. (2012). Genetics, genomics and society: the responsibilities of scientists for science communication and education. Personalized Medicine, 9(6), 633-643. [https://doi.org/10.2217/pme.12.69](https://doi.org/10.2217/pme.12.69)
+- Roberts, J., Archer, L., DeWitt, J., & Middleton, A. (2019). Popular culture and genetics; friend, foe or something more complex? European Journal of Medical Genetics, 62(5), 368-375. [https://doi.org/10.1016/j.ejmg.2018.12.005](https://doi.org/10.1016/j.ejmg.2018.12.005) (open access)
 - Activity: Reflect on the open peer review materials provided with the Chen et al. (2024) paper from last week ([https://doi.org/10.1038/s41562-023-01781-9](https://doi.org/10.1038/s41562-023-01781-9); the link to the Peer Review File is toward the bottom in the Supplementary Information section)
 - COURSE PROJECT: [Draft Paper](week_11/course_project_draft_paper.md)
 
-#### Week 12. Data Privacy
+#### Week 12. Data Privacy, Law Enforcement, and Discrimination
 
 - Lecture: Monday
 - No Class: Wednesday, Friday 
-- Tzortzatou‐Nanopoulou, O., Akyüz, K., Goisauf, M., Kozera, Ł., Mežinska, S., Th. Mayrhofer, M., ... & Makri, M. (2023). Ethical, legal, and social implications in research biobanking: A checklist for navigating complexity. Developing World Bioethics. [https://doi.org/10.1111/dewb.12411](https://doi.org/10.1111/dewb.12411) (open access)
-- Seaver, L. H., Khushf, G., King, N. M., Matalon, D. R., Sanghavi, K., Vatta, M., ... & Ethical and Legal Issues Committee. (2022). Points to consider to avoid unfair discrimination and the misuse of genetic information: A statement of the American College of Medical Genetics and Genomics (ACMG). Genetics in Medicine, 24(3), 512-520. [https://doi.org/10.1016/j.gim.2021.11.002](https://doi.org/10.1016/j.gim.2021.11.002) (open access)
-- Katsanis, S. H. (2020). Pedigrees and perpetrators: uses of DNA and genealogy in forensic investigations. Annual Review of Genomics and Human Genetics, 21, 535-564. [https://doi.org/10.1146/annurev-genom-111819-084213](https://doi.org/10.1146/annurev-genom-111819-084213) (open access)
 - Granja, R., & Machado, H. (2020). Forensic DNA phenotyping and its politics of legitimation and contestation: Views of forensic geneticists in Europe. Social Studies of Science, 0306312720945033. [https://doi.org/10.1177/0306312720945033](https://doi.org/10.1177/0306312720945033) (open access)
+- Katsanis, S. H. (2020). Pedigrees and perpetrators: uses of DNA and genealogy in forensic investigations. Annual Review of Genomics and Human Genetics, 21, 535-564. [https://doi.org/10.1146/annurev-genom-111819-084213](https://doi.org/10.1146/annurev-genom-111819-084213) (open access)
 - Sabatello, M., & Appelbaum, P. S. (2017). Behavioral genetics in criminal and civil courts. Harvard Review of Psychiatry, 25(6), 289-301. [https://doi.org/10.1097%2FHRP.0000000000000141](https://doi.org/10.1097%2FHRP.0000000000000141)
+- Seaver, L. H., Khushf, G., King, N. M., Matalon, D. R., Sanghavi, K., Vatta, M., ... & Ethical and Legal Issues Committee. (2022). Points to consider to avoid unfair discrimination and the misuse of genetic information: A statement of the American College of Medical Genetics and Genomics (ACMG). Genetics in Medicine, 24(3), 512-520. [https://doi.org/10.1016/j.gim.2021.11.002](https://doi.org/10.1016/j.gim.2021.11.002) (open access)
+- Tzortzatou‐Nanopoulou, O., Akyüz, K., Goisauf, M., Kozera, Ł., Mežinska, S., Th. Mayrhofer, M., ... & Makri, M. (2023). Ethical, legal, and social implications in research biobanking: A checklist for navigating complexity. Developing World Bioethics. [https://doi.org/10.1111/dewb.12411](https://doi.org/10.1111/dewb.12411) (open access)
 - Activity: [Write an Imaginary Press Release](week_12/activity_write_an_imaginary_press_release.md)
 - COURSE PROJECT: [Draft Popular Source](week_12/course_project_draft_popular_source.md)
 
@@ -263,42 +253,39 @@ Make good choices. You are ultimately responsible for the content of what you su
 
 - Lecture: Monday
 - Discussion: Wednesday
-- Open Work Session: Friday
+- No Class: Friday
 - Doudna, J. A. (2020). The promise and challenge of therapeutic genome editing. Nature, 578(7794), 229-236. [https://doi.org/10.1038/s41586-020-1978-5](https://doi.org/10.1038/s41586-020-1978-5)
+- Grebe, T. A., Khushf, G., Greally, J. M., Turley, P., Foyouzi, N., Rabin-Havt, S., ... & Social, A. C. M. G. (2024). Clinical utility of polygenic risk scores for embryo selection: A points to consider statement of the American College of Medical Genetics and Genomics (ACMG). Genetics in Medicine, 26(4), 101052. https://doi.org/10.1016/j.gim.2023.101052
 - Gyngell, C., Bowman-Smart, H., & Savulescu, J. (2019). Moral reasons to edit the human genome: picking up from the Nuffield report. Journal of Medical Ethics, 45(8), 514-523. [http://dx.doi.org/10.1136/medethics-2018-105084](http://dx.doi.org/10.1136/medethics-2018-105084) (open access)
-- Eeltink, E., Van der Horst, M. Z., Zinkstok, J. R., Aalfs, C. M., & Luykx, J. J. (2021). Polygenic risk scores for genetic counseling in psychiatry: Lessons learned from other fields of medicine. Neuroscience & Biobehavioral Reviews, 121, 119-127. [https://doi.org/10.1016/j.neubiorev.2020.11.021](https://doi.org/10.1016/j.neubiorev.2020.11.021) (open access)
-- Lencz, T., Sabatello, M., Docherty, A., Peterson, R. E., Soda, T., Austin, J., ... & Davis, L. K. (2022). Concerns about the use of polygenic embryo screening for psychiatric and cognitive traits. The Lancet Psychiatry, 9(10), 838-844. [https://doi.org/10.1016/S2215-0366(22)00157-2](https://doi.org/10.1016/S2215-0366(22)00157-2)
 - Activity: [Identify Themes in a Popular Source](week_13/activity_identify_themes_in_a_popular_source.md)
 - Activity: [Popular Source Peer Reviews](week_13/activity_peer_review_popular_sources.md)
 - COURSE PROJECT: [Paper Peer Reviews](week_13/course_project_peer_review_papers.md)
 
 
-#### Week 14. At the Individual Level
+#### Week 14. At the Individual Level: Personalized Medicine, Personalized Education, and Direct-To-Consumer Tests
 
 - Lecture: Monday
 - Discussion: Wednesday
 - Open Work Session: Friday
-- Pirmohamed, M. (2023). Pharmacogenomics: Current status and future perspectives. Nature Reviews Genetics, 1-13. [https://doi.org/10.1038/s41576-022-00572-8](https://doi.org/10.1038/s41576-022-00572-8)
+- Eeltink, E., Van der Horst, M. Z., Zinkstok, J. R., Aalfs, C. M., & Luykx, J. J. (2021). Polygenic risk scores for genetic counseling in psychiatry: Lessons learned from other fields of medicine. Neuroscience & Biobehavioral Reviews, 121, 119-127. [https://doi.org/10.1016/j.neubiorev.2020.11.021](https://doi.org/10.1016/j.neubiorev.2020.11.021) (open access)
 - Gómez-Carrillo, A., Paquin, V., Dumas, G., & Kirmayer, L. J. (2023). Restoring the missing person to personalized medicine and precision psychiatry. Frontiers in Neuroscience, 17, 1041433. [https://doi.org/10.3389/fnins.2023.1041433](https://doi.org/10.3389/fnins.2023.1041433) (open access)
 - Martschenko, D. (2020). DNA dreams: Teacher perspectives on the role and relevance of genetics for education. Research in Education, 107(1), 33-54. [https://doi.org/10.1177/0034523719869956](https://doi.org/10.1177/0034523719869956)
-- Morris, T. T., Davies, N. M., & Davey Smith, G. (2020). Can education be personalised using pupils’ genetic data?. elife, 9, e49962. [https://doi.org/10.7554/eLife.49962](https://doi.org/10.7554/eLife.49962) (open access)
 - Majumder, M. A., Guerrini, C. J., & McGuire, A. L. (2021). Direct-to-consumer genetic testing: value and risk. Annual Review of Medicine, 72, 151-166. [https://doi.org/10.1146/annurev-med-070119-114727](https://doi.org/10.1146/annurev-med-070119-114727) (open access)
 - Rubanovich, C. K., Taitingfong, R., Triplett, C., Libiger, O., Schork, N. J., Wagner, J. K., & Bloss, C. S. (2021). Impacts of personal DNA ancestry testing. Journal of Community Genetics, 12, 37-52. [https://doi.org/10.1007/s12687-020-00481-5](https://doi.org/10.1007/s12687-020-00481-5)
-- Thiebes, S., Toussaint, P. A., Ju, J., Ahn, J. H., Lyytinen, K., & Sunyaev, A. (2020). Valuable genomes: taxonomy and archetypes of business models in direct-to-consumer genetic testing. Journal of Medical Internet Research, 22(1), e14890. [https://doi.org/10.2196/14890](https://doi.org/10.2196/14890) (open access)
 - Activity: [Identify Themes in a Popular Source](week_14/activity_identify_themes_in_a_popular_source.md)
 - COURSE PROJECT: [Final Popular Source](week_14/course_project_final_popular_source.md)
 
-#### Week 15. [GATTACA & Genetics as a Social Construct](week_15/gattaca.md)
+#### Week 15. [GATTACA](week_15/gattaca.md)
 
-- Movie Showing + 20 Themes BINGO: Monday, Wednesday
-- Kirby, D. A. (2000). The New Eugenics in Cinema: Genetic Determinism and Gene Therapy in "GATTACA". Science Fiction Studies, 193-215. [https://www.jstor.org/stable/4240876](https://www.jstor.org/stable/4240876)
+- Movie Showing & 20 Themes BINGO: Monday, Wednesday
 - Ogbunugafor, C. B., & Edge, M. D. (2022). Gattaca as a lens on contemporary genetics: marking 25 years into the film’s “not-too-distant” future. Genetics, 222(4), iyac142. [https://doi.org/10.1093/genetics/iyac142](https://doi.org/10.1093/genetics/iyac142) (open access)
-- Roberts, J., Archer, L., DeWitt, J., & Middleton, A. (2019). Popular culture and genetics; friend, foe or something more complex? European Journal of Medical Genetics, 62(5), 368-375. [https://doi.org/10.1016/j.ejmg.2018.12.005](https://doi.org/10.1016/j.ejmg.2018.12.005) (open access)
-- So, D., Crocker, K., Sladek, R., & Joly, Y. (2022). Science fiction authors’ perspectives on human genetic engineering. Medical Humanities, 48(3), 285-297. [http://dx.doi.org/10.1136/medhum-2020-012041](http://dx.doi.org/10.1136/medhum-2020-012041)
+- So, D., Crocker, K., Sladek, R., & Joly, Y. (2022). Science fiction authors’ perspectives on human genetic engineering. Medical Humanities, 48(3), 285-297. [https://doi.org/10.1136/medhum-2020-012041](https://doi.org/10.1136/medhum-2020-012041)
 - Activity: [Genetics in Fiction](week_15/activity_genetics_in_fiction.md)
 - Activity: [Design Your Own Gene](week_15/activity_design_your_own_gene.md)
 - Activity: [Five Big Ideas](week_15/activity_five_big_ideas.md)
-- COURSE PROJECT: [Final Paper](week_15/course_project_final_paper.md)
+
+#### Finals Week
+- COURSE PROJECT: [Final Paper](week_15/course_project_final_paper.md) due by 5 pm on what would have been our "Finals Day" (TBD)
 
 ### <a name="resources"></a>Frequently Used & Additional Resources
 
