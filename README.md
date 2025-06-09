@@ -16,6 +16,7 @@ The last major update of content was for the Fall 2023 semester; it is currently
 	- Course Structure
 	- Integry and "AI" Policy
 	- Accessing Course Readings
+	- Frequently Used & Additional Resources
 - [Part I: Methods and Concepts (weeks 1-5)](#part_1)
 	- What We Know and What We Don't
 	- We've Been Wrong Before
@@ -34,7 +35,6 @@ The last major update of content was for the Fall 2023 semester; it is currently
 	- Genetic Engineering
 	- Personalized Medicine, Personalized Education, and Direct-To-Consumer Tests
 	- GATTACA, and Genetics as a Social Construct
-- [Frequently Used & Additional Resources](#resources)
 
 ## <a name="syllabus"></a>Syllabus
 
@@ -126,6 +126,20 @@ When you pay to access a journal article, that money goes to the publisher, not 
 
 During the first half of the course we will also be reading through Catherine Baker's (2004) Behavioral Genetics: An Introduction to How Genes and Environments Interact Through Development to Shape Differences in Mood, Personality, and Intelligence, a product of a project conducted by the American Association for the Advancement of Science (AAAS) and The Hastings Center, which is available as an [open access book](https://www.aaas.org/resources/behavioral-genetics/publications).
 
+### Frequently Used & Additional Resources
+
+- [Lecture recordings (Fall 2023) on Illinois Media Space](https://mediaspace.illinois.edu/channel/PSYC%2B408%2BFA23%2BHuman%2BBehavior%2BGenetics/313231162) (requires Illinois login)
+- [Twenty themes in behavior genetics](week_01/twenty_themes_in_behavior_genetics.md)
+- [Identify scholarly versus popular sources](week_03/identify_scholarly_sources.md)
+- [Template to summarize a Scholarly Source that is reporting an Empirical analysis of data](materials/template_summary_empirical_source.md)
+- [Template to summarize a Scholarly Source that is a Review of the existing literature](materials/template_summary_review_source.md)
+- [Peer Review Template](materials/template_peer_review.md)
+- [Essay Structure Template](tmaterials/emplate_essay_structure.md)
+- [UIUC Department of Psychology list of internal and external Mental Health Resources](https://psychology.illinois.edu/resources/mental-health-resources)
+- [UIUC Student Assistance Center for finding support for all kinds of issues](https://odos.illinois.edu/community-of-care/CAREcenter)
+- [UIUC Disability Resouces and Educational Services for accommodations](https://dres.illinois.edu/)
+- [UIUC DGS Student Success Toolkit for advice on note-taking, studying, and time management.](https://dgs.illinois.edu/toolkit)
+
 ## Schedule and Materials
 
 ### <a name="part_1"></a>Part I: Methods and Concepts
@@ -139,7 +153,6 @@ During the first half of the course we will also be reading through Catherine Ba
 - Brandes, N., Weissbrod, O., & Linial, M. (2022). Open problems in human trait genetics. Genome Biology, 23(1), 131. [https://doi.org/10.1186/s13059-022-02697-9](https://doi.org/10.1186/s13059-022-02697-9) (open access)
 - Briley, D. A., Livengood, J., Derringer, J., Tucker-Drob, E. M., Fraley, R. C., & Roberts, B. W. (2019). Interpreting behavior genetic models: seven developmental processes to understand. Behavior Genetics, 49, 196-210. [https://doi.org/10.1007/s10519-018-9939-6](https://doi.org/10.1007/s10519-018-9939-6)
 - Plomin, R., DeFries, J. C., Knopik, V. S., & Neiderhiser, J. M. (2016). Top 10 replicated findings from behavioral genetics. Perspectives on Psychological Science, 11(1), 3-23. [https://doi.org/10.1177/1745691615617439](https://doi.org/10.1177/1745691615617439)
-- Activity: [Identify Scholarly Sources](week_01/activity_identify_scholarly_sources.md)
 
 #### Week 2. [We've Been Wrong Before](week_02/weve_been_wrong_before.md)
 
@@ -156,6 +169,7 @@ During the first half of the course we will also be reading through Catherine Ba
 #### Week 3. [Finding and Reading Behavior Genetics Research](week_03/find_and_read_behavior_genetics.md)
 
 - Lectures: Monday, Wednesday, Friday
+- [Identify Scholarly Sources](week_03/identify_scholarly_sources.md)
 - [How To Read a Classical Twin Study](week_03/how_to_read_a_twin_study.md)
 - [How To Read a GWAS](week_03/how_to_read_a_gwas.md)
 - Baker, C. (2004). Chapter Four: How Is Genetic Research On Behavior Conducted? pp. 39-57. [open access book](https://www.aaas.org/resources/behavioral-genetics/publications)
@@ -185,7 +199,6 @@ During the first half of the course we will also be reading through Catherine Ba
 - Dauda, B., Molina, S. J., Allen, D. S., Fuentes, A., Ghosh, N., Mauro, M., ... & Lewis, A. C. (2023). Ancestry: How researchers use it and what they mean by it. Frontiers in Genetics, 14, 1044555. [https://doi.org/10.3389/fgene.2023.1044555](https://doi.org/10.3389/fgene.2023.1044555)
 - Martin, A. R., Kanai, M., Kamatani, Y., Okada, Y., Neale, B. M., & Daly, M. J. (2019). Clinical use of current polygenic risk scores may exacerbate health disparities. Nature Genetics, 51(4), 584-591. [https://doi.org/10.1038/s41588-019-0379-x](https://doi.org/10.1038/s41588-019-0379-x)
 - McLean, S. A. (2020). Social constructions, historical grounds. Practicing Anthropology, 42(3), 40-44. [https://doi.org/10.17730/0888-4552.42.3.32](https://doi.org/10.17730/0888-4552.42.3.32)
-- Watson, K. S., Cohn, E. G., Fair, A., Menon, U., Szalacha, L. A., Carpenter, S. M., & Wilkins, C. H. (2022). Adapting a conceptual framework to engage diverse stakeholders in genomic/precision medicine research. Health Expectations, 25(4), 1478-1485. [https://doi.org/10.1111/hex.13486](https://doi.org/10.1111/hex.13486) (open access)
 - Activity: [Summarize a Review Source](week_05/activity_summarize_a_review_source)
 - Activity: [Plot Ancestry Principle Components in R](week_05/activity_plot_ancestry_pcs.md)
 
@@ -314,16 +327,3 @@ During the first half of the course we will also be reading through Catherine Ba
 #### Finals Week
 - COURSE PROJECT: [Final Paper](week_15/course_project_final_paper.md) due by 5 pm on what would have been our "Finals Day" (TBD)
 
-### <a name="resources"></a>Frequently Used & Additional Resources
-
-- [Lecture recordings (Fall 2023) on Illinois Media Space](https://mediaspace.illinois.edu/channel/PSYC%2B408%2BFA23%2BHuman%2BBehavior%2BGenetics/313231162) (requires Illinois login)
-- [Twenty themes in behavior genetics](week_01/twenty_themes_in_behavior_genetics.md)
-- [Identify scholarly versus popular sources](week_01/activity_identify_scholarly_sources.md)
-- [Template to summarize a Scholarly Source that is reporting an Empirical analysis of data](materials/template_summary_empirical_source.md)
-- [Template to summarize a Scholarly Source that is a Review of the existing literature](materials/template_summary_review_source.md)
-- [Peer Review Template](materials/template_peer_review.md)
-- [Essay Structure Template](tmaterials/emplate_essay_structure.md)
-- [UIUC Department of Psychology list of internal and external Mental Health Resources](https://psychology.illinois.edu/resources/mental-health-resources)
-- [UIUC Student Assistance Center for finding support for all kinds of issues](https://odos.illinois.edu/community-of-care/CAREcenter)
-- [UIUC Disability Resouces and Educational Services for accommodations](https://dres.illinois.edu/)
-- [UIUC DGS Student Success Toolkit for advice on note-taking, studying, and time management.](https://dgs.illinois.edu/toolkit)
