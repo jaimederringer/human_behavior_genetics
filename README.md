@@ -6,16 +6,37 @@ permalink: index.html
 
 Author: [Jaime Derringer](https://www.jaime.phd/) (she/they), Associate Professor of Psychology, University of Illinois Urbana-Champaign
 
-This repository contains open educational resources (OER) for PSYC 408 Human Behavior Genetics. The last major update of content was for the Fall 2023 semester; it is currently being revised for the Fall 2025 semester.
+This repository contains open educational resources (OER) for PSYC 408 Human Behavior Genetics. 
 
-## Jump To...
+The last major update of content was for the Fall 2023 semester; it is currently being revised for the Fall 2025 semester. 
 
+- [Syllabus](#syllabus)
+	- Ethics Statement
+	- A Note on Pedagogy
+	- Course Structure
+	- Integry and "AI" Policy
+	- Accessing Course Readings
 - [Part I: Methods and Concepts (weeks 1-5)](#part_1)
+	- What We Know and What We Don't
+	- We've Been Wrong Before
+	- Finding and Reading Behavior Genetics Research
+	- Height: A Model Phenotype
+	- Ancestry: What It Is and Isn't
 - [Part II: Phenotypes and Processes (weeks 6-10)](#part_2)
+	- Schizophrenia: Psychometrics + Biometrics
+	- Autism: Heterogeneity and Disability Perspectives
+	- Causal Reasoning in Substance Use and Aggression
+	- Internaliing, Stress, and Gene-Environment Interaction
+	- Cognitive Ability, Educational Attainment, and Gene-Environment Correlation
 - [Part III: Applications and Ethics (weeks 11-15)](#part_3)
+	- Science Communication
+	- Data Privacy, Law Enforcement, and Discrimination
+	- Genetic Engineering
+	- Personalized Medicine, Personalized Education, and Direct-To-Consumer Tests
+	- GATTACA, and Genetics as a Social Construct
 - [Frequently Used & Additional Resources](#resources)
 
-## Learning Objectives
+## <a name="syllabus"></a>Syllabus
 
 The aim of this course is to provide students with a clearer understanding of the contribution that genes make to individual differences in behavior. Students will be in a better position to evaluate evidence for and against genetic and environmental influences. They will also gain an appreciation of the interrelationships of biological and social causes of behavior and will gain a better understanding of influences that might affect themselves and others.
 
@@ -30,13 +51,19 @@ There are no prerequisites for Psyc 408. If you think the material sounds intere
 ![ Alt Text](https://imgs.xkcd.com/comics/dna.png)
 xkcd, "DNA"
 
-## Ethics Statement
+### Ethics Statement
 
-The history of behavior genetics is inextricably linked with eugenics and racism. We will discuss the historical and current ways in which behavior genetics has been used to support white supremacy, sexism, homophobia, transphobia, and ableism. The use of behavior genetics research and principles to support racism and other forms of discrimination is based on (often willful) misinterpretation of the underlying statistical models on which the science relies. There are reasonable questions to be asked about whether it is possible to conduct behavior genetics research without doing harm to marginalized people. One goal of this course is to understand the forms of knowledge production that are used within behavior genetics, interrogate the limits of that knowledge, and consider how behavior genetics has been/is/will be used (and misused) to impact the lives of real people.
+The history of behavior genetics is inextricably linked with eugenics and racism. 
 
-## A Note on Pedagogy
+We will discuss the historical and current ways in which behavior genetics has been used to support white supremacy, sexism, homophobia, transphobia, and ableism. 
 
-I view my role as instructor as serving three primary purposes: (1) expert content curation, (2) accountability, and (3) a good live show (class sessions).
+The use of behavior genetics research and principles to support racism and other forms of discrimination is based on (often willful) misinterpretation of the underlying statistical models on which the science relies. 
+
+There are reasonable questions to be asked about whether it is possible to conduct behavior genetics research without doing harm to marginalized people. 
+
+One goal of this course is to understand the forms of knowledge production that are used within behavior genetics, interrogate the limits of that knowledge, and consider how behavior genetics has been/is/will be used (and misused) to impact the lives of real people.
+
+### A Note on Pedagogy
 
 The course that follows these materials, as I teach it, is a 15-week advanced undergraduate/introductory graduate course focused on developing core competencies that allow for the critical evaluation of current and future knowledge. Because genetics - especially as related to complex behaviors and experiences - is a constantly developing field, and because you never know what you might need to learn about in the future, I focus skill development on accessing, reading, evaluating, and synthesizing the primary research literature. There are no exams in my course, and the major grade/product is a term paper on any topic of the students' choosing (along with an accompanying piece of public-oriented science communication). Even in a large lecture course, I am able to manage individual development of highly specialized/selected areas of expertise by following a heavily scaffolded process (developed over a decade of teaching and growing this class) that helps students learn to learn.
 
@@ -46,9 +73,9 @@ This course is designed differently than the typical human behavior genetics cou
 
 If you are looking for material that takes a more standard approach to an introduction to human behavior genetics, I recommend Scott Stoltenberg's [Foundations of Behavior Genetics](https://www.cambridge.org/highereducation/books/foundations-of-behavior-genetics/D56A9C68E53ED87EAD1E5529A88CC3D0#overview) textbook and/or Matt McGue's [Introduction to Behavioral Genetics](https://www.coursera.org/learn/behavioralgenetics) course on Coursera. 
 
-## Course Structure
+### Course Structure
 
-Points earned for weekly participation activities and larger course project assignments are scaled such that each point is expected to take about 1 hour of effort, including time to prepare (e.g. read, think) and complete (e.g. write, edit) the task. Consistent with an expectation that a course takes about 3 times the number of credits in hours per week, as a 3-credit course (for undergrads), plan to spend an average of 9 hours per week working on this course.
+Consistent with an expectation that a course takes about 3 times the number of credits in hours per week, as a 3-credit course (for undergrads), plan to spend an average of 9 hours per week working on this course. Points earned for weekly participation activities and larger course project assignments are scaled such that each point is expected to take about 1 hour of effort, including time to prepare (e.g. read, think) and complete (e.g. write, edit) the task.
 
 **Grades** are based on the total number of points earned by the end of the semester. Points come from weekly activities (up to five points per week for 15 weeks) and a course project (including six assignments leading up to a term paper, totaling up to 60 points). There are potentially 135 points to be earned throughout the semester.
 
@@ -64,11 +91,11 @@ There are no +s or -s, only letter grades.
 
 You may notice that the table for converting points into final grades doesn't quite scale at 10% increments (eg. 90% of 135 is 122.5, but you only need 120 points to earn an A). The extra cushioning on each letter grade is intended to serve as buffer for flexibility for absences or missed assignments. 
 
-**Activities** are scaled so that about 1 hour of effort = 1 point. You can earn up to five points per week from activities. Every week there will be more than five options for activities available; you are welcome to choose-your-own-adventure in terms of which activities you complete. The list of activities available each week is contained as the 'module' for that week. You are expected to at least skim everything early in each week to (1) decide which activities you're going to do and (2) quickly be able to find and digest any particular section of readings that come up for discussion in class that week. 
+**Activities** are scaled so that 1 activity = about 1 hour of effort = 1 point. You can earn up to five points per week from activities. Every week there will be more than five options for activities available; you are welcome to choose-your-own-adventure in terms of which activities you complete. The list of activities available each week is contained as the 'module' for that week. You are expected to at least skim everything early in each week to (1) decide which activities you're going to do and (2) quickly be able to reference any particular section of readings that come up for discussion in class that week. 
 
 Weekly activities are due by Friday 5 pm that week. Late weekly activities may be submitted by Monday 5 pm for 80% credit.
 
-Each class attended earns 1 activity point. Lectures and discussions will be generally structured around the readings associated with that week. Class attendance points can't be made up or submitted late, but there will be at least five asynchonous Activity options each week, so even if you are unable to attend class you can still earn all of your weekly points. 
+Each class attended earns 1 activity point. Lectures and discussions will be generally structured around that week's readings. Class attendance points can't be made up or submitted late, but there will be at least five asynchonous activity options each week, so even if you are unable to attend class you can still earn all of your weekly points. 
 
 Outside of class, the most common weekly activity will be annotating/virtually discussing journal articles in Perusall. Perusall applies automatic scoring based on an algorithm that I define; usually, about 4 high-quality comments or replies on an article will earn a point.
 
@@ -164,7 +191,7 @@ During the first half of the course we will also be reading through Catherine Ba
 
 ### <a name="part_2"></a>Part II: Phenotypes and Processes
 
-#### Week 6. Schizophrenia: Phenotyping & Process
+#### Week 6. Schizophrenia: Psychometrics + Biometrics
 
 - Lectures: Monday, Wednesday
 - Open Work Session: Friday
@@ -176,7 +203,7 @@ During the first half of the course we will also be reading through Catherine Ba
 - Activity: [Summarize a Scholarly Source](week_06/activity_summarize_a_scholarly_source.md)
 - Activity: [Evaluate a Popular Source](week_06/activity_evaluate_a_popular_source.md)
 
-#### Week 7. Autism: Heterogeneity & Disability Perspectives
+#### Week 7. Autism: Heterogeneity and Disability Perspectives
 
 - Lectures: Monday, Wednesday
 - Open Work Session: Friday
@@ -188,7 +215,7 @@ During the first half of the course we will also be reading through Catherine Ba
 - Activity: [Evaluate a Popular Source](week_07/activity_evaluate_a_popular_source.md)
 
 
-#### Week 8. [Causal Reasoning in Substance Use & Aggression](week_08/causal_reasoning.md)
+#### Week 8. [Causal Reasoning in Substance Use and Aggression](week_08/causal_reasoning.md)
 
 - Lectures: Monday, Wednesday
 - Open Work Session: Friday
@@ -201,7 +228,7 @@ During the first half of the course we will also be reading through Catherine Ba
 - Activity: [Evaluate a Causal Claim](week_08/activity_evaluate_a_causal_claim.md)
 - COURSE PROJECT: [Ten Scholarly Source Summaries](week_08/course_project_ten_scholarly_source_summaries.md)
 
-#### Week 9. Internalizing, Stress, & Gene-Environment Interaction
+#### Week 9. Internalizing, Stress, and Gene-Environment Interaction
 
 - Lectures: Monday, Wednesday
 - Open Work Session: Friday
@@ -211,7 +238,7 @@ During the first half of the course we will also be reading through Catherine Ba
 - Levey, D. F., Stein, M. B., Wendt, F. R., Pathak, G. A., Zhou, H., Aslan, M., ... & Gelernter, J. (2021). Bi-ancestral depression GWAS in the Million Veteran Program and meta-analysis in> 1.2 million individuals highlight new therapeutic directions. Nature Neuroscience, 24(7), 954-963. [https://doi.org/10.1038/s41593-021-00860-2](https://doi.org/10.1038/s41593-021-00860-2)
 - Activity: [Contextualize a Popular Source](week_09/activity_contextualize_a_popular_source.md)
 
-#### Week 10. Cognitive Ability, Educational Attainment, & Gene-Environment Correlation
+#### Week 10. Cognitive Ability, Educational Attainment, and Gene-Environment Correlation
 
 - Lectures: Monday, Wednesday
 - Review Session: Friday
@@ -262,7 +289,7 @@ During the first half of the course we will also be reading through Catherine Ba
 - COURSE PROJECT: [Paper Peer Reviews](week_13/course_project_peer_review_papers.md)
 
 
-#### Week 14. At the Individual Level: Personalized Medicine, Personalized Education, and Direct-To-Consumer Tests
+#### Week 14. Personalized Medicine, Personalized Education, and Direct-To-Consumer Tests
 
 - Lecture: Monday
 - Discussion: Wednesday
@@ -275,7 +302,7 @@ During the first half of the course we will also be reading through Catherine Ba
 - Activity: [Identify Themes in a Popular Source](week_14/activity_identify_themes_in_a_popular_source.md)
 - COURSE PROJECT: [Final Popular Source](week_14/course_project_final_popular_source.md)
 
-#### Week 15. [GATTACA](week_15/gattaca.md)
+#### Week 15. [GATTACA, and Genetics as a Social Construct](week_15/gattaca.md)
 
 - Movie Showing & 20 Themes BINGO: Monday, Wednesday
 - Ogbunugafor, C. B., & Edge, M. D. (2022). Gattaca as a lens on contemporary genetics: marking 25 years into the film’s “not-too-distant” future. Genetics, 222(4), iyac142. [https://doi.org/10.1093/genetics/iyac142](https://doi.org/10.1093/genetics/iyac142) (open access)
