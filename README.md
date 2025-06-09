@@ -129,7 +129,7 @@ During the first half of the course we will also be reading through Catherine Ba
 ### Frequently Used & Additional Resources
 
 - [Lecture recordings (Fall 2023) on Illinois Media Space](https://mediaspace.illinois.edu/channel/PSYC%2B408%2BFA23%2BHuman%2BBehavior%2BGenetics/313231162) (requires Illinois login)
-- [Twenty themes in behavior genetics](week_01/twenty_themes_in_behavior_genetics.md)
+- [Twenty themes in behavior genetics](week_01/lecture_notes_what_we_know.md#20-themes)
 - [Identify scholarly versus popular sources](week_03/identify_scholarly_sources.md)
 - [Template to summarize a Scholarly Source that is reporting an Empirical analysis of data](materials/template_summary_empirical_source.md)
 - [Template to summarize a Scholarly Source that is a Review of the existing literature](materials/template_summary_review_source.md)
@@ -144,21 +144,23 @@ During the first half of the course we will also be reading through Catherine Ba
 
 ### <a name="part_1"></a>Part I: Methods and Concepts
 
-#### Week 1. [What We Know and What We Don't](week_01/what_we_know.md)
+#### Week 1. What We Know and What We Don't
 
 - Lectures: Monday, Wednesday, Friday
-- [What is Behavior Genetics?](week_01/what_is_behavior_genetics.md)
-- [Twenty Themes in Behavior Genetics](week_01/twenty_themes_in_behavior_genetics.md)
+- [Lecture Notes](week_01/lecture_notes_what_we_know.md)
+	- What is Behavior Genetics?
+	- 20 Themes in Behavior Genetics
 - Baker, C. (2004). Introduction & Chapter One: What Is Behavioral Genetics? pp. vii-xi, 1-7. [open access book](https://www.aaas.org/resources/behavioral-genetics/publications)
 - Brandes, N., Weissbrod, O., & Linial, M. (2022). Open problems in human trait genetics. Genome Biology, 23(1), 131. [https://doi.org/10.1186/s13059-022-02697-9](https://doi.org/10.1186/s13059-022-02697-9) (open access)
 - Briley, D. A., Livengood, J., Derringer, J., Tucker-Drob, E. M., Fraley, R. C., & Roberts, B. W. (2019). Interpreting behavior genetic models: seven developmental processes to understand. Behavior Genetics, 49, 196-210. [https://doi.org/10.1007/s10519-018-9939-6](https://doi.org/10.1007/s10519-018-9939-6)
 - Plomin, R., DeFries, J. C., Knopik, V. S., & Neiderhiser, J. M. (2016). Top 10 replicated findings from behavioral genetics. Perspectives on Psychological Science, 11(1), 3-23. [https://doi.org/10.1177/1745691615617439](https://doi.org/10.1177/1745691615617439)
 
-#### Week 2. [We've Been Wrong Before](week_02/weve_been_wrong_before.md)
+#### Week 2. We've Been Wrong Before
 
 - Lectures: Wednesday, Friday (No Class Monday, Labor Day)
-- [Candidate Genes](week_02/candidate_genes.md)
-- [A Very Brief History of Eugenics](week_02/eugenics.md)
+- [Lecture Notes](week_02/lecture_notes_weve_been_wrong_before.md)
+	- Candidate Genes
+	- A Very Brief History of Eugenics
 - Baker, C. (2004). Chapter Two: How Do Genes Work Within Their Environments? pp. 9-22. [open access book](https://www.aaas.org/resources/behavioral-genetics/publications)
 - Baker, C. (2004). Chapter Three: How Do Environments Impinge Upon Genes? pp. 25-37. [visit open access book](https://www.aaas.org/resources/behavioral-genetics/publications)
 - Allen, G. E. (1997). The social and economic origins of genetic determinism: a case history of the American Eugenics Movement, 1900–1940 and its lessons for today. Genetica, 99, 77-88. [https://doi.org/10.1007/BF02259511](https://doi.org/10.1007/BF02259511)
@@ -166,12 +168,13 @@ During the first half of the course we will also be reading through Catherine Ba
 - Rembis, M. A. (2009). (Re) Defining disability in the ‘genetic age’: Behavioral genetics,‘new’ eugenics and the future of impairment. Disability & Society, 24(5), 585-597. [https://doi.org/10.1080/09687590903010941](https://doi.org/10.1080/09687590903010941)
 - Activity: [Eugenics Journal Response](week_02/activity_eugenics_journal_response)
 
-#### Week 3. [Finding and Reading Behavior Genetics Research](week_03/find_and_read_behavior_genetics.md)
+#### Week 3. Finding and Reading Behavior Genetics Research
 
 - Lectures: Monday, Wednesday, Friday
-- [Identify Scholarly Sources](week_03/identify_scholarly_sources.md)
-- [How To Read a Classical Twin Study](week_03/how_to_read_a_twin_study.md)
-- [How To Read a GWAS](week_03/how_to_read_a_gwas.md)
+- [Lecture Notes](week_03/lecture_notes_find_and_read_behavior_genetics.md)
+	- Identify Scholarly Sources
+	- How To Read a Classical Twin Study
+	- How To Read a GWAS
 - Baker, C. (2004). Chapter Four: How Is Genetic Research On Behavior Conducted? pp. 39-57. [open access book](https://www.aaas.org/resources/behavioral-genetics/publications)
 - Eftedal, N. H. (2020, June 17). Estimating heritability of psychological traits using the classical twin design; a gentle introduction to concepts and assumptions. PsyArXiv. [https://doi.org/10.31234/osf.io/g3f9c](https://doi.org/10.31234/osf.io/g3f9c) (open access)
 - Tam, V., Patel, N., Turcotte, M., Bossé, Y., Paré, G., & Meyre, D. (2019). Benefits and limitations of genome-wide association studies. Nature Reviews Genetics, 20(8), 467-484. [https://doi.org/10.1038/s41576-019-0127-1](https://doi.org/10.1038/s41576-019-0127-1)
@@ -188,13 +191,14 @@ During the first half of the course we will also be reading through Catherine Ba
 - Activity: [Summarize an Empirical Source](week_04/activity_summarize_an_empirical_source)
 - Activity: [Course Project Topic & Five Scholarly Sources](week_04/activity_topic_and_five_scholarly_sources.md)
 
-#### Week 5. [Ancestry: What It Is and Isn't](week_05/ancestry_what_it_is_and_isnt.md)
+#### Week 5. Ancestry: What It Is and Isn't
 
 - Lecture: Monday
 - Discussion: Wednesday
 - Review Session: Friday
-- [Population Genetics](week_05/population_genetics.md)
-- [Scientific Racism](week_05/scientific_racism.md)
+- [Lecture Notes](week_05/lecture_notes_ancestry.md)
+	- Population Genetics
+	- Scientific Racism
 - Bird, K. A., & Carlson, J. (2024). Typological thinking in human genomics research contributes to the production and prominence of scientific racism. Frontiers in Genetics, 15, 1345631. [https://doi.org/10.3389/fgene.2024.1345631](https://doi.org/10.3389/fgene.2024.1345631)
 - Dauda, B., Molina, S. J., Allen, D. S., Fuentes, A., Ghosh, N., Mauro, M., ... & Lewis, A. C. (2023). Ancestry: How researchers use it and what they mean by it. Frontiers in Genetics, 14, 1044555. [https://doi.org/10.3389/fgene.2023.1044555](https://doi.org/10.3389/fgene.2023.1044555)
 - Martin, A. R., Kanai, M., Kamatani, Y., Okada, Y., Neale, B. M., & Daly, M. J. (2019). Clinical use of current polygenic risk scores may exacerbate health disparities. Nature Genetics, 51(4), 584-591. [https://doi.org/10.1038/s41588-019-0379-x](https://doi.org/10.1038/s41588-019-0379-x)
@@ -228,9 +232,10 @@ During the first half of the course we will also be reading through Catherine Ba
 - Activity: [Evaluate a Popular Source](week_07/activity_evaluate_a_popular_source.md)
 
 
-#### Week 8. [Causal Reasoning in Substance Use and Aggression](week_08/causal_reasoning.md)
+#### Week 8. Causal Reasoning in Substance Use and Aggression
 
 - Lectures: Monday, Wednesday
+- [Lecture Notes](week_08/lecture_notes_causal_reasoning.md)
 - Open Work Session: Friday
 - Baker, C. (2004). Chapter Six: How Is The Ability To Control Impulses Affected By Genes And Environments? pp. 75-95. [open access book](https://www.aaas.org/resources/behavioral-genetics/publications)
 - Briley, D. A., Livengood, J., & Derringer, J. (2018). Behaviour genetic frameworks of causal reasoning for personality psychology. European Journal of Personality, 32(3), 202-220. [https://doi.org/10.1002/per.2153](https://doi.org/10.1002/per.2153)
@@ -264,11 +269,12 @@ During the first half of the course we will also be reading through Catherine Ba
 
 ### <a name="part_3"></a>Part III: Applications and Ethics
 
-#### Week 11. [Science Communication](week_11/science_communication.md)
+#### Week 11. Science Communication
 
 - Lecture: Monday
 - Discussion: Wednesday
 - Open Work Session: Friday
+- [Lecture Notes](week_11/lecture_notes_science_communication.md)
 - Chapman, R., Likhanov, M., Selita, F., Zakharov, I., Smith-Woolley, E., & Kovas, Y. (2019). New literacy challenge for the twenty-first century: genetic knowledge is poor even among well educated. Journal of Community Genetics, 10, 73-84. [https://doi.org/10.1007/s12687-018-0363-7](https://doi.org/10.1007/s12687-018-0363-7) (open access)
 - Morosoli, J. J., Colodro-Conde, L., Barlow, F. K., & Medland, S. E. (2024). Scientific clickbait: Examining media coverage and readability in genome-wide association research. Plos one, 19(1), e0296323. [https://doi.org/10.1371/journal.pone.0296323](https://doi.org/10.1371/journal.pone.0296323) (open access)
 - Panofsky, A., Dasgupta, K., Iturriaga, N., & Koch, B. (2024). Confronting the “Weaponization” of Genetics by Racists Online and Elsewhere. Hastings Center Report, 54, S14-S21. [https://doi.org/10.1002/hast.4925](https://doi.org/10.1002/hast.4925) (open access)
@@ -289,11 +295,12 @@ During the first half of the course we will also be reading through Catherine Ba
 - Activity: [Write an Imaginary Press Release](week_12/activity_write_an_imaginary_press_release.md)
 - COURSE PROJECT: [Draft Popular Source](week_12/course_project_draft_popular_source.md)
 
-#### Week 13. [Genetic Engineering](week_13/genetic_engineering.md)
+#### Week 13. Genetic Engineering
 
 - Lecture: Monday
 - Discussion: Wednesday
 - No Class: Friday
+- [Lecture Notes]((week_13/lecture_notes_genetic_engineering.md))
 - Doudna, J. A. (2020). The promise and challenge of therapeutic genome editing. Nature, 578(7794), 229-236. [https://doi.org/10.1038/s41586-020-1978-5](https://doi.org/10.1038/s41586-020-1978-5)
 - Grebe, T. A., Khushf, G., Greally, J. M., Turley, P., Foyouzi, N., Rabin-Havt, S., ... & Social, A. C. M. G. (2024). Clinical utility of polygenic risk scores for embryo selection: A points to consider statement of the American College of Medical Genetics and Genomics (ACMG). Genetics in Medicine, 26(4), 101052. https://doi.org/10.1016/j.gim.2023.101052
 - Gyngell, C., Bowman-Smart, H., & Savulescu, J. (2019). Moral reasons to edit the human genome: picking up from the Nuffield report. Journal of Medical Ethics, 45(8), 514-523. [http://dx.doi.org/10.1136/medethics-2018-105084](http://dx.doi.org/10.1136/medethics-2018-105084) (open access)
@@ -315,9 +322,10 @@ During the first half of the course we will also be reading through Catherine Ba
 - Activity: [Identify Themes in a Popular Source](week_14/activity_identify_themes_in_a_popular_source.md)
 - COURSE PROJECT: [Final Popular Source](week_14/course_project_final_popular_source.md)
 
-#### Week 15. [GATTACA, and Genetics as a Social Construct](week_15/gattaca.md)
+#### Week 15. GATTACA, and Genetics as a Social Construct
 
 - Movie Showing & 20 Themes BINGO: Monday, Wednesday
+- [Lecture Notes](week_15/lecture_notes_gattaca.md)
 - Ogbunugafor, C. B., & Edge, M. D. (2022). Gattaca as a lens on contemporary genetics: marking 25 years into the film’s “not-too-distant” future. Genetics, 222(4), iyac142. [https://doi.org/10.1093/genetics/iyac142](https://doi.org/10.1093/genetics/iyac142) (open access)
 - So, D., Crocker, K., Sladek, R., & Joly, Y. (2022). Science fiction authors’ perspectives on human genetic engineering. Medical Humanities, 48(3), 285-297. [https://doi.org/10.1136/medhum-2020-012041](https://doi.org/10.1136/medhum-2020-012041)
 - Activity: [Genetics in Fiction](week_15/activity_genetics_in_fiction.md)
